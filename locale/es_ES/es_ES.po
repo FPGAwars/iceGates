@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-09-13 19:35+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: translation.js\n"
+
+#: translation.js:10 translation.js:12 translation.js:17
+msgid "Not"
+msgstr ""
+
+#: translation.js:11 translation.js:18
+msgid "01-bit"
+msgstr ""
+
+#: translation.js:13
+msgid "NOT gate (Verilog implementation)"
+msgstr "Puerta Not (Implementación en verilog)"
+
+#: translation.js:14
+msgid "Input"
+msgstr "Entrada"
+
+#: translation.js:15
+msgid "Output"
+msgstr "Salida"
+
+#: translation.js:16
+msgid "TESTs"
+msgstr "Pruebas"
+
+#: translation.js:19
+msgid "Alhambra-II"
+msgstr ""
+
+#: translation.js:20
+msgid "01-manual-btn-led"
+msgstr ""
+
+#: translation.js:21
+msgid ""
+"# Not gate: Manual testing with a pushbutton and an LED\n"
+"\n"
+"When the button SW1 is not pressed, the input is 0. The output of the  \n"
+"not is 1 and the LED is on  \n"
+"When the button SW1 is pressed, the input is 1, the output 0 and the  \n"
+"LED is off"
+msgstr ""
+"# Puerta Not: Prueba manual con un pulsador y un LED\n"
+"\n"
+"Cuando el pulsador SW1 NO está pulsado, la entrada es 0. La salida de la  \n"
+"not es 1 y el LED está encendido  \n"
+"Cuando se aprieta el botón SW1, la entrada es 1, la salida 0 y el  \n"
+"LED se apaga"

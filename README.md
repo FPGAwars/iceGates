@@ -5,6 +5,8 @@
 
 Logic gates.
 
+![](wiki/iceGates-logo.png)
+
 ## Install
 
 * Download the collection: [stable](https://github.com/FPGAwars/iceGates/archive/v0.1.0.zip) or [development](https://github.com/FPGAwars/iceGates/archive/master.zip)

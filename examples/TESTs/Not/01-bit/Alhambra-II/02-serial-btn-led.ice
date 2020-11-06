@@ -31,26 +31,6 @@
           }
         },
         {
-          "id": "a9814943-4883-417c-ad4b-b253740558f0",
-          "type": "basic.inputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "out",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true
-          },
-          "position": {
-            "x": -464,
-            "y": -192
-          }
-        },
-        {
           "id": "3d4838b1-57f7-4a77-9557-2df2954b303e",
           "type": "basic.inputLabel",
           "data": {
@@ -183,29 +163,31 @@
           }
         },
         {
-          "id": "c3149c56-43ba-412a-bbae-fa6fc64819a4",
-          "type": "basic.output",
+          "id": "a9814943-4883-417c-ad4b-b253740558f0",
+          "type": "basic.inputLabel",
           "data": {
-            "name": "LED",
+            "blockColor": "darkgreen",
+            "name": "out",
             "pins": [
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "45"
+                "name": "NULL",
+                "value": "NULL"
               }
             ],
-            "virtual": false
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": -432,
-            "y": -80
+            "x": -608,
+            "y": -88
           }
         },
         {
           "id": "a2980661-24a5-4e00-9bc2-a71c0bb488e2",
           "type": "basic.outputLabel",
           "data": {
-            "blockColor": "fuchsia",
+            "blockColor": "navy",
             "name": "in",
             "pins": [
               {
@@ -214,11 +196,12 @@
                 "value": "NULL"
               }
             ],
-            "virtual": true
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": -752,
-            "y": -80
+            "x": -904,
+            "y": -88
           }
         },
         {
@@ -242,30 +225,10 @@
           }
         },
         {
-          "id": "7e2724f3-cec9-4879-a761-371a8f2bc357",
-          "type": "basic.inputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "in",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true
-          },
-          "position": {
-            "x": -664,
-            "y": 160
-          }
-        },
-        {
           "id": "7d216b6c-295b-4b27-8fde-9e0b5dcb42d7",
           "type": "basic.outputLabel",
           "data": {
-            "blockColor": "fuchsia",
+            "blockColor": "navy",
             "name": "in",
             "pins": [
               {
@@ -274,11 +237,33 @@
                 "value": "NULL"
               }
             ],
-            "virtual": true
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": -144,
+            "x": -72,
             "y": 168
+          }
+        },
+        {
+          "id": "7e2724f3-cec9-4879-a761-371a8f2bc357",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "navy",
+            "name": "in",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": -664,
+            "y": 216
           }
         },
         {
@@ -323,6 +308,46 @@
           }
         },
         {
+          "id": "c3149c56-43ba-412a-bbae-fa6fc64819a4",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED0",
+                "value": "45"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 920,
+            "y": 248
+          }
+        },
+        {
+          "id": "0e8e02c2-4ef6-4c87-b0e7-d7189d3d625a",
+          "type": "basic.outputLabel",
+          "data": {
+            "blockColor": "darkgreen",
+            "name": "out",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": 768,
+            "y": 248
+          }
+        },
+        {
           "id": "9f3a5831-7138-424c-bace-94bc1302b3d6",
           "type": "basic.input",
           "data": {
@@ -346,7 +371,7 @@
           "id": "5cf023b7-7a9f-45a1-9b29-52cec750f8a0",
           "type": "basic.outputLabel",
           "data": {
-            "blockColor": "fuchsia",
+            "blockColor": "darkgreen",
             "name": "out",
             "pins": [
               {
@@ -359,7 +384,7 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": -136,
+            "x": -72,
             "y": 304
           }
         },
@@ -380,8 +405,8 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": -136,
-            "y": 384
+            "x": -72,
+            "y": 408
           }
         },
         {
@@ -401,7 +426,7 @@
           "id": "ac5d6475-21f1-415c-9ff9-480ad6d77c1c",
           "type": "basic.constant",
           "data": {
-            "name": "",
+            "name": "New line",
             "value": "\"\\n\"",
             "local": false
           },
@@ -414,8 +439,8 @@
           "id": "8e6be3c5-1ac2-4cef-83d2-7e30b79231d8",
           "type": "3676a00f3a70e406487ed14b901daf3e4984e63d",
           "position": {
-            "x": -600,
-            "y": -80
+            "x": -752,
+            "y": -88
           },
           "size": {
             "width": 96,
@@ -426,16 +451,16 @@
           "id": "88dab35d-f6d0-49c2-8189-2061c5e5d39a",
           "type": "basic.info",
           "data": {
-            "info": "# Not gate: Manual testing with serial output\n\n",
+            "info": "# Not gate: Manual testing with serial output\n\nThe SW1 pushbutton is used for seting the input to the not gate  \nThe output of the NOT gate is shown on LED0  \nAdditionally, when the sw1 is pressed, both the input and output of the NOT  \ngate are printed on the console:  \n\n```\n0-1\n1-0\n0-1\n```\n\n",
             "readonly": true
           },
           "position": {
-            "x": -936,
-            "y": -344
+            "x": -960,
+            "y": -520
           },
           "size": {
-            "width": 640,
-            "height": 72
+            "width": 744,
+            "height": 200
           }
         },
         {
@@ -569,19 +594,217 @@
             "width": 96,
             "height": 128
           }
+        },
+        {
+          "id": "bd0e8827-721c-4f3d-ac6a-cb5e8d545c28",
+          "type": "basic.info",
+          "data": {
+            "info": "## Unit Under Test",
+            "readonly": true
+          },
+          "position": {
+            "x": -888,
+            "y": -200
+          },
+          "size": {
+            "width": 384,
+            "height": 48
+          }
+        },
+        {
+          "id": "3e71113e-776c-4733-b509-d40c76530513",
+          "type": "basic.info",
+          "data": {
+            "info": "Input",
+            "readonly": true
+          },
+          "position": {
+            "x": -880,
+            "y": -128
+          },
+          "size": {
+            "width": 112,
+            "height": 32
+          }
+        },
+        {
+          "id": "6f5139a6-a5d3-40cf-848b-f4d6c98206e6",
+          "type": "basic.info",
+          "data": {
+            "info": "Output",
+            "readonly": true
+          },
+          "position": {
+            "x": -592,
+            "y": -120
+          },
+          "size": {
+            "width": 112,
+            "height": 32
+          }
+        },
+        {
+          "id": "7194ca6b-18cf-4a03-aa45-f0dd16f989b5",
+          "type": "basic.info",
+          "data": {
+            "info": "Show the output on LED0",
+            "readonly": true
+          },
+          "position": {
+            "x": 824,
+            "y": 200
+          },
+          "size": {
+            "width": 248,
+            "height": 40
+          }
+        },
+        {
+          "id": "1ba99b8f-a3a0-46e7-858e-58346a8be543",
+          "type": "basic.info",
+          "data": {
+            "info": "Set the not input with the  \npushbutton 1",
+            "readonly": true
+          },
+          "position": {
+            "x": -904,
+            "y": 160
+          },
+          "size": {
+            "width": 264,
+            "height": 56
+          }
+        },
+        {
+          "id": "76ae10ae-ef2b-4134-9338-567ac5839088",
+          "type": "basic.info",
+          "data": {
+            "info": "Whenever there is a change in the button 1  \n(pressed or released) or in the begining  \n(when the circuit is started) both the  \nNOT input and output are captured and printed  \non the console",
+            "readonly": true
+          },
+          "position": {
+            "x": -800,
+            "y": 488
+          },
+          "size": {
+            "width": 424,
+            "height": 96
+          }
+        },
+        {
+          "id": "325a34ee-28ca-43b5-b11d-428ac592ba6d",
+          "type": "basic.info",
+          "data": {
+            "info": "Capture the input and output of   \nthe NOT gate",
+            "readonly": true
+          },
+          "position": {
+            "x": -560,
+            "y": 152
+          },
+          "size": {
+            "width": 328,
+            "height": 48
+          }
+        },
+        {
+          "id": "23b614c7-6aac-402c-8c0a-0256967c3086",
+          "type": "basic.info",
+          "data": {
+            "info": "Print their values  \non the console",
+            "readonly": true
+          },
+          "position": {
+            "x": -320,
+            "y": 296
+          },
+          "size": {
+            "width": 168,
+            "height": 56
+          }
+        },
+        {
+          "id": "cb7e4d76-8ac1-430e-bea0-a7edc8e7164b",
+          "type": "basic.info",
+          "data": {
+            "info": "## Printing the state on the Console",
+            "readonly": true
+          },
+          "position": {
+            "x": 120,
+            "y": -296
+          },
+          "size": {
+            "width": 376,
+            "height": 40
+          }
+        },
+        {
+          "id": "e151c91f-151a-4aeb-bee2-7b1d95e31d7a",
+          "type": "basic.info",
+          "data": {
+            "info": "Intput value",
+            "readonly": true
+          },
+          "position": {
+            "x": 288,
+            "y": -176
+          },
+          "size": {
+            "width": 128,
+            "height": 40
+          }
+        },
+        {
+          "id": "521e2285-a709-4c1c-baef-6cbc03ad734d",
+          "type": "basic.info",
+          "data": {
+            "info": "Output value",
+            "readonly": true
+          },
+          "position": {
+            "x": 664,
+            "y": -168
+          },
+          "size": {
+            "width": 216,
+            "height": 40
+          }
+        },
+        {
+          "id": "07cb5049-6ecb-4acc-b66e-321f607b3b5d",
+          "type": "basic.info",
+          "data": {
+            "info": "Input value  \ncaptured",
+            "readonly": true
+          },
+          "position": {
+            "x": 112,
+            "y": 80
+          },
+          "size": {
+            "width": 112,
+            "height": 56
+          }
+        },
+        {
+          "id": "5bc636c0-ce44-42d7-b8a1-17cd8a2dca69",
+          "type": "basic.info",
+          "data": {
+            "info": "Output value  \ncaptured",
+            "readonly": true
+          },
+          "position": {
+            "x": 128,
+            "y": 408
+          },
+          "size": {
+            "width": 184,
+            "height": 48
+          }
         }
       ],
       "wires": [
-        {
-          "source": {
-            "block": "8e6be3c5-1ac2-4cef-83d2-7e30b79231d8",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "c3149c56-43ba-412a-bbae-fa6fc64819a4",
-            "port": "in"
-          }
-        },
         {
           "source": {
             "block": "8e6be3c5-1ac2-4cef-83d2-7e30b79231d8",
@@ -886,6 +1109,16 @@
           "target": {
             "block": "45d351cd-9320-4d4d-ac11-aa5547b1ae0a",
             "port": "1ac9dd5b-9741-4af4-963a-50cbf8c4c6be"
+          }
+        },
+        {
+          "source": {
+            "block": "0e8e02c2-4ef6-4c87-b0e7-d7189d3d625a",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "c3149c56-43ba-412a-bbae-fa6fc64819a4",
+            "port": "in"
           }
         }
       ]

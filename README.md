@@ -5,7 +5,8 @@
 
 Logic gates.
 
-![](wiki/iceGates-logo.png)
+[](wiki/iceGates-logo.png)
+
 
 ## Install
 
@@ -24,7 +25,15 @@ Logic gates.
     * *01-bit*
       * *Alhambra-II*
         * 01-manual-btn-led
+        * 02-serial-btn-led
+        * 03-icerok-btn-led
+        * 04-auto-check-icerok
+        * 05-Truth-table
 
+## Languages
+| Language | Translated strings |
+|:--------:|:------------------:|
+| es_ES | ![Progress](http://progressed.io/bar/55) |
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)

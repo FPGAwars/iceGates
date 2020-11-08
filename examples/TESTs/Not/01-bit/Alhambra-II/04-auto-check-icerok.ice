@@ -26,8 +26,154 @@
             "virtual": false
           },
           "position": {
-            "x": 552,
-            "y": -424
+            "x": 800,
+            "y": -432
+          }
+        },
+        {
+          "id": "e8c105d7-48d1-4f34-8869-e65fd77d94a8",
+          "type": "basic.outputLabel",
+          "data": {
+            "blockColor": "fuchsia",
+            "name": "init",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": 440,
+            "y": -328
+          }
+        },
+        {
+          "id": "391a4256-b1a4-4073-a8b0-6a28818ee56c",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "red",
+            "name": "test_fail",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": 816,
+            "y": -328
+          }
+        },
+        {
+          "id": "e91ccb84-c674-4aa0-8742-f128473ba4bd",
+          "type": "basic.outputLabel",
+          "data": {
+            "blockColor": "darkgreen",
+            "name": "out",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": 440,
+            "y": -272
+          }
+        },
+        {
+          "id": "d2437f98-2ba4-44c6-918f-8694b7d1f6b3",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "springgreen",
+            "name": "test_ok",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": 808,
+            "y": -264
+          }
+        },
+        {
+          "id": "e64a317a-d63c-4dc6-9273-2353c71cc159",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "fuchsia",
+            "name": "init",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": -16,
+            "y": -264
+          }
+        },
+        {
+          "id": "9f3a5831-7138-424c-bace-94bc1302b3d6",
+          "type": "basic.input",
+          "data": {
+            "name": "Button",
+            "pins": [
+              {
+                "index": "0",
+                "name": "SW1",
+                "value": "34"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": -312,
+            "y": -264
+          }
+        },
+        {
+          "id": "45f3cbbb-c253-419b-b811-70a7fc43c4b3",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "navy",
+            "name": "in",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": 776,
+            "y": -184
           }
         },
         {
@@ -81,8 +227,8 @@
             "virtual": false
           },
           "position": {
-            "x": 904,
-            "y": -352
+            "x": 672,
+            "y": -88
           }
         },
         {
@@ -102,137 +248,15 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": 560,
-            "y": -320
-          }
-        },
-        {
-          "id": "e64a317a-d63c-4dc6-9273-2353c71cc159",
-          "type": "basic.inputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "init",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true,
-            "oldBlockColor": "fuchsia"
-          },
-          "position": {
-            "x": -24,
-            "y": -296
-          }
-        },
-        {
-          "id": "9f3a5831-7138-424c-bace-94bc1302b3d6",
-          "type": "basic.input",
-          "data": {
-            "name": "Button",
-            "pins": [
-              {
-                "index": "0",
-                "name": "SW1",
-                "value": "34"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": -320,
-            "y": -296
-          }
-        },
-        {
-          "id": "e8c105d7-48d1-4f34-8869-e65fd77d94a8",
-          "type": "basic.outputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "init",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true,
-            "oldBlockColor": "fuchsia"
-          },
-          "position": {
-            "x": 232,
-            "y": -224
-          }
-        },
-        {
-          "id": "e91ccb84-c674-4aa0-8742-f128473ba4bd",
-          "type": "basic.outputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "out",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true
-          },
-          "position": {
-            "x": 232,
-            "y": -128
-          }
-        },
-        {
-          "id": "45f3cbbb-c253-419b-b811-70a7fc43c4b3",
-          "type": "basic.inputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "in",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true
-          },
-          "position": {
-            "x": 536,
-            "y": -128
-          }
-        },
-        {
-          "id": "98590e78-bf93-4bd7-93ae-4b9e4c9bbf07",
-          "type": "basic.inputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "out",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true
-          },
-          "position": {
-            "x": -48,
-            "y": -48
+            "x": 320,
+            "y": -32
           }
         },
         {
           "id": "9cb43de5-5304-42f1-8dc2-3a473caad787",
           "type": "basic.outputLabel",
           "data": {
-            "blockColor": "fuchsia",
+            "blockColor": "navy",
             "name": "in",
             "pins": [
               {
@@ -241,11 +265,75 @@
                 "value": "NULL"
               }
             ],
-            "virtual": true
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
           },
           "position": {
             "x": -328,
-            "y": -48
+            "y": -24
+          }
+        },
+        {
+          "id": "98590e78-bf93-4bd7-93ae-4b9e4c9bbf07",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "darkgreen",
+            "name": "out",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": -32,
+            "y": -24
+          }
+        },
+        {
+          "id": "4d2879ad-c9ad-423c-814b-eca309dc7b9b",
+          "type": "basic.outputLabel",
+          "data": {
+            "blockColor": "red",
+            "name": "test_fail",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": 312,
+            "y": 96
+          }
+        },
+        {
+          "id": "708e3dac-ad5d-4413-83be-9d00273ccb33",
+          "type": "basic.outputLabel",
+          "data": {
+            "blockColor": "springgreen",
+            "name": "test_ok",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": 304,
+            "y": 224
           }
         },
         {
@@ -253,7 +341,7 @@
           "type": "3676a00f3a70e406487ed14b901daf3e4984e63d",
           "position": {
             "x": -184,
-            "y": -48
+            "y": -24
           },
           "size": {
             "width": 96,
@@ -264,24 +352,24 @@
           "id": "88dab35d-f6d0-49c2-8189-2061c5e5d39a",
           "type": "basic.info",
           "data": {
-            "info": "# Not gate: Auto-checking\n\n",
+            "info": "# Not gate: Auto-checking\n\nWhen the button 1 is pressed the not gate is tested. The testbench  \ncomponent set different values in the not input and check the output.  \nIt the outputs of the not gate are correct, a cyclon-like sequence is  \nshown on the LEDs. Otherwise the 8 leds start blink for indicating that  \ntest has not been passed\n",
             "readonly": true
           },
           "position": {
             "x": -352,
-            "y": -440
+            "y": -632
           },
           "size": {
-            "width": 352,
-            "height": 64
+            "width": 592,
+            "height": 152
           }
         },
         {
           "id": "be439c89-531d-401a-9a5e-7aa7ce97c715",
           "type": "2107ac7691a91a762c2d0be100faaabd6189973a",
           "position": {
-            "x": -160,
-            "y": -312
+            "x": -152,
+            "y": -280
           },
           "size": {
             "width": 96,
@@ -289,11 +377,11 @@
           }
         },
         {
-          "id": "6d5fe7e9-b947-41ff-9e06-433c05d8a9f8",
+          "id": "f1c76cd0-29fa-4724-bde0-cf2dd12da345",
           "type": "ee18181230725ea5bdef123d2e1e3e8ae4fdd27d",
           "position": {
-            "x": 728,
-            "y": -272
+            "x": 496,
+            "y": -8
           },
           "size": {
             "width": 96,
@@ -301,11 +389,123 @@
           }
         },
         {
-          "id": "f03cf687-f0b0-49c4-91b3-f992fb25bab1",
-          "type": "354fbe74f88b9b6cd29ed5ce09a49c3baf24968e",
+          "id": "5c78cb9a-1219-4b69-b704-3a033b4def6c",
+          "type": "basic.info",
+          "data": {
+            "info": "Press the button to start  \nthe test",
+            "readonly": true
+          },
           "position": {
-            "x": 392,
-            "y": -272
+            "x": -288,
+            "y": -328
+          },
+          "size": {
+            "width": 240,
+            "height": 48
+          }
+        },
+        {
+          "id": "c9314745-baf1-4543-b660-9b664e120e13",
+          "type": "basic.info",
+          "data": {
+            "info": "## Unit Under Test",
+            "readonly": true
+          },
+          "position": {
+            "x": -320,
+            "y": -128
+          },
+          "size": {
+            "width": 384,
+            "height": 48
+          }
+        },
+        {
+          "id": "5131383b-a3f5-4624-b9e7-5aab2d353c5c",
+          "type": "basic.info",
+          "data": {
+            "info": "## TestBench\n\nGenerate test values for the NOT input and check  \nits outputs. A final pulse is generated either on  \ntest_fail or test_ok",
+            "readonly": true
+          },
+          "position": {
+            "x": 424,
+            "y": -560
+          },
+          "size": {
+            "width": 432,
+            "height": 104
+          }
+        },
+        {
+          "id": "855abd36-1d92-4a2d-86bd-b697fb6b6232",
+          "type": "basic.info",
+          "data": {
+            "info": "The results can also be  \ncaptured and viewed  \nwith the icerok Plugin",
+            "readonly": true
+          },
+          "position": {
+            "x": 928,
+            "y": -424
+          },
+          "size": {
+            "width": 224,
+            "height": 72
+          }
+        },
+        {
+          "id": "a22f26c7-c7ac-452a-a1fd-4c8c2efae49b",
+          "type": "basic.info",
+          "data": {
+            "info": "## Display the result on the LEDs",
+            "readonly": true
+          },
+          "position": {
+            "x": 280,
+            "y": -152
+          },
+          "size": {
+            "width": 304,
+            "height": 40
+          }
+        },
+        {
+          "id": "1e0a89b6-c4d1-4628-9e70-d9cb59e9c3f5",
+          "type": "basic.info",
+          "data": {
+            "info": "Test not passed:  \nthe 8 LEDs are blinking",
+            "readonly": true
+          },
+          "position": {
+            "x": 208,
+            "y": 40
+          },
+          "size": {
+            "width": 216,
+            "height": 64
+          }
+        },
+        {
+          "id": "8dd9d603-0c94-40a1-be41-c946f8066ca2",
+          "type": "basic.info",
+          "data": {
+            "info": "Test OK:  \nZylong sequence on  \nthe 8 LEDs",
+            "readonly": true
+          },
+          "position": {
+            "x": 224,
+            "y": 160
+          },
+          "size": {
+            "width": 216,
+            "height": 64
+          }
+        },
+        {
+          "id": "133b6781-1393-4f94-a612-eeec0d7eafc2",
+          "type": "f359b1433d9b2167b25674203c3339d28dd21933",
+          "position": {
+            "x": 592,
+            "y": -376
           },
           "size": {
             "width": 96,
@@ -314,16 +514,6 @@
         }
       ],
       "wires": [
-        {
-          "source": {
-            "block": "9cb43de5-5304-42f1-8dc2-3a473caad787",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "8e6be3c5-1ac2-4cef-83d2-7e30b79231d8",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
         {
           "source": {
             "block": "be439c89-531d-401a-9a5e-7aa7ce97c715",
@@ -340,55 +530,15 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "6d5fe7e9-b947-41ff-9e06-433c05d8a9f8",
+            "block": "f1c76cd0-29fa-4724-bde0-cf2dd12da345",
             "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
           },
           "vertices": [
             {
-              "x": 672,
-              "y": -240
+              "x": 440,
+              "y": 24
             }
           ]
-        },
-        {
-          "source": {
-            "block": "e8c105d7-48d1-4f34-8869-e65fd77d94a8",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "f03cf687-f0b0-49c4-91b3-f992fb25bab1",
-            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
-          }
-        },
-        {
-          "source": {
-            "block": "f03cf687-f0b0-49c4-91b3-f992fb25bab1",
-            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
-          },
-          "target": {
-            "block": "45f3cbbb-c253-419b-b811-70a7fc43c4b3",
-            "port": "inlabel"
-          }
-        },
-        {
-          "source": {
-            "block": "e91ccb84-c674-4aa0-8742-f128473ba4bd",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "f03cf687-f0b0-49c4-91b3-f992fb25bab1",
-            "port": "94c08004-cb40-47ad-8f01-ebd460afc436"
-          }
-        },
-        {
-          "source": {
-            "block": "8e6be3c5-1ac2-4cef-83d2-7e30b79231d8",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "98590e78-bf93-4bd7-93ae-4b9e4c9bbf07",
-            "port": "inlabel"
-          }
         },
         {
           "source": {
@@ -402,7 +552,7 @@
         },
         {
           "source": {
-            "block": "6d5fe7e9-b947-41ff-9e06-433c05d8a9f8",
+            "block": "f1c76cd0-29fa-4724-bde0-cf2dd12da345",
             "port": "9132d898-35ea-465b-997b-0ad218601b71"
           },
           "target": {
@@ -413,7 +563,37 @@
         },
         {
           "source": {
-            "block": "f03cf687-f0b0-49c4-91b3-f992fb25bab1",
+            "block": "708e3dac-ad5d-4413-83be-9d00273ccb33",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "f1c76cd0-29fa-4724-bde0-cf2dd12da345",
+            "port": "83259047-1882-4128-817b-f952ddb5d00a"
+          }
+        },
+        {
+          "source": {
+            "block": "4d2879ad-c9ad-423c-814b-eca309dc7b9b",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "f1c76cd0-29fa-4724-bde0-cf2dd12da345",
+            "port": "94f9ad65-c9f4-40a7-8ae6-3f65b9d0c0bf"
+          }
+        },
+        {
+          "source": {
+            "block": "e8c105d7-48d1-4f34-8869-e65fd77d94a8",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "133b6781-1393-4f94-a612-eeec0d7eafc2",
+            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
+          }
+        },
+        {
+          "source": {
+            "block": "133b6781-1393-4f94-a612-eeec0d7eafc2",
             "port": "50733c52-12e1-430f-bf6b-58821cfb7e89"
           },
           "target": {
@@ -423,22 +603,62 @@
         },
         {
           "source": {
-            "block": "f03cf687-f0b0-49c4-91b3-f992fb25bab1",
+            "block": "133b6781-1393-4f94-a612-eeec0d7eafc2",
             "port": "54d3334c-e429-4ba8-84c1-9be130670127"
           },
           "target": {
-            "block": "6d5fe7e9-b947-41ff-9e06-433c05d8a9f8",
-            "port": "94f9ad65-c9f4-40a7-8ae6-3f65b9d0c0bf"
+            "block": "391a4256-b1a4-4073-a8b0-6a28818ee56c",
+            "port": "inlabel"
           }
         },
         {
           "source": {
-            "block": "f03cf687-f0b0-49c4-91b3-f992fb25bab1",
+            "block": "133b6781-1393-4f94-a612-eeec0d7eafc2",
             "port": "90aadec4-dfb2-43c5-bbbe-9b20b2101bb1"
           },
           "target": {
-            "block": "6d5fe7e9-b947-41ff-9e06-433c05d8a9f8",
-            "port": "83259047-1882-4128-817b-f952ddb5d00a"
+            "block": "d2437f98-2ba4-44c6-918f-8694b7d1f6b3",
+            "port": "inlabel"
+          }
+        },
+        {
+          "source": {
+            "block": "133b6781-1393-4f94-a612-eeec0d7eafc2",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "45f3cbbb-c253-419b-b811-70a7fc43c4b3",
+            "port": "inlabel"
+          }
+        },
+        {
+          "source": {
+            "block": "9cb43de5-5304-42f1-8dc2-3a473caad787",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "8e6be3c5-1ac2-4cef-83d2-7e30b79231d8",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "e91ccb84-c674-4aa0-8742-f128473ba4bd",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "133b6781-1393-4f94-a612-eeec0d7eafc2",
+            "port": "94c08004-cb40-47ad-8f01-ebd460afc436"
+          }
+        },
+        {
+          "source": {
+            "block": "8e6be3c5-1ac2-4cef-83d2-7e30b79231d8",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "98590e78-bf93-4bd7-93ae-4b9e4c9bbf07",
+            "port": "inlabel"
           }
         }
       ]
@@ -3019,13 +3239,13 @@
         }
       }
     },
-    "354fbe74f88b9b6cd29ed5ce09a49c3baf24968e": {
+    "f359b1433d9b2167b25674203c3339d28dd21933": {
       "package": {
-        "name": "Generic-comp",
+        "name": "TB-not",
         "version": "0.1",
-        "description": "Componente genérico",
+        "description": "Testbench for the not gate",
         "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20viewBox=%220%200%2032%2032%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cpath%20d=%22M16%206.958a1%201%200%200%201-1-1V2.042a1%201%200%200%201%202%200v3.917a1%201%200%200%201-1%201zM11%207a1%201%200%200%201-1-1V2a1%201%200%200%201%202%200v4a1%201%200%200%201-1%201zM21%207a1%201%200%200%201-1-1V2a1%201%200%201%201%202%200v4a1%201%200%200%201-1%201zM16%2030.959a1%201%200%200%201-1-1v-3.917a1%201%200%200%201%202%200v3.916a1%201%200%200%201-1%201zM11%2031a1%201%200%200%201-1-1v-4a1%201%200%200%201%202%200v4a1%201%200%200%201-1%201zM21%2031a1%201%200%200%201-1-1v-4a1%201%200%201%201%202%200v4a1%201%200%200%201-1%201z%22%20fill=%22#4391B2%22/%3E%3Cg%3E%3Cpath%20d=%22M5.958%2017H2.042a1%201%200%200%201%200-2h3.917a1%201%200%200%201%200%202zM6%2022H2a1%201%200%200%201%200-2h4a1%201%200%200%201%200%202zM6%2012H2a1%201%200%200%201%200-2h4a1%201%200%200%201%200%202zM29.958%2017h-3.916a1%201%200%201%201%200-2h3.916a1%201%200%201%201%200%202zM30%2022h-4a1%201%200%201%201%200-2h4a1%201%200%201%201%200%202zM30%2012h-4a1%201%200%201%201%200-2h4a1%201%200%201%201%200%202z%22%20fill=%22#4391B2%22/%3E%3C/g%3E%3Cg%3E%3Cpath%20d=%22M27%206v20c0%20.55-.45%201-1%201H6c-.55%200-1-.45-1-1V6c0-.55.45-1%201-1h20c.55%200%201%20.45%201%201z%22%20fill=%22#48B1DD%22/%3E%3C/g%3E%3Cg%3E%3Cpath%20d=%22M23%2012v8c0%201.65-1.35%203-3%203h-8c-1.65%200-3-1.35-3-3v-8c0-1.65%201.35-3%203-3h8c1.65%200%203%201.35%203%203z%22%20fill=%22#96CEE5%22/%3E%3C/g%3E%3C/svg%3E",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22317.537%22%20height=%22315.358%22%20version=%221%22%3E%3Cpath%20d=%22M69.19%20125.3l161.86%2093.027-161.86%2093.031z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linejoin=%22round%22/%3E%3Cellipse%20cx=%22253.295%22%20cy=%22218.036%22%20rx=%2221.393%22%20ry=%2221.893%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4%20218.79h65.262m205.796%200h38.48%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%2282.276%22%20y=%22232.069%22%20transform=%22scale(.99532%201.0047)%22%20font-weight=%22400%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%2282.276%22%20y=%22232.069%22%20style=%22line-height:1.25;-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2249.675%22%3ENot%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2212.783%22%20y=%2281.442%22%20font-weight=%22400%22%20font-size=%22109.732%22%20font-family=%22sans-serif%22%20fill=%22green%22%3E%3Ctspan%20x=%2212.783%22%20y=%2281.442%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%3ETEST%3C/tspan%3E%3C/text%3E%3C/svg%3E",
         "otid": 1600149893236
       },
       "design": {
@@ -3056,15 +3276,7 @@
               "id": "50733c52-12e1-430f-bf6b-58821cfb7e89",
               "type": "basic.output",
               "data": {
-                "name": "tx",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "TX",
-                    "value": "61"
-                  }
-                ],
-                "virtual": false
+                "name": "icerok_tx"
               },
               "position": {
                 "x": 1880,
@@ -3077,14 +3289,6 @@
               "data": {
                 "blockColor": "fuchsia",
                 "name": "tx",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -3129,15 +3333,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "busy",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "busy"
               },
               "position": {
                 "x": 1728,
@@ -3148,15 +3344,7 @@
               "id": "bf2e8874-c55d-45ef-b238-d01afec65081",
               "type": "basic.output",
               "data": {
-                "name": "busy",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "D5",
-                    "value": "7"
-                  }
-                ],
-                "virtual": false
+                "name": "busy"
               },
               "position": {
                 "x": 1880,
@@ -3180,15 +3368,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "busy",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "busy"
               },
               "position": {
                 "x": 904,
@@ -3200,8 +3380,7 @@
               "type": "basic.input",
               "data": {
                 "name": "start",
-                "clock": false,
-                "virtual": false
+                "clock": false
               },
               "position": {
                 "x": -304,
@@ -3254,15 +3433,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "out",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "out"
               },
               "position": {
                 "x": 608,
@@ -3274,15 +3445,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "error_tic",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "error_tic"
               },
               "position": {
                 "x": 1720,
@@ -3293,15 +3456,7 @@
               "id": "54d3334c-e429-4ba8-84c1-9be130670127",
               "type": "basic.output",
               "data": {
-                "name": "error",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "D5",
-                    "value": "7"
-                  }
-                ],
-                "virtual": false
+                "name": "error"
               },
               "position": {
                 "x": 1880,
@@ -3313,8 +3468,7 @@
               "type": "basic.input",
               "data": {
                 "name": "out",
-                "clock": false,
-                "virtual": false
+                "clock": false
               },
               "position": {
                 "x": -304,
@@ -3346,15 +3500,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "done",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "done"
               },
               "position": {
                 "x": 1080,
@@ -3366,15 +3512,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "out_v",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "out_v"
               },
               "position": {
                 "x": 608,
@@ -3411,14 +3549,6 @@
               "data": {
                 "blockColor": "fuchsia",
                 "name": "ok_tic",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -3430,15 +3560,7 @@
               "id": "90aadec4-dfb2-43c5-bbbe-9b20b2101bb1",
               "type": "basic.output",
               "data": {
-                "name": "ok",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "D5",
-                    "value": "7"
-                  }
-                ],
-                "virtual": false
+                "name": "ok"
               },
               "position": {
                 "x": 1888,
@@ -3492,14 +3614,6 @@
               "data": {
                 "blockColor": "fuchsia",
                 "name": "init",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -3513,14 +3627,6 @@
               "data": {
                 "blockColor": "fuchsia",
                 "name": "stop",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -3534,14 +3640,6 @@
               "data": {
                 "blockColor": "fuchsia",
                 "name": "ok_tic",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -3553,8 +3651,7 @@
               "id": "4e8afe74-8f38-4873-97ee-f7585d99a4aa",
               "type": "basic.output",
               "data": {
-                "name": "in",
-                "virtual": false
+                "name": "in"
               },
               "position": {
                 "x": 1888,
@@ -3566,15 +3663,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "in",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "in"
               },
               "position": {
                 "x": 1728,
@@ -3594,7 +3683,8 @@
                     "value": "NULL"
                   }
                 ],
-                "virtual": true
+                "virtual": true,
+                "oldBlockColor": "fuchsia"
               },
               "position": {
                 "x": 1552,
@@ -3607,14 +3697,6 @@
               "data": {
                 "blockColor": "fuchsia",
                 "name": "init",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -3648,15 +3730,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "error_tic",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "error_tic"
               },
               "position": {
                 "x": 992,
@@ -3688,15 +3762,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "busy",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "busy"
               },
               "position": {
                 "x": 888,
@@ -3729,15 +3795,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "done",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "done"
               },
               "position": {
                 "x": 384,
@@ -3749,15 +3807,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "out",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "out"
               },
               "position": {
                 "x": 992,
@@ -3769,15 +3819,7 @@
               "type": "basic.outputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "in",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "in"
               },
               "position": {
                 "x": 888,
@@ -3811,14 +3853,6 @@
               "data": {
                 "blockColor": "fuchsia",
                 "name": "error_flag",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -3832,14 +3866,6 @@
               "data": {
                 "blockColor": "fuchsia",
                 "name": "init",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {

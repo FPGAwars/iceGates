@@ -73,8 +73,8 @@
           }
         },
         {
-          "id": "70cf460a-f0b0-4afb-bbda-4cb08fd62e87",
-          "type": "8363dda4f015db24e0d8a52f51c5cff039a30cd1",
+          "id": "1b6dc4a4-0dbc-4b1e-b3c7-ae7773e9e696",
+          "type": "54420f5912f59fcd5d3dc29449dd919953ff8ba8",
           "position": {
             "x": 600,
             "y": -184
@@ -88,7 +88,7 @@
       "wires": [
         {
           "source": {
-            "block": "70cf460a-f0b0-4afb-bbda-4cb08fd62e87",
+            "block": "1b6dc4a4-0dbc-4b1e-b3c7-ae7773e9e696",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -102,7 +102,7 @@
             "port": "out"
           },
           "target": {
-            "block": "70cf460a-f0b0-4afb-bbda-4cb08fd62e87",
+            "block": "1b6dc4a4-0dbc-4b1e-b3c7-ae7773e9e696",
             "port": "56fac371-6080-47cf-ac44-5f54ee28144d"
           },
           "size": 2
@@ -111,7 +111,7 @@
     }
   },
   "dependencies": {
-    "8363dda4f015db24e0d8a52f51c5cff039a30cd1": {
+    "54420f5912f59fcd5d3dc29449dd919953ff8ba8": {
       "package": {
         "name": "AND-BUS2",
         "version": "1.0",
@@ -160,8 +160,8 @@
               }
             },
             {
-              "id": "8f183c93-ef02-48cf-94bc-17886a256c4a",
-              "type": "fc9dacc62ad25cd2832c3442bf277af9b708249b",
+              "id": "40b169e6-4971-468a-b19a-2dbd57e9c376",
+              "type": "0dbcb9470111c4072304f196bb9e5ac39f4ccfb7",
               "position": {
                 "x": 176,
                 "y": 72
@@ -185,7 +185,7 @@
             },
             {
               "source": {
-                "block": "8f183c93-ef02-48cf-94bc-17886a256c4a",
+                "block": "40b169e6-4971-468a-b19a-2dbd57e9c376",
                 "port": "f5a71d7b-de20-4527-80c8-0eb20de0dc77"
               },
               "target": {
@@ -195,7 +195,7 @@
             },
             {
               "source": {
-                "block": "8f183c93-ef02-48cf-94bc-17886a256c4a",
+                "block": "40b169e6-4971-468a-b19a-2dbd57e9c376",
                 "port": "0f7487e5-b070-4277-bba6-acf69934afca"
               },
               "target": {
@@ -209,7 +209,7 @@
                 "port": "out"
               },
               "target": {
-                "block": "8f183c93-ef02-48cf-94bc-17886a256c4a",
+                "block": "40b169e6-4971-468a-b19a-2dbd57e9c376",
                 "port": "a409d207-7594-4558-8e15-89712262cf5b"
               },
               "size": 2
@@ -329,11 +329,11 @@
         }
       }
     },
-    "fc9dacc62ad25cd2832c3442bf277af9b708249b": {
+    "0dbcb9470111c4072304f196bb9e5ac39f4ccfb7": {
       "package": {
-        "name": "Separador-bus",
+        "name": "Bus2-Split-all",
         "version": "0.1",
-        "description": "Separador de bus de 2-bits en dos cables",
+        "description": "Bus2-Split-all: Split the 2-bits bus into two wires",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22354.768%22%20height=%22241.058%22%20viewBox=%220%200%20332.59497%20225.99201%22%3E%3Cpath%20d=%22M168.377%2077.643l61.147-60.938C240.21%206.25%20254.56.461%20269.484.5h62.611v26.186l-61.698.046c-8.012-.043-15.705%203.133-21.47%208.81L187.48%2096.857a57.292%2057.292%200%200%201-39.993%2016.139%2057.292%2057.292%200%200%201%2039.993%2016.14l61.448%2061.314c5.765%205.677%2013.458%208.853%2021.47%208.81l61.698.046v26.186h-62.612c-14.924.039-29.463-5.9-40.204-16.28l-60.902-60.863a29.857%2029.857%200%200%200-21.347-8.81L.5%20139.427V86.457h146.524a29.884%2029.884%200%200%200%2021.353-8.814z%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
       },
@@ -344,36 +344,36 @@
               "id": "f5a71d7b-de20-4527-80c8-0eb20de0dc77",
               "type": "basic.output",
               "data": {
-                "name": "o1"
+                "name": "1"
               },
               "position": {
-                "x": 568,
-                "y": 144
+                "x": 552,
+                "y": 128
               }
             },
             {
               "id": "a409d207-7594-4558-8e15-89712262cf5b",
               "type": "basic.input",
               "data": {
-                "name": "i",
+                "name": "",
                 "range": "[1:0]",
                 "clock": false,
                 "size": 2
               },
               "position": {
-                "x": 120,
-                "y": 200
+                "x": 136,
+                "y": 184
               }
             },
             {
               "id": "0f7487e5-b070-4277-bba6-acf69934afca",
               "type": "basic.output",
               "data": {
-                "name": "o0"
+                "name": "0"
               },
               "position": {
-                "x": 568,
-                "y": 272
+                "x": 552,
+                "y": 240
               }
             },
             {
@@ -405,8 +405,8 @@
                 "y": 176
               },
               "size": {
-                "width": 192,
-                "height": 112
+                "width": 208,
+                "height": 80
               }
             }
           ],

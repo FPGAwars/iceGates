@@ -60,7 +60,7 @@
           "id": "e03fe9c4-c907-4bcb-8e35-8e38dad399a6",
           "type": "basic.info",
           "data": {
-            "info": "# And-Bus2 gate: Manual testing with two pushbutton and an LED\n\nThe LED is only turned on when both buttons are pressed at the same  \ntime",
+            "info": "# AND-Bus2 gate: Manual testing with two pushbutton and an LED\n\nThe LED is only turned on when both buttons are pressed at the same  \ntime",
             "readonly": true
           },
           "position": {

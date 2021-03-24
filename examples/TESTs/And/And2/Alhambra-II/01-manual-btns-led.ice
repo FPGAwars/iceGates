@@ -86,7 +86,7 @@
           "id": "e03fe9c4-c907-4bcb-8e35-8e38dad399a6",
           "type": "basic.info",
           "data": {
-            "info": "# And gate: Manual testing with two pushbutton and an LED\n\nThe LED is only turned on when both buttons are pressed at the same  \ntime",
+            "info": "# AND gate: Manual testing with two pushbuttons and one LED\n\nThe LED is only turned on when both buttons are pressed at the same  \ntime",
             "readonly": true
           },
           "position": {
@@ -94,8 +94,8 @@
             "y": -424
           },
           "size": {
-            "width": 656,
-            "height": 88
+            "width": 840,
+            "height": 96
           }
         },
         {

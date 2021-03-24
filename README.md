@@ -5,9 +5,6 @@
 
 Logic gates.
 
-[](wiki/iceGates-logo.png)
-
-
 ## Install
 
 * Download the collection: [stable](https://github.com/FPGAwars/iceGates/archive/v0.1.0.zip) or [development](https://github.com/FPGAwars/iceGates/archive/master.zip)
@@ -15,12 +12,25 @@ Logic gates.
 * Load the collection: *Select > Collection*
 
 ## Blocks
+* *And*
+  * And2
 * *Not*
   * *01-bit*
     * Not
+* *Testbenches*
+  * TB_Display
+  * TB_not
 
 ## Examples
 * *TESTs*
+  * *And*
+    * *And2*
+      * *Alhambra-II*
+        * 01-manual-btns-led
+        * 02-icerok-btns-led
+        * *ice-build*
+          * *01-manual-btns-led*
+          * *02-icerok-btns-led*
   * *Not*
     * *01-bit*
       * *Alhambra-II*
@@ -29,11 +39,15 @@ Logic gates.
         * 03-icerok-btn-led
         * 04-auto-check-icerok
         * 05-Truth-table
+        * *ice-build*
+          * *01-manual-btn-led*
+          * *02-serial-btn-led*
+          * *03-icerok-btn-led*
 
 ## Languages
 | Language | Translated strings |
 |:--------:|:------------------:|
-| es_ES | ![Progress](http://progressed.io/bar/55) |
+| es_ES | ![Progress](http://progressed.io/bar/15) |
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)

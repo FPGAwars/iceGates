@@ -7,7 +7,7 @@ Logic gates.
 
 ## Install
 
-* Download the collection: [stable](https://github.com/FPGAwars/iceGates/archive/v0.1.0.zip) or [development](https://github.com/FPGAwars/iceGates/archive/master.zip)
+* Download the collection (.Zip file from the Releases (stable) or .zip from Code/Download as .zip (unstable))
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 
@@ -74,7 +74,7 @@ Logic gates.
 ## Languages
 | Language | Translated strings |
 |:--------:|:------------------:|
-| es_ES | ![Progress](http://progressed.io/bar/29) |
+| es_ES | ! 100%  |
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)

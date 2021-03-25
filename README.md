@@ -7,7 +7,7 @@ Logic gates.
 
 ## Install
 
-* Download the collection (.Zip file from the Releases (stable) or .zip from Code/Download as .zip (unstable))
+* Download the collection (.Zip file): [Stable](https://github.com/FPGAwars/iceGates/archive/refs/tags/v0.1.0.zip), or [unstable](https://github.com/FPGAwars/iceGates/archive/refs/heads/master.zip)
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 

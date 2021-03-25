@@ -1,8 +1,8 @@
 {
-  "name": "iceGates",
+  "name": "icegates",
   "version": "0.1.0",
   "description": "Logic gates",
-  "keywords": "logic, combinational, gate",
+  "keywords": ["logic", "combinational", "gate"],
   "license": "GPL-2.0",
   "authors": [{
     "name": "Juan Gonzalez-Gomez (Obijuan)",

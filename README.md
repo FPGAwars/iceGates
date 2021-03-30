@@ -1,4 +1,4 @@
-# iceGates Collection
+# icegates Collection
 
 [![Icestudio](https://img.shields.io/badge/collection-icestudio-blue.svg)](https://github.com/FPGAwars/icestudio)
 ![Version](https://img.shields.io/badge/version-v0.1.0-orange.svg)
@@ -7,7 +7,7 @@ Logic gates.
 
 ## Install
 
-* Download the collection (.Zip file): [Stable](https://github.com/FPGAwars/iceGates/archive/refs/tags/v0.1.0.zip), or [unstable](https://github.com/FPGAwars/iceGates/archive/refs/heads/master.zip)
+* Download the collection: [stable](https://github.com/FPGAwars/iceGates/archive/v0.1.0.zip) or [development](https://github.com/FPGAwars/iceGates/archive/master.zip)
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 
@@ -25,6 +25,12 @@ Logic gates.
     * Not
 * *Or*
   * Or2
+  * Or3
+  * Or4
+  * *Or-Bus*
+    * Or-bus2
+    * Or-bus3
+    * Or-bus4
 * *Testbenches*
   * TB_Display
   * TB_not
@@ -53,6 +59,8 @@ Logic gates.
       * *Alhambra-II*
         * 01-manual-btns-led
         * 02-icerok-btns-led
+        * *ice-build*
+          * *02-icerok-btns-led*
   * *Not*
     * *01-bit*
       * *Alhambra-II*
@@ -61,20 +69,37 @@ Logic gates.
         * 03-icerok-btn-led
         * 04-auto-check-icerok
         * 05-Truth-table
+        * *ice-build*
+          * *03-icerok-btn-led*
   * *Or*
+    * *Or-Bus*
+      * *Or-Bus2*
+        * *Alhambra-II*
+          * 01-manual-btns-led
+      * *Or-Bus3*
+        * *Alhambra-II*
+          * 01-manual-btns-led
+      * *Or-Bus4*
+        * *Alhambra-II*
+          * 01-manual-btns-led
     * *Or2*
+      * *Alhambra-II*
+        * 01-manual-btns-led
+    * *Or3*
+      * *Alhambra-II*
+        * 01-manual-btns-led
+    * *Or4*
       * *Alhambra-II*
         * 01-manual-btns-led
   * *Xor*
     * *Xor2*
       * *Alhambra-II*
         * 01-manual-btns-led
-        * *ice-build*
 
 ## Languages
 | Language | Translated strings |
 |:--------:|:------------------:|
-| es_ES | ! 100%  |
+| es_ES | ![Progress](http://progressed.io/bar/31) |
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)

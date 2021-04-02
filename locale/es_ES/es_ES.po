@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-04-02 11:50+0200\n"
+"POT-Creation-Date: 2021-04-02 12:05+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,63 +14,59 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: translation.js\n"
 
-#: translation.js:10 translation.js:210
+#: translation.js:10 translation.js:72
 msgid "And"
 msgstr "And"
 
-#: translation.js:11 translation.js:34 translation.js:211
+#: translation.js:11 translation.js:33 translation.js:73
 msgid "Not"
 msgstr "Not"
 
-#: translation.js:12 translation.js:212
+#: translation.js:12 translation.js:74
 msgid "Or"
 msgstr "Or"
 
-#: translation.js:13
-msgid "Testbenches"
-msgstr "Testbenches"
-
-#: translation.js:14 translation.js:213
+#: translation.js:13 translation.js:75
 msgid "Xor"
 msgstr "Xor"
 
-#: translation.js:15 translation.js:214
+#: translation.js:14 translation.js:76
 msgid "And-Bus"
 msgstr "And-Bus"
 
-#: translation.js:16 translation.js:215
+#: translation.js:15 translation.js:77
 msgid "And-Busen"
 msgstr "And-Busen"
 
-#: translation.js:17 translation.js:216
+#: translation.js:16 translation.js:78
 msgid "And-Op"
 msgstr "And-Op"
 
-#: translation.js:18 translation.js:217
+#: translation.js:17 translation.js:79
 msgid "And2"
 msgstr "And2"
 
-#: translation.js:19
+#: translation.js:18
 msgid "Two bits input And gate"
 msgstr "Puerta AND de 2 entradas de un bit"
 
-#: translation.js:20 translation.js:218
+#: translation.js:19 translation.js:80
 msgid "And-Bus2"
 msgstr "And-Bus2"
 
-#: translation.js:21
+#: translation.js:20
 msgid "AND-BUS2. And gate with 2-bits bus input"
 msgstr "AND-BUS2. Puerta AND con entrada de bus de 2 bits"
 
-#: translation.js:22
+#: translation.js:21
 msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
-msgstr ""
+msgstr "Bus2-Split-all: Separar el bus de 2 bits en sus cables"
 
-#: translation.js:23
+#: translation.js:22
 msgid "And-Busen2"
 msgstr "And-Busen2"
 
-#: translation.js:24
+#: translation.js:23
 msgid ""
 "AND-Busen-2: Enable a 2-bits bus. When the enable signal is 0, the output is "
 "0"
@@ -78,924 +74,209 @@ msgstr ""
 "AND-Busen-2: Habilitar un bus de dos bits. Cuando la señal de enable es 0, "
 "la salida es 0"
 
-#: translation.js:25
+#: translation.js:24
 msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
-msgstr ""
+msgstr "Bus2-Join-all: Agrupar dos cables en un bus de 2 bits"
+
+#: translation.js:25
+msgid "Enable input"
+msgstr "Habilitar la entrada"
 
 #: translation.js:26
-msgid "Enable input"
-msgstr ""
-
-#: translation.js:27
 msgid "Bus input"
 msgstr "Bus de entrada"
 
-#: translation.js:28
+#: translation.js:27
 msgid "Bus output"
 msgstr "Bus de salida"
 
-#: translation.js:29 translation.js:228
+#: translation.js:28 translation.js:90
 msgid "And-Op-2"
 msgstr "And-Op-2"
 
-#: translation.js:30
+#: translation.js:29
 msgid "AND-Op2: And operation between two numbers of 2 bits"
 msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
 
-#: translation.js:31
+#: translation.js:30
 msgid "Operand 1"
 msgstr "Operando 1"
 
-#: translation.js:32
+#: translation.js:31
 msgid "Operand 2"
 msgstr "Operando 2"
 
-#: translation.js:33 translation.js:236
+#: translation.js:32 translation.js:98
 msgid "01-bit"
-msgstr ""
+msgstr "01-bit"
 
-#: translation.js:35
+#: translation.js:34
 msgid "NOT gate (Verilog implementation)"
 msgstr "Puerta Not (Implementación en verilog)"
 
-#: translation.js:36
+#: translation.js:35
 msgid "Input"
 msgstr "Entrada"
 
-#: translation.js:37
+#: translation.js:36
 msgid "Output"
 msgstr "Salida"
 
-#: translation.js:38 translation.js:240
+#: translation.js:37 translation.js:102
 msgid "Or-Bus"
 msgstr "Or-Bus"
 
-#: translation.js:39 translation.js:241
+#: translation.js:38 translation.js:103
 msgid "Or2"
 msgstr "Or2"
 
-#: translation.js:40
+#: translation.js:39
 msgid "OR2: Two bits input OR gate"
 msgstr "OR2: Puerta OR de entradas de un bit"
 
-#: translation.js:41 translation.js:242
+#: translation.js:40 translation.js:104
 msgid "Or3"
 msgstr "Or3"
 
-#: translation.js:42
+#: translation.js:41
 msgid "OR3: Three bits input OR gate"
 msgstr "OR3: Puerta OR de 3  entradas de un bit"
 
-#: translation.js:43 translation.js:243
+#: translation.js:42 translation.js:105
 msgid "Or4"
 msgstr "Or4"
 
-#: translation.js:44
+#: translation.js:43
 msgid "OR4: Four bits input OR gate"
 msgstr "OR4: Puerta OR de entradas de un bit"
 
-#: translation.js:45 translation.js:244
-#, fuzzy
-#| msgid "Or"
+#: translation.js:44 translation.js:106
 msgid "Or7"
-msgstr "Or"
+msgstr "Or7"
 
-#: translation.js:46
-#, fuzzy
-#| msgid "OR3: Three bits input OR gate"
+#: translation.js:45
 msgid "Or7: Seven bits input OR gate"
-msgstr "OR3: Puerta OR de 3  entradas de un bit"
+msgstr "OR7: Puerta OR de 7 entradas de un bit"
 
-#: translation.js:47 translation.js:245
-#, fuzzy
-#| msgid "Or"
+#: translation.js:46 translation.js:107
 msgid "Or8"
-msgstr "Or"
+msgstr "Or8"
+
+#: translation.js:47
+msgid "OR8: Eight bits input OR gate"
+msgstr "OR8: Puerta OR de 8  entradas de un bit"
 
 #: translation.js:48
-#, fuzzy
-#| msgid "OR3: Three bits input OR gate"
-msgid "OR8: Eight bits input OR gate"
-msgstr "OR3: Puerta OR de 3  entradas de un bit"
+msgid "Or-bus2"
+msgstr "Or-bus2"
 
 #: translation.js:49
-msgid "Or-bus2"
-msgstr ""
-
-#: translation.js:50
 msgid "OR-BUS2: OR gate with 2-bits bus input"
 msgstr "OR-BUS2. Puerta OR con entrada de bus de 2 bits"
 
-#: translation.js:51
+#: translation.js:50
 msgid "Or-bus3"
-msgstr ""
+msgstr "Or-bus3"
 
-#: translation.js:52
+#: translation.js:51
 msgid "OR-BUS3: OR gate with 3-bits bus input"
 msgstr "OR-BUS3. Puerta OR con entrada de bus de 3 bits"
 
-#: translation.js:53
+#: translation.js:52
 msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
-msgstr ""
+msgstr "Bus3-Split-all: Separar el bus de 3 bits en sus cables"
+
+#: translation.js:53
+msgid "Or-bus4"
+msgstr "Or-bus4"
 
 #: translation.js:54
-msgid "Or-bus4"
-msgstr ""
-
-#: translation.js:55
 msgid "OR-BUS4: OR gate with 4-bits bus input"
 msgstr "OR-BUS4. Puerta OR con entrada de bus de 4 bits"
 
-#: translation.js:56
+#: translation.js:55
 msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
-msgstr ""
+msgstr "Bus4-Split-all: Separar el bus de 4 bits en sus cables"
+
+#: translation.js:56
+msgid "Or-bus7"
+msgstr "Or-bus7"
 
 #: translation.js:57
-msgid "Or-bus7"
-msgstr ""
+msgid "OR-BUS7: OR gate with 7-bits bus input"
+msgstr "OR-BUS7. Puerta OR con entrada de bus de 7 bits"
 
 #: translation.js:58
-#, fuzzy
-#| msgid "OR-BUS2: OR gate with 2-bits bus input"
-msgid "OR-BUS7: OR gate with 7-bits bus input"
-msgstr "OR-BUS2. Puerta OR con entrada de bus de 2 bits"
+msgid "Bus7-Split-all: Split the 7-bits bus into its wires"
+msgstr "Bus7-Split-all: Separar el bus de 7 bits en sus cables"
 
 #: translation.js:59
-msgid "Bus7-Split-all: Split the 7-bits bus into its wires"
-msgstr ""
+msgid "Or-bus8"
+msgstr "Or-bus8"
 
 #: translation.js:60
-msgid "Or-bus8"
-msgstr ""
+msgid "OR-BUS8: OR gate with 8-bits bus input"
+msgstr "OR-BUS8. Puerta OR con entrada de bus de 8 bits"
 
 #: translation.js:61
-#, fuzzy
-#| msgid "OR-BUS2: OR gate with 2-bits bus input"
-msgid "OR-BUS8: OR gate with 8-bits bus input"
-msgstr "OR-BUS2. Puerta OR con entrada de bus de 2 bits"
-
-#: translation.js:62
 msgid "Bus8-Split-all: Split the 8-bits bus into its wires"
-msgstr ""
+msgstr "Bus8-Split-all: Separar el bus de 8 bits en sus cables"
 
-#: translation.js:63
-msgid "TB_Display"
-msgstr "TB_Display"
-
-#: translation.js:64
-msgid "Display the Testbench result on the LEDs"
-msgstr ""
-
-#: translation.js:65
-msgid "Secuencia del coche fantástico, con entrada de enable"
-msgstr ""
-
-#: translation.js:66
-msgid ""
-"Corazón de bombeo de tics con periodo paramétrico de milisegundos y entrada "
-"de enable"
-msgstr ""
-
-#: translation.js:67
-msgid "Contador módulo M, ascendente, de 4 bits, con reset "
-msgstr ""
-
-#: translation.js:68
-msgid "Circuito combinacional de 4 entradas y 8 salidas"
-msgstr ""
-
-#: translation.js:69
-msgid "Baliza luminosa de 1 led. Parpadea a 2Hz cuando se activa"
-msgstr ""
-
-#: translation.js:70
-msgid "Bombear 2 bits por segundo"
-msgstr ""
-
-#: translation.js:71
-msgid ""
-"Corazon genérico para bombear bits a la frecuencia fijada en Hz (por defecto "
-"1Hz)"
-msgstr ""
-
-#: translation.js:72
-msgid "Puerta AND"
-msgstr ""
-
-#: translation.js:73
-msgid ""
-"Multiplicador de cables. Genera un bus de 8 bits, a patir del bit de entrada"
-msgstr ""
-
-#: translation.js:74
-msgid "Multiplexor de 2 a 1 de 8 bits"
-msgstr ""
-
-#: translation.js:75
-msgid ""
-"Biestable con entradas de Set y Reset síncronas, para poner y quitar "
-"notaficaciones de eventos"
-msgstr ""
-
-#: translation.js:76
-msgid "### SUCESS animation"
-msgstr "### Animación de éxito"
-
-#: translation.js:77
-msgid "### Test not passed"
-msgstr "### Test no pasado"
-
-#: translation.js:78
-msgid "Sequence state: on/off"
-msgstr ""
-
-#: translation.js:79
-msgid ""
-"The \"Knight rider\" sequence  \n"
-"on the LEDs"
-msgstr ""
-
-#: translation.js:80
-msgid ""
-"Blink all the leds at the  \n"
-"same time"
-msgstr ""
-
-#: translation.js:81
-msgid "**Parámetro**: Módulo del contador"
-msgstr ""
-
-#: translation.js:82
-msgid ""
-"**Baliza luminosa**\n"
-"\n"
-"Parpadeo del LED a 2Hz"
-msgstr ""
-
-#: translation.js:83
-msgid ""
-"Creado a partir de un **corazón  \n"
-"genérico**, dando el valor adecuado  \n"
-"a su parámetro frecuencia"
-msgstr ""
-
-#: translation.js:84
-msgid "TB_not"
-msgstr "TB_not"
-
-#: translation.js:85
-msgid "Testbench for the not gate"
-msgstr "Banco de pruebas para la puerta Not"
-
-#: translation.js:86
-msgid "Circuito combinacional de 4 entradas y 2 salidas"
-msgstr ""
-
-#: translation.js:87
-msgid "Separador de bus de 2-bits en dos cables"
-msgstr ""
-
-#: translation.js:88
-msgid "Comparador de dos operandos de 1 bit"
-msgstr ""
-
-#: translation.js:89
-msgid "Puerta NOT"
-msgstr ""
-
-#: translation.js:90
-msgid "Demultiplexor de 1 bit, de 1 a 2"
-msgstr ""
-
-#: translation.js:91
-msgid "16B memory icerok probe"
-msgstr ""
-
-#: translation.js:92
-msgid "16B memory. Bus interface"
-msgstr ""
-
-#: translation.js:93
-msgid "16 Bytes Synchronous memory"
-msgstr ""
-
-#: translation.js:94
-msgid "Join the fields into one 16B memory bus"
-msgstr ""
-
-#: translation.js:95
-msgid "Split a 16B memory bus into its fields"
-msgstr ""
-
-#: translation.js:96
-msgid "Valor constante 0 para bus de 4 bits"
-msgstr ""
-
-#: translation.js:97
-msgid ""
-"Valor genérico constante, de 4 bits. Su valor se introduce como parámetro. "
-"Por defecto vale 0"
-msgstr ""
-
-#: translation.js:98
-msgid ""
-"Biestable de datos (Tipo D). Cuando se recibe un tic por load se captura el "
-"dato"
-msgstr ""
-
-#: translation.js:99
-msgid ""
-"16B memory sample machine. Captura the input data and store it in the memory"
-msgstr ""
-
-#: translation.js:100
-msgid "Puerta OR"
-msgstr ""
-
-#: translation.js:101
-msgid "8-bits register (in verilog)"
-msgstr ""
-
-#: translation.js:102
-msgid "Un bit constante a 1"
-msgstr ""
-
-#: translation.js:103
-msgid "Multiplexor de 2 a 1 de 14 bits"
-msgstr ""
-
-#: translation.js:104
-msgid "Máquina de contar, de 4 bits"
-msgstr ""
-
-#: translation.js:105
-msgid "Biestable de almacenamiento del estado de la máquina"
-msgstr ""
-
-#: translation.js:106
-msgid ""
-"Detector de flancos de subida y bajada. Emite tic por las salidas "
-"correspondientes al detecta los flancos"
-msgstr ""
-
-#: translation.js:107
-msgid "Registro de 4 bits con entrada de reset"
-msgstr ""
-
-#: translation.js:108
-msgid ""
-"Sumador de un operando de 4 bits con una constante pasada como parámetro (No "
-"hay accarreo)"
-msgstr ""
-
-#: translation.js:109
-msgid "Comparador de dos operandos de 4 bits"
-msgstr ""
-
-#: translation.js:110
-msgid ""
-"Valor genérico constante (menos 1), de 4 bits. Su valor se introduce como "
-"parámetro. Por defecto vale 0"
-msgstr ""
-
-#: translation.js:111
-msgid "16B memory download machine"
-msgstr ""
-
-#: translation.js:112
-msgid "Un bit constante a 0"
-msgstr ""
-
-#: translation.js:113
-msgid "Valor constante 0 para bus de 8 bits"
-msgstr ""
-
-#: translation.js:114
-msgid ""
-"Valor genérico constante, de 8 bits. Su valor se introduce como parámetro. "
-"Por defecto vale 0"
-msgstr ""
-
-#: translation.js:115
-msgid "Transmit one character to the STDOUT bus"
-msgstr ""
-
-#: translation.js:116
-msgid "Extract the next signal from the stdout bus"
-msgstr ""
-
-#: translation.js:117
-msgid "10 bits, 2-1 Multiplexor"
-msgstr ""
-
-#: translation.js:118
-msgid "stdout bus joiner (data + tic)"
-msgstr ""
-
-#: translation.js:119
-msgid "Serial transmiter for the stdout bus (1 char buffer). Sysclk parameter"
-msgstr ""
-
-#: translation.js:120
-msgid "stdout bus splitter into data and tic signals"
-msgstr ""
-
-#: translation.js:121
-msgid "Convert the 1-bit next signal into a 10-bit stdout bus"
-msgstr ""
-
-#: translation.js:122
-msgid "Serial transmitter with a buffer for 1 byte"
-msgstr ""
-
-#: translation.js:123
-msgid "1-byte buffer"
-msgstr ""
-
-#: translation.js:124
-msgid "Registro de 8 bits"
-msgstr ""
-
-#: translation.js:125
-msgid ""
-"Detector de flanco de subida. Emite un tic cuando detecta un flanco "
-"ascendente"
-msgstr ""
-
-#: translation.js:126
-msgid "Serial transmitter with system clock freq parameter"
-msgstr ""
-
-#: translation.js:127
-msgid "6 channel icerok probe adaptor"
-msgstr ""
-
-#: translation.js:128
-msgid "Agregador de 2 buses de 4-bits a bus de 8-bits"
-msgstr ""
-
-#: translation.js:129
-msgid "Agregador de 4 cables en un bus de 4-bits"
-msgstr ""
-
-#: translation.js:130
-msgid "Máquina de contar, de 4 bits, con entrada de stop"
-msgstr ""
-
-#: translation.js:131
-msgid ""
-"## Icerok-probe machine\n"
-"\n"
-"Machine for capturing data, storing it in the memory and transmit  \n"
-"to the computer by serial port"
-msgstr ""
-
-#: translation.js:132
-msgid ""
-"Writing the data to the memory on  \n"
-"every system clock cycle"
-msgstr ""
-
-#: translation.js:133
-msgid ""
-"Transmiting the raw memory contents  \n"
-"to the computer, by serial port"
-msgstr ""
-
-#: translation.js:134
-msgid ""
-"When the sampling is done  \n"
-"transmit the information to  \n"
-"the computer"
-msgstr ""
-
-#: translation.js:135
-msgid ""
-"Memory were the data  \n"
-"is stored"
-msgstr ""
-
-#: translation.js:136
-msgid ""
-"Reading data from memory  \n"
-"Reading bus status"
-msgstr ""
-
-#: translation.js:137
-msgid "Calculate if the bus can be taken"
-msgstr ""
-
-#: translation.js:138
-msgid "The bus is available"
-msgstr ""
-
-#: translation.js:139
-msgid ""
-"This circuits wants  \n"
-"to use the bus"
-msgstr ""
-
-#: translation.js:140
-msgid ""
-"The bus has been already  \n"
-"taken"
-msgstr ""
-
-#: translation.js:141
-msgid ""
-"One cycle after the machine is done  \n"
-"the bus is already taken to write  \n"
-"the bbusy signal to 0 and allow  \n"
-"other circuits to use it"
-msgstr ""
-
-#: translation.js:142
-msgid ""
-"The output bus is controlled  \n"
-"by this circuit (1) or  \n"
-"remain untouched (0)"
-msgstr ""
-
-#: translation.js:143
-msgid ""
-"The reading machine  \n"
-"can be started"
-msgstr ""
-
-#: translation.js:144
-msgid ""
-"## Sample machine\n"
-"\n"
-"Read the input data, (one byte per clock cycle) and store it into the "
-"memory\n"
-"\n"
-msgstr ""
-
-#: translation.js:145
-msgid "**Reloj del sistema**"
-msgstr ""
-
-#: translation.js:146
-msgid ""
-"**Estado de**  \n"
-"**la máquina**"
-msgstr ""
-
-#: translation.js:147
-msgid "Máquina encendida"
-msgstr ""
-
-#: translation.js:148
-msgid ""
-"Máquina apagada  \n"
-"(rst = 1)"
-msgstr ""
-
-#: translation.js:149
-msgid "Tic de arranque"
-msgstr ""
-
-#: translation.js:150
-msgid "Tic de fin"
-msgstr ""
-
-#: translation.js:151
-msgid "**Contador de ciclos**"
-msgstr ""
-
-#: translation.js:152
-msgid ""
-"Número de ciclos  \n"
-"contados"
-msgstr ""
-
-#: translation.js:153
-msgid ""
-"Valor  \n"
-"incrementado"
-msgstr ""
-
-#: translation.js:154
-msgid "### Salidas"
-msgstr ""
-
-#: translation.js:155
-msgid "Estado de la máquina"
-msgstr ""
-
-#: translation.js:156
-msgid "Ciclo actual"
-msgstr ""
-
-#: translation.js:157
-msgid "Cuenta finalizada"
-msgstr ""
-
-#: translation.js:158
-msgid "Ejecutar el ciclo"
-msgstr ""
-
-#: translation.js:159
-msgid ""
-"Número de ciclos  \n"
-"a contar"
-msgstr ""
-
-#: translation.js:160
-msgid ""
-"¿Estamos en el  \n"
-"ciclo k-1?"
-msgstr ""
-
-#: translation.js:161
-msgid ""
-"Solo se hace caso a la  \n"
-"entrada next si la  \n"
-"máquina está encendida"
-msgstr ""
-
-#: translation.js:162
-msgid "Nuevo ciclo"
-msgstr ""
-
-#: translation.js:163
-msgid ""
-"Si es el ciclo k-1 y  \n"
-"se pide un ciclo  \n"
-"nuevo: Terminar"
-msgstr ""
-
-#: translation.js:164
-msgid ""
-"Apagar la  \n"
-"máquina"
-msgstr ""
-
-#: translation.js:165
-msgid ""
-"Ciclo nuevo:  \n"
-"incrementar la cuenta"
-msgstr ""
-
-#: translation.js:166
-msgid ""
-"El tic de start se saca  \n"
-"por exec para que se ejecute  \n"
-"el primer ciclo"
-msgstr ""
-
-#: translation.js:167
-msgid ""
-"Si la máquina está  \n"
-"apagada, las señales  \n"
-"de ejecución no pueden  \n"
-"salir!"
-msgstr ""
-
-#: translation.js:168
-msgid ""
-"Retrasar la señal un ciclo  \n"
-"mientras que se detecta si  \n"
-"la máquina ha finalizado o no"
-msgstr ""
-
-#: translation.js:169
-msgid "**Tic de apagado**"
-msgstr ""
-
-#: translation.js:170
-msgid "**Tic de encendido**"
-msgstr ""
-
-#: translation.js:171
-msgid "**Inicializar**"
-msgstr ""
-
-#: translation.js:172
-msgid "**Estado de la máquina**"
-msgstr ""
-
-#: translation.js:173
-msgid ""
-"## Detector doble: flancos de subida y bajada\n"
-"\n"
-"Se detectan tanto los flancos de subida como de bajada y se emite los  \n"
-"tics por sus salidas correspondientes"
-msgstr ""
-
-#: translation.js:174
-msgid ""
-"Señal de  \n"
-"entrada"
-msgstr ""
-
-#: translation.js:175
-msgid ""
-"Reloj del  \n"
-"sistema"
-msgstr ""
-
-#: translation.js:176
-msgid "Reading machine"
-msgstr ""
-
-#: translation.js:177
-msgid ""
-"## Download machine\n"
-"\n"
-"Transmit all the memory contents through the serial port  \n"
-"The bytes are transmited raw (in binary). No ascii encoding  \n"
-"There should be a program running on the computer capable of  \n"
-"reading these raw bytes"
-msgstr ""
-
-#: translation.js:178
-msgid ""
-"## PUTC: Transmit one character (STDOUT bus)\n"
-"\n"
-"When **idle**, the STDOUT bus crosses the component without "
-"modification    \n"
-"\n"
-"When the machine starts, the char is outputed and the state is changed to "
-"busy  \n"
-"When the transmitter is done (tic received in next)  the machine is turned "
-"off"
-msgstr ""
-
-#: translation.js:179
-msgid ""
-"Start tic: The byte from the  \n"
-"input char is transmited"
-msgstr ""
-
-#: translation.js:180
-msgid "Char to be transmited"
-msgstr ""
-
-#: translation.js:181
-msgid ""
-"State of the machine:  \n"
-"1: ON: transmitting  \n"
-"2: OFF: transparent mode  "
-msgstr ""
-
-#: translation.js:182
-msgid ""
-"If the machine is on  \n"
-"and the character has been  \n"
-"transmitted: Turn it off"
-msgstr ""
-
-#: translation.js:183
-msgid "The machine has finished"
-msgstr ""
-
-#: translation.js:184
-msgid "**STDOUT BUS**"
-msgstr ""
-
-#: translation.js:185
-msgid "Not connected"
-msgstr ""
-
-#: translation.js:186
-msgid ""
-"**Create the bus**  \n"
-"from the data and tic signals"
-msgstr ""
-
-#: translation.js:187
-msgid ""
-"Transparent mode...  \n"
-"or not"
-msgstr ""
-
-#: translation.js:188
-msgid ""
-"## STDOUT serial\n"
-"\n"
-"Serial transmitter for the STDOUT bus\n"
-msgstr ""
-
-#: translation.js:189
-msgid ""
-"**STDOUT Bus**  \n"
-"* Data to transmit (8 bits)  \n"
-"* tic (1 bit)\n"
-"* data sent (done tic, 1 bit)"
-msgstr ""
-
-#: translation.js:190
-msgid ""
-"Empty Buffer  \n"
-"(There is no byte  \n"
-"waiting)"
-msgstr ""
-
-#: translation.js:191
-msgid ""
-"Byte stored in the  \n"
-"buffer, waiting to be  \n"
-"transmitted when the  \n"
-"transmitter is ready"
-msgstr ""
-
-#: translation.js:192
-msgid ""
-"Buffer state:  \n"
-"0: empty  \n"
-"1: full"
-msgstr ""
-
-#: translation.js:193
-msgid "Transmitter ready"
-msgstr ""
-
-#: translation.js:194
-msgid ""
-"If the transmittter is ready  \n"
-"and there is a character  \n"
-"in the buffer: Transmit!"
-msgstr ""
-
-#: translation.js:195
-msgid "Serial transmitter state"
-msgstr ""
-
-#: translation.js:196
-msgid ""
-"Apagado automática,  \n"
-"cuando la máquina  \n"
-"termina"
-msgstr ""
-
-#: translation.js:197
-msgid "Apagado manual"
-msgstr ""
-
-#: translation.js:198 translation.js:286
+#: translation.js:62 translation.js:148
 msgid "Xor2"
 msgstr "Xor2"
 
-#: translation.js:199
+#: translation.js:63
 msgid "XOR gate: two bits input xor gate"
 msgstr "Puerta XOR de 2 entradas de un bit"
 
-#: translation.js:200
+#: translation.js:64
 msgid "TESTs"
 msgstr "Pruebas"
 
-#: translation.js:201
+#: translation.js:65
 msgid "00-Index"
 msgstr "00-Indice"
 
-#: translation.js:202
+#: translation.js:66
 msgid "# INDEX: IceGate Collection"
 msgstr "# ÍNDICE: Colección IceGate"
 
-#: translation.js:203
+#: translation.js:67
 msgid "## AND Menu"
 msgstr "## Menu AND"
 
-#: translation.js:204
+#: translation.js:68
 msgid "## Not Menu"
 msgstr "## Menú Not"
 
-#: translation.js:205
+#: translation.js:69
 msgid "And-Op2"
 msgstr "And-Op2"
 
-#: translation.js:206
+#: translation.js:70
 msgid "## OR Menu"
 msgstr "## Menú OR"
 
-#: translation.js:207
+#: translation.js:71
 msgid "## XOR Menu"
 msgstr "## Menu XOR"
 
-#: translation.js:208
-msgid "## TestBenches"
-msgstr "## TestBenches"
-
-#: translation.js:209
-msgid "TB_Not"
-msgstr "TB_Not"
-
-#: translation.js:219 translation.js:223 translation.js:229 translation.js:232
-#: translation.js:237 translation.js:251 translation.js:254 translation.js:259
-#: translation.js:263 translation.js:267 translation.js:271 translation.js:275
-#: translation.js:277 translation.js:280 translation.js:283 translation.js:287
+#: translation.js:81 translation.js:85 translation.js:91 translation.js:94
+#: translation.js:99 translation.js:113 translation.js:116 translation.js:121
+#: translation.js:125 translation.js:129 translation.js:133 translation.js:137
+#: translation.js:139 translation.js:142 translation.js:145 translation.js:149
 msgid "Alhambra-II"
 msgstr "Alhambra-II"
 
-#: translation.js:220 translation.js:233 translation.js:252 translation.js:255
-#: translation.js:260 translation.js:264 translation.js:268 translation.js:272
-#: translation.js:276 translation.js:278 translation.js:281 translation.js:284
-#: translation.js:288
+#: translation.js:82 translation.js:95 translation.js:114 translation.js:117
+#: translation.js:122 translation.js:126 translation.js:130 translation.js:134
+#: translation.js:138 translation.js:140 translation.js:143 translation.js:146
+#: translation.js:150
 msgid "01-manual-btns-led"
-msgstr ""
+msgstr "01-manual-btns-led"
 
-#: translation.js:221
+#: translation.js:83
 msgid ""
 "# AND-Bus2 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1007,23 +288,23 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:222
+#: translation.js:84
 msgid "And-Busen-02"
 msgstr "And-Busen-02"
 
-#: translation.js:224
+#: translation.js:86
 msgid "01-manual-test-btn-leds"
-msgstr ""
+msgstr "01-manual-test-btn-leds"
 
-#: translation.js:225
+#: translation.js:87
 msgid "2bits constant value: 3"
-msgstr ""
+msgstr "Valor constante 3 de 2 bits"
 
-#: translation.js:226
+#: translation.js:88
 msgid "Generic: 2-bits generic constant (0,1,2,3)"
-msgstr ""
+msgstr "Generic: Constantes genéricas de 2 bits (0,1,2,3)"
 
-#: translation.js:227
+#: translation.js:89
 msgid ""
 "# AND-Busen2 gate: Manual testing with one pushbutton and two LEDs\n"
 "\n"
@@ -1033,11 +314,11 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los dos LEDs se encienden"
 
-#: translation.js:230
+#: translation.js:92
 msgid "01-manual-test-btns-leds"
-msgstr ""
+msgstr "01-manual-test-btns-leds"
 
-#: translation.js:231
+#: translation.js:93
 msgid ""
 "# AND-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1059,7 +340,7 @@ msgstr ""
 "los  \n"
 "pulsadores se muestre en los LEDs sin modificación"
 
-#: translation.js:234
+#: translation.js:96
 msgid ""
 "# AND gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1071,7 +352,7 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:235
+#: translation.js:97
 msgid ""
 "## And Truth table\n"
 "\n"
@@ -1091,11 +372,11 @@ msgstr ""
 "| 1   |  0  |   0    |\n"
 "| 1   |  1  |   1    |"
 
-#: translation.js:238
+#: translation.js:100
 msgid "01-manual-btn-led"
-msgstr ""
+msgstr "01-manual-btn-led"
 
-#: translation.js:239
+#: translation.js:101
 msgid ""
 "# Not gate: Manual testing with a pushbutton and an LED\n"
 "\n"
@@ -1111,31 +392,27 @@ msgstr ""
 "Cuando se aprieta el botón SW1, la entrada es 1, la salida 0 y el  \n"
 "LED se apaga"
 
-#: translation.js:246
+#: translation.js:108
 msgid "Or-Bus2"
 msgstr "Or-Bus2"
 
-#: translation.js:247
+#: translation.js:109
 msgid "Or-Bus3"
-msgstr ""
+msgstr "Or-Bus3"
 
-#: translation.js:248
+#: translation.js:110
 msgid "Or-Bus4"
-msgstr ""
+msgstr "Or-Bus4"
 
-#: translation.js:249
-#, fuzzy
-#| msgid "Or-Bus"
+#: translation.js:111
 msgid "Or-Bus7"
-msgstr "Or-Bus"
+msgstr "Or-Bus7"
 
-#: translation.js:250
-#, fuzzy
-#| msgid "Or-Bus"
+#: translation.js:112
 msgid "Or-Bus8"
-msgstr "Or-Bus"
+msgstr "Or-Bus8"
 
-#: translation.js:253
+#: translation.js:115
 msgid ""
 "# OR-Bus2 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1146,15 +423,15 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:256
+#: translation.js:118
 msgid "Constant bit 0"
-msgstr ""
+msgstr "Bit constante 0"
 
-#: translation.js:257
+#: translation.js:119
 msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
-msgstr ""
+msgstr "Bus3-Join-all: Agrupar tres cables en un bus de 3 bits"
 
-#: translation.js:258
+#: translation.js:120
 msgid ""
 "# OR-Bus3 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1165,11 +442,11 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:261
+#: translation.js:123
 msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
-msgstr ""
+msgstr "Bus4-Join-all: Agrupar todos los cables en un bus de 4 bits"
 
-#: translation.js:262
+#: translation.js:124
 msgid ""
 "# OR-Bus4 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1180,49 +457,37 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:265
+#: translation.js:127
 msgid "Bus7-Join-all: Join all the wires into a 7-bits Bus"
-msgstr ""
+msgstr "Bus7-Join-all: Agrupar todos los cables en un bus de 7-bits"
 
-#: translation.js:266
-#, fuzzy
-#| msgid ""
-#| "# OR-Bus2 gate: Manual testing with two pushbutton and an LED\n"
-#| "\n"
-#| "The LED is turned on when the button SW1 is pressed, or the button SW1 or "
-#| "both"
+#: translation.js:128
 msgid ""
 "# OR-Bus7 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
 "The LED is turned on when the button SW1 is pressed, or the button SW1 or "
 "both"
 msgstr ""
-"# Puerta OR-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta OR-Bus7: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:269
+#: translation.js:131
 msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
-msgstr ""
+msgstr "Bus8-Join-all: Agrupar todos los cables en un bus de 8 bits"
 
-#: translation.js:270
-#, fuzzy
-#| msgid ""
-#| "# OR-Bus2 gate: Manual testing with two pushbutton and an LED\n"
-#| "\n"
-#| "The LED is turned on when the button SW1 is pressed, or the button SW1 or "
-#| "both"
+#: translation.js:132
 msgid ""
 "# OR-Bus8 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
 "The LED is turned on when the button SW1 is pressed, or the button SW1 or "
 "both"
 msgstr ""
-"# Puerta OR-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta OR-Bus8: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:273
+#: translation.js:135
 msgid ""
 "# OR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1236,7 +501,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:274
+#: translation.js:136
 msgid ""
 "## OR Truth table\n"
 "\n"
@@ -1256,7 +521,7 @@ msgstr ""
 "| 1   |  0  |   1    |\n"
 "| 1   |  1  |   1    |"
 
-#: translation.js:279
+#: translation.js:141
 msgid ""
 "# OR4 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1270,14 +535,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:282
-#, fuzzy
-#| msgid ""
-#| "# OR gate: Manual testing with two pushbuttons and one LED\n"
-#| "\n"
-#| "The LED is turned on if button 1 or button 2 or both are pressed. "
-#| "Otherwise  \n"
-#| "the LED0 is off"
+#: translation.js:144
 msgid ""
 "# OR7 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1285,20 +543,13 @@ msgid ""
 "Otherwise  \n"
 "the LED0 is off"
 msgstr ""
-"# Puerta OR: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta OR7: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En "
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:285
-#, fuzzy
-#| msgid ""
-#| "# OR gate: Manual testing with two pushbuttons and one LED\n"
-#| "\n"
-#| "The LED is turned on if button 1 or button 2 or both are pressed. "
-#| "Otherwise  \n"
-#| "the LED0 is off"
+#: translation.js:147
 msgid ""
 "# OR8 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1306,13 +557,13 @@ msgid ""
 "Otherwise  \n"
 "the LED0 is off"
 msgstr ""
-"# Puerta OR: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta OR8: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En "
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:289
+#: translation.js:151
 msgid ""
 "# XOR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1326,7 +577,7 @@ msgstr ""
 "pero  \n"
 "no ambos a la vez"
 
-#: translation.js:290
+#: translation.js:152
 msgid ""
 "## XOR Truth table\n"
 "\n"
@@ -1345,6 +596,30 @@ msgstr ""
 "| 0   |  1  |   1    |\n"
 "| 1   |  0  |   1    |\n"
 "| 1   |  1  |   0    |"
+
+#~ msgid "Testbench for the not gate"
+#~ msgstr "Banco de pruebas para la puerta Not"
+
+#~ msgid "## TestBenches"
+#~ msgstr "## TestBenches"
+
+#~ msgid "TB_Display"
+#~ msgstr "TB_Display"
+
+#~ msgid "TB_Not"
+#~ msgstr "TB_Not"
+
+#~ msgid "### SUCESS animation"
+#~ msgstr "### Animación de éxito"
+
+#~ msgid "### Test not passed"
+#~ msgstr "### Test no pasado"
+
+#~ msgid "Testbenches"
+#~ msgstr "Testbenches"
+
+#~ msgid "TB_not"
+#~ msgstr "TB_not"
 
 #~ msgid ""
 #~ "# And gate: Simple test with icerok\n"

@@ -35,9 +35,6 @@ Logic gates.
     * Or-bus4
     * Or-bus7
     * Or-bus8
-* *Testbenches*
-  * TB_Display
-  * TB_not
 * *Xor*
   * Xor2
 
@@ -104,7 +101,7 @@ Logic gates.
 ## Languages
 | Language | Translated strings |
 |:--------:|:------------------:|
-| es_ES | ![Progress](http://progressed.io/bar/31) |
+| es_ES | ![Progress](http://progressed.io/bar/100) |
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)

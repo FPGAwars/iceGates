@@ -27,10 +27,14 @@ Logic gates.
   * Or2
   * Or3
   * Or4
+  * Or7
+  * Or8
   * *Or-Bus*
     * Or-bus2
     * Or-bus3
     * Or-bus4
+    * Or-bus7
+    * Or-bus8
 * *Testbenches*
   * TB_Display
   * TB_not
@@ -49,8 +53,6 @@ Logic gates.
       * *And-Busen-02*
         * *Alhambra-II*
           * 01-manual-test-btn-leds
-          * *ice-build*
-            * *01-manual-test-btn-leds*
     * *And-Op*
       * *And-Op-2*
         * *Alhambra-II*
@@ -58,19 +60,10 @@ Logic gates.
     * *And2*
       * *Alhambra-II*
         * 01-manual-btns-led
-        * 02-icerok-btns-led
-        * *ice-build*
-          * *02-icerok-btns-led*
   * *Not*
     * *01-bit*
       * *Alhambra-II*
         * 01-manual-btn-led
-        * 02-serial-btn-led
-        * 03-icerok-btn-led
-        * 04-auto-check-icerok
-        * 05-Truth-table
-        * *ice-build*
-          * *03-icerok-btn-led*
   * *Or*
     * *Or-Bus*
       * *Or-Bus2*
@@ -82,6 +75,12 @@ Logic gates.
       * *Or-Bus4*
         * *Alhambra-II*
           * 01-manual-btns-led
+      * *Or-Bus7*
+        * *Alhambra-II*
+          * 01-manual-btns-led
+      * *Or-Bus8*
+        * *Alhambra-II*
+          * 01-manual-btns-led
     * *Or2*
       * *Alhambra-II*
         * 01-manual-btns-led
@@ -89,6 +88,12 @@ Logic gates.
       * *Alhambra-II*
         * 01-manual-btns-led
     * *Or4*
+      * *Alhambra-II*
+        * 01-manual-btns-led
+    * *Or7*
+      * *Alhambra-II*
+        * 01-manual-btns-led
+    * *Or8*
       * *Alhambra-II*
         * 01-manual-btns-led
   * *Xor*

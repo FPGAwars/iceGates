@@ -2,6 +2,8 @@
   "name": "icegates",
   "version": "0.1.0",
   "description": "Logic gates",
+  "footer": "https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg",
+  "wiki": "https://github.com/FPGAwars/iceGates/wiki",
   "keywords": ["logic", "combinational", "gate"],
   "license": "GPL-2.0",
   "authors": [{

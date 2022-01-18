@@ -110,7 +110,6 @@ msgid "And-Busen3"
 msgstr "And-Busen3"
 
 #: translation.js:32
-#, fuzzy
 msgid ""
 "AND-Busen-3: Enable a 3-bits bus. When the enable signal is 0, the output is "
 "0"
@@ -132,7 +131,6 @@ msgid "And-Busen5"
 msgstr "And-Busen5"
 
 #: translation.js:36
-#, fuzzy
 msgid ""
 "AND-Busen-5: Enable a 5-bits bus. When the enable signal is 0, the output is "
 "0"
@@ -345,31 +343,26 @@ msgid "# INDEX: IceGate Collection"
 msgstr "# ÍNDICE: Colección IceGate"
 
 #: translation.js:87
-#, fuzzy
 msgid "## AND"
-msgstr "## Menu AND"
+msgstr "## AND"
 
 #: translation.js:88
-#, fuzzy
 msgid "## Not "
-msgstr "## Menú Not"
+msgstr "## Not "
 
 #: translation.js:89
 msgid "And-Op2"
 msgstr "And-Op2"
 
 #: translation.js:90
-#, fuzzy
 msgid "## OR "
-msgstr "## Menú OR"
+msgstr "## OR "
 
 #: translation.js:91
-#, fuzzy
 msgid "## XOR"
-msgstr "## Menu XOR"
+msgstr "## XOR"
 
 #: translation.js:92
-#, fuzzy
 msgid "### 1-bit"
 msgstr "### 1-bit"
 
@@ -378,19 +371,16 @@ msgid "### 2-bits"
 msgstr "### 2-bits"
 
 #: translation.js:94
-#, fuzzy
 msgid "### 3-bits"
-msgstr "01-bit"
+msgstr "### 3-bits"
 
 #: translation.js:95
-#, fuzzy
 msgid "### 4-bits"
-msgstr "01-bit"
+msgstr "### 4-bits"
 
 #: translation.js:96
-#, fuzzy
 msgid "### 8-bits"
-msgstr "01-bit"
+msgstr "### 8-bits"
 
 #: translation.js:108 translation.js:114 translation.js:119 translation.js:124
 #: translation.js:129 translation.js:132 translation.js:136 translation.js:139
@@ -425,12 +415,10 @@ msgid "And-Busen-02"
 msgstr "And-Busen-02"
 
 #: translation.js:112
-#, fuzzy
 msgid "And-Busen-03"
 msgstr "And-Busen-03"
 
 #: translation.js:113
-#, fuzzy
 msgid "And-Busen-05"
 msgstr "And-Busen-05"
 
@@ -457,7 +445,6 @@ msgstr ""
 "Cuando el botón se aprieta, los dos LEDs se encienden"
 
 #: translation.js:121
-#, fuzzy
 msgid "3bits constant value: 7"
 msgstr "Valor constante 7 de 3 bits"
 
@@ -467,7 +454,6 @@ msgid "Generic: 3-bits generic constant (0-7)"
 msgstr "Generic: Constantes genéricas de 3 bits (0-7)"
 
 #: translation.js:123
-#, fuzzy
 msgid ""
 "# AND-Busen3 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -483,7 +469,6 @@ msgid "Generic: 5-bits generic constant (0-31)"
 msgstr "Generic: Constantes genéricas de 5 bits (0-31)"
 
 #: translation.js:127
-#, fuzzy
 msgid ""
 "# AND-Busen5 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -552,7 +537,6 @@ msgstr ""
 "| 1   |  1  |   1    |"
 
 #: translation.js:138
-#, fuzzy
 msgid ""
 "# AND gate: Manual testing with three pushbuttons and one LED\n"
 "\n"
@@ -569,24 +553,20 @@ msgid "01-bit"
 msgstr "01-bit"
 
 #: translation.js:142
-#, fuzzy
 msgid "02-bits"
-msgstr "02-bit"
+msgstr "02-bits"
 
 #: translation.js:143
-#, fuzzy
 msgid "03-bits"
-msgstr "03-bit"
+msgstr "03-bits"
 
 #: translation.js:144
-#, fuzzy
 msgid "04-bits"
-msgstr "01-bit"
+msgstr "04-bits"
 
 #: translation.js:145
-#, fuzzy
 msgid "08-bits"
-msgstr "01-bit"
+msgstr "08-bits"
 
 #: translation.js:147 translation.js:150 translation.js:153 translation.js:158
 #: translation.js:163
@@ -610,7 +590,6 @@ msgstr ""
 "LED se apaga"
 
 #: translation.js:151
-#, fuzzy
 msgid ""
 "# Not-x2 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -618,7 +597,7 @@ msgid ""
 msgstr ""
 "# Puerta Not-x2: Comprobación manual con pulsadores y  LEDs\n"
 "\n"
-"Los dos pulsadores se invierten (logica negativa) y se muestran en los LEDs "
+"Los dos pulsadores se invierten (logica negativa) y se muestran en los LEDs  "
 
 #: translation.js:154
 #, fuzzy
@@ -630,15 +609,14 @@ msgid "Constant bit 0"
 msgstr "Bit constante 0"
 
 #: translation.js:156
-#, fuzzy
 msgid ""
 "# Not-x3 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
 "The three inputs are inverted (negaive logic) and displayed on the LEDs  "
 msgstr ""
-"# Puerta Not-32: Comprobación manual con pulsadores y  LEDs\n"
+"# Puerta Not-x3: Comprobación manual con pulsadores y  LEDs\n"
 "\n"
-"Las tres entradas se invierten (logica negativa) y se muestran en los LEDs "
+"Las tres entradas se invierten (logica negativa) y se muestran en los LEDs  "
 
 #: translation.js:159
 #, fuzzy
@@ -646,20 +624,18 @@ msgid "Bus4-Join-half: Join the two buses into a 4-bits Bus"
 msgstr "Bus4-Join-all: Agrupar todos los cables en un bus de 4 bits"
 
 #: translation.js:160
-#, fuzzy
 msgid "2bits constant value: 0"
-msgstr "Valor constante 3 de 2 bits"
+msgstr "Valor constante 0 de 2 bits"
 
 #: translation.js:161
-#, fuzzy
 msgid ""
 "# Not-x4 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
 "The four inputs are inverted (negaive logic) and displayed on the LEDs  "
 msgstr ""
-"# Puerta AND-Busend2: Comprobación manual con un pulsador y dos LED2\n"
+"# Puerta Not-x4: Comprobación manual con un pulsador y  LEDs\n"
 "\n"
-"Cuando el botón se aprieta, los dos LEDs se encienden"
+"Las 4 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:164
 #, fuzzy
@@ -667,9 +643,8 @@ msgid "Bus8-Join-2-6: Join the two buses into an 8-bits Bus"
 msgstr "Bus8-Join-all: Agrupar todos los cables en un bus de 8 bits"
 
 #: translation.js:165
-#, fuzzy
 msgid "6bits constant value: 0"
-msgstr "Valor constante 3 de 2 bits"
+msgstr "Valor constante 0 de 6 bits"
 
 #: translation.js:166
 #, fuzzy
@@ -677,15 +652,14 @@ msgid "Generic: 6-bits generic constant (0-63)"
 msgstr "Generic: Constantes genéricas de 2 bits (0,1,2,3)"
 
 #: translation.js:167
-#, fuzzy
 msgid ""
 "# Not-x8 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
 "The four inputs are inverted (negaive logic) and displayed on the LEDs  "
 msgstr ""
-"# Puerta AND-Busend2: Comprobación manual con un pulsador y dos LED2\n"
+"Puerta Not-x8: Comprobación manual con pulsadores y  LEDs\n"
 "\n"
-"Cuando el botón se aprieta, los dos LEDs se encienden"
+"Las 8 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:174
 msgid "Or-Bus2"

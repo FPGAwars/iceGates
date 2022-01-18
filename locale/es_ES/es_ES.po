@@ -56,10 +56,7 @@ msgid "And3"
 msgstr "And3"
 
 #: translation.js:20
-<<<<<<< HEAD
-=======
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "Three bits input And gate"
 msgstr "Puerta AND de 3 entradas de un bit"
 
@@ -108,18 +105,12 @@ msgid "Bus output"
 msgstr "Bus de salida"
 
 #: translation.js:31
-<<<<<<< HEAD
-=======
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "And-Busen3"
 msgstr "And-Busen3"
 
 #: translation.js:32
-<<<<<<< HEAD
-=======
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid ""
 "AND-Busen-3: Enable a 3-bits bus. When the enable signal is 0, the output is "
 "0"
@@ -136,18 +127,12 @@ msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgstr "Bus3-Join-all: Agrupar tres cables en un bus de 3 bits"
 
 #: translation.js:35
-<<<<<<< HEAD
-=======
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "And-Busen5"
 msgstr "And-Busen5"
 
 #: translation.js:36
-<<<<<<< HEAD
-=======
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid ""
 "AND-Busen-5: Enable a 5-bits bus. When the enable signal is 0, the output is "
 "0"
@@ -156,18 +141,12 @@ msgstr ""
 "salida es 0"
 
 #: translation.js:37
-<<<<<<< HEAD
-=======
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "Bus5-Split-all: Split the 5-bits bus into its wires"
 msgstr "Bus5-Split-all: Separar el bus de 5 bits en sus cables"
 
 #: translation.js:38
-<<<<<<< HEAD
-=======
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "Bus5-Join-all: Join all the wires into a 5-bits Bus"
 msgstr "Bus5-Join-all: Agrupar todos los cables en un bus de 5 bits"
 
@@ -191,12 +170,8 @@ msgstr "Operando 2"
 msgid "Not-x02"
 msgstr "Not-x02"
 
-<<<<<<< HEAD
-#: translation.js:45
-=======
 #: translation.js:44
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "not-x2: 2-bits not gate"
 msgstr "not-x2: Puerta not de entrada de 2 bits"
 
@@ -216,12 +191,8 @@ msgstr "Salida"
 msgid "Not-x03"
 msgstr "Not-x03"
 
-<<<<<<< HEAD
-#: translation.js:50
-=======
 #: translation.js:49
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "not-x3: 3-bits not gate"
 msgstr "not-x3: Puerta not de entrada de 3 bits"
 
@@ -397,12 +368,8 @@ msgstr "## Menú OR"
 msgid "## XOR"
 msgstr "## Menu XOR"
 
-<<<<<<< HEAD
-#: translation.js:86
-=======
 #: translation.js:92
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "### 1-bit"
 msgstr "### 1-bit"
 
@@ -457,21 +424,13 @@ msgstr ""
 msgid "And-Busen-02"
 msgstr "And-Busen-02"
 
-<<<<<<< HEAD
-#: translation.js:103
-=======
 #: translation.js:112
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "And-Busen-03"
 msgstr "And-Busen-03"
 
-<<<<<<< HEAD
-#: translation.js:104
-=======
 #: translation.js:113
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "And-Busen-05"
 msgstr "And-Busen-05"
 
@@ -497,30 +456,18 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los dos LEDs se encienden"
 
-<<<<<<< HEAD
-#: translation.js:113
-=======
 #: translation.js:121
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "3bits constant value: 7"
 msgstr "Valor constante 7 de 3 bits"
 
-<<<<<<< HEAD
-#: translation.js:114
-=======
 #: translation.js:122
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "Generic: 3-bits generic constant (0-7)"
 msgstr "Generic: Constantes genéricas de 3 bits (0-7)"
 
-<<<<<<< HEAD
-#: translation.js:115
-=======
 #: translation.js:123
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid ""
 "# AND-Busen3 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -530,21 +477,13 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
-<<<<<<< HEAD
-#: translation.js:119
-=======
 #: translation.js:126
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "Generic: 5-bits generic constant (0-31)"
 msgstr "Generic: Constantes genéricas de 5 bits (0-31)"
 
-<<<<<<< HEAD
-#: translation.js:120
-=======
 #: translation.js:127
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid ""
 "# AND-Busen5 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -612,16 +551,8 @@ msgstr ""
 "| 1   |  0  |   0    |\n"
 "| 1   |  1  |   1    |"
 
-<<<<<<< HEAD
-#: translation.js:131
-msgid "02-icerok-btns-led"
-msgstr "02-icerok-btns-led"
-
-#: translation.js:134
-=======
 #: translation.js:138
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid ""
 "# AND gate: Manual testing with three pushbuttons and one LED\n"
 "\n"
@@ -633,25 +564,17 @@ msgstr ""
 "El LED sólo se enciende cuando todos los están presionados  \n"
 "a la vez"
 
-<<<<<<< HEAD
-#: translation.js:138
-=======
 #: translation.js:141
 msgid "01-bit"
 msgstr "01-bit"
 
 #: translation.js:142
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "02-bits"
 msgstr "02-bit"
 
-<<<<<<< HEAD
-#: translation.js:139
-=======
 #: translation.js:143
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "03-bits"
 msgstr "03-bit"
 
@@ -686,16 +609,8 @@ msgstr ""
 "Cuando se aprieta el botón SW1, la entrada es 1, la salida 0 y el  \n"
 "LED se apaga"
 
-<<<<<<< HEAD
-#: translation.js:144
-msgid "03-icerok-btn-led"
-msgstr "03-icerok-btn-led"
-
-#: translation.js:147
-=======
 #: translation.js:151
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid ""
 "# Not-x2 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -705,12 +620,8 @@ msgstr ""
 "\n"
 "Los dos pulsadores se invierten (logica negativa) y se muestran en los LEDs "
 
-<<<<<<< HEAD
-#: translation.js:151
-=======
 #: translation.js:154
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid "Bus3-Join-2-1: Joint two buses of 1 and 2 bits into a 3-bits Bus"
 msgstr "Bus3-Join-2-1: Agrupar dos buses de 1 y 2 bits en un bus de 3 bits"
 
@@ -718,12 +629,8 @@ msgstr "Bus3-Join-2-1: Agrupar dos buses de 1 y 2 bits en un bus de 3 bits"
 msgid "Constant bit 0"
 msgstr "Bit constante 0"
 
-<<<<<<< HEAD
-#: translation.js:153
-=======
 #: translation.js:156
 #, fuzzy
->>>>>>> a01b741fba04837d4f9f7329e8b87bfcb12ea519
 msgid ""
 "# Not-x3 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"

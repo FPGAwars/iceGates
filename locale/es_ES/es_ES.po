@@ -36,9 +36,8 @@ msgid "Or"
 msgstr "Or"
 
 #: translation.js:15 translation.js:117
-#, fuzzy
 msgid "Xnor"
-msgstr "Xnor2"
+msgstr "Xnor"
 
 #: translation.js:16 translation.js:118
 msgid "Xor"
@@ -334,14 +333,12 @@ msgid "Bus8-Split-all: Split the 8-bits bus into its wires"
 msgstr "Bus8-Split-all: Separar el bus de 8 bits en sus cables"
 
 #: translation.js:89 translation.js:239
-#, fuzzy
 msgid "Xnor-op2"
-msgstr "Xor-op2"
+msgstr "Xnor-op2"
 
 #: translation.js:90
-#, fuzzy
 msgid "XNOR gate: two bits input xnor gate"
-msgstr "Puerta XOR de 2 entradas de un bit"
+msgstr "Puerta XNOR de 2 entradas de un bit"
 
 #: translation.js:91
 msgid "XNor-x02: two input XNOR gate"
@@ -933,7 +930,6 @@ msgstr ""
 "el LED0 está apagado"
 
 #: translation.js:243
-#, fuzzy
 msgid ""
 "# XNOR-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -941,9 +937,9 @@ msgid ""
 "a constant  \n"
 "number (0-3). The result is shown on LEDs 0 and 1\n"
 msgstr ""
-"# XOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# XNOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación XOR se aplica entre los dos bits que llegan de los "
+"La operación XNOR se aplica entre los dos bits que llegan de los "
 "pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 

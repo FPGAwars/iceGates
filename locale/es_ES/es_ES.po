@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-18 12:48+0000\n"
+"POT-Creation-Date: 2022-01-18 13:08+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -23,7 +23,7 @@ msgstr "And"
 msgid "Nand"
 msgstr "Nand"
 
-#: translation.js:12 translation.js:51 translation.js:112
+#: translation.js:12 translation.js:51 translation.js:114
 msgid "Nor"
 msgstr "Nor"
 
@@ -34,6 +34,11 @@ msgstr "Not"
 #: translation.js:14 translation.js:116
 msgid "Or"
 msgstr "Or"
+
+#: translation.js:15 translation.js:117
+#, fuzzy
+msgid "Xnor"
+msgstr "Xnor2"
 
 #: translation.js:16 translation.js:118
 msgid "Xor"
@@ -88,8 +93,12 @@ msgid "And-Busen2"
 msgstr "And-Busen2"
 
 #: translation.js:29
-msgid "AND-Busen-2: Enable a 2-bits bus. When the enable signal is 0, the output is 0"
-msgstr "AND-Busen-2: Habilitar un bus de dos bits. Cuando la señal de enable es 0, la salida es 0"
+msgid ""
+"AND-Busen-2: Enable a 2-bits bus. When the enable signal is 0, the output is "
+"0"
+msgstr ""
+"AND-Busen-2: Habilitar un bus de dos bits. Cuando la señal de enable es 0, "
+"la salida es 0"
 
 #: translation.js:30
 msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
@@ -112,8 +121,12 @@ msgid "And-Busen3"
 msgstr "And-Busen3"
 
 #: translation.js:35
-msgid "AND-Busen-3: Enable a 3-bits bus. When the enable signal is 0, the output is 0"
-msgstr "AND-Busen-3: Habilitar un bus de 3 bits. Cuando la señal de enable es 0, la salida es 0"
+msgid ""
+"AND-Busen-3: Enable a 3-bits bus. When the enable signal is 0, the output is "
+"0"
+msgstr ""
+"AND-Busen-3: Habilitar un bus de 3 bits. Cuando la señal de enable es 0, la "
+"salida es 0"
 
 #: translation.js:36
 msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
@@ -128,8 +141,12 @@ msgid "And-Busen5"
 msgstr "And-Busen5"
 
 #: translation.js:39
-msgid "AND-Busen-5: Enable a 5-bits bus. When the enable signal is 0, the output is 0"
-msgstr "AND-Busen-5: Habilitar un bus de 5-bits. Cuando la señal de enable es 0, la salida es 0"
+msgid ""
+"AND-Busen-5: Enable a 5-bits bus. When the enable signal is 0, the output is "
+"0"
+msgstr ""
+"AND-Busen-5: Habilitar un bus de 5-bits. Cuando la señal de enable es 0, la "
+"salida es 0"
 
 #: translation.js:40
 msgid "Bus5-Split-all: Split the 5-bits bus into its wires"
@@ -221,7 +238,8 @@ msgstr "not-x8: Puerta not de entrada de 8 bits"
 
 #: translation.js:64
 msgid "Bus8-Split-half: Split the 8-bits bus into two buses of the same size"
-msgstr "Bus8-Split-half: Separar el bus de 8 bits en dos mitades del mismo tamaño"
+msgstr ""
+"Bus8-Split-half: Separar el bus de 8 bits en dos mitades del mismo tamaño"
 
 #: translation.js:65
 msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
@@ -315,17 +333,27 @@ msgstr "OR-BUS8. Puerta OR con entrada de bus de 8 bits"
 msgid "Bus8-Split-all: Split the 8-bits bus into its wires"
 msgstr "Bus8-Split-all: Separar el bus de 8 bits en sus cables"
 
-#: translation.js:89 translation.js:237
-msgid "Xnor2"
-msgstr "Xnor2"
+#: translation.js:89 translation.js:239
+#, fuzzy
+msgid "Xnor-op2"
+msgstr "Xor-op2"
 
 #: translation.js:90
+#, fuzzy
+msgid "XNOR gate: two bits input xnor gate"
+msgstr "Puerta XOR de 2 entradas de un bit"
+
+#: translation.js:91
 msgid "XNor-x02: two input XNOR gate"
 msgstr "Xnor-x02: Puerta XNOR de 2 entradas de un bit"
 
 #: translation.js:92
 msgid "XOR gate: two bits input xor gate"
 msgstr "Puerta XOR de 2 entradas de un bit"
+
+#: translation.js:93 translation.js:240
+msgid "Xnor2"
+msgstr "Xnor2"
 
 #: translation.js:94 translation.js:250
 msgid "Xor-op2"
@@ -391,11 +419,11 @@ msgstr "### 8-bits"
 msgid "## NAND"
 msgstr "## NAND"
 
-#: translation.js:108
+#: translation.js:110
 msgid "## NOR"
 msgstr "## NOR"
 
-#: translation.js:109
+#: translation.js:111
 msgid "## XNOR"
 msgstr "## XNOR"
 
@@ -504,18 +532,22 @@ msgstr "01-manual-test-btns-leds"
 msgid ""
 "# AND-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
-"The AND operation is applied to the 2-bits coming form the pushbuttons and a constant  \n"
+"The AND operation is applied to the 2-bits coming form the pushbuttons and a "
+"constant  \n"
 "number (0-3). The result is shown on LEDs 0 and 1\n"
 "\n"
-"The number 3 is used by default. It means that the operand coming from the buttons  \n"
+"The number 3 is used by default. It means that the operand coming from the "
+"buttons  \n"
 "is shown on the LEDs without modification"
 msgstr ""
 "# AND-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los dos bits que llegan de los pulsadores  \n"
+"La operación AND se aplica entre los dos bits que llegan de los "
+"pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 "\n"
-"Se usa el número 3 por defecto. Esto hace que el operando que llega de los  \n"
+"Se usa el número 3 por defecto. Esto hace que el operando que llega de "
+"los  \n"
 "pulsadores se muestre en los LEDs sin modificación"
 
 #: translation.js:152
@@ -566,18 +598,19 @@ msgstr ""
 msgid "Nand2"
 msgstr "Nand2"
 
-#: translation.js:160
+#: translation.js:162
 msgid ""
 "# NAND gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
-"Only when the two buttons are pressed at the same time, the LED0 is turned off"
+"Only when the two buttons are pressed at the same time, the LED0 is turned "
+"off"
 msgstr ""
 "# Puerta NAND: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:161
+#: translation.js:163
 msgid ""
 "## NAND Truth table\n"
 "\n"
@@ -601,7 +634,7 @@ msgstr ""
 msgid "Nor2"
 msgstr "Nor2"
 
-#: translation.js:165
+#: translation.js:167
 msgid ""
 "# NOR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -611,7 +644,7 @@ msgstr ""
 "\n"
 "El LED sólo se enciende cuando ninguno de los botones está apretado"
 
-#: translation.js:166
+#: translation.js:168
 msgid ""
 "## NOR Truth table\n"
 "\n"
@@ -764,7 +797,8 @@ msgstr "Or-Bus8"
 msgid ""
 "# OR-Bus2 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
-"The LED is turned on when the button SW1 is pressed, or the button SW1 or both"
+"The LED is turned on when the button SW1 is pressed, or the button SW1 or "
+"both"
 msgstr ""
 "# Puerta OR-Bus2: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
@@ -774,7 +808,8 @@ msgstr ""
 msgid ""
 "# OR-Bus3 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
-"The LED is turned on when the button SW1 is pressed, or the button SW1 or both"
+"The LED is turned on when the button SW1 is pressed, or the button SW1 or "
+"both"
 msgstr ""
 "# Puerta OR-Bus3: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
@@ -784,7 +819,8 @@ msgstr ""
 msgid ""
 "# OR-Bus4 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
-"The LED is turned on when the button SW1 is pressed, or the button SW1 or both"
+"The LED is turned on when the button SW1 is pressed, or the button SW1 or "
+"both"
 msgstr ""
 "# Puerta OR-Bus4: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
@@ -798,7 +834,8 @@ msgstr "Bus7-Join-all: Agrupar todos los cables en un bus de 7-bits"
 msgid ""
 "# OR-Bus7 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
-"The LED is turned on when the button SW1 is pressed, or the button SW1 or both"
+"The LED is turned on when the button SW1 is pressed, or the button SW1 or "
+"both"
 msgstr ""
 "# Puerta OR-Bus7: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
@@ -812,7 +849,8 @@ msgstr "Bus8-Join-all: Agrupar todos los cables en un bus de 8 bits"
 msgid ""
 "# OR-Bus8 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
-"The LED is turned on when the button SW1 is pressed, or the button SW1 or both"
+"The LED is turned on when the button SW1 is pressed, or the button SW1 or "
+"both"
 msgstr ""
 "# Puerta OR-Bus8: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
@@ -822,12 +860,14 @@ msgstr ""
 msgid ""
 "# OR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
-"The LED is turned on if button 1 or button 2 or both are pressed. Otherwise  \n"
+"The LED is turned on if button 1 or button 2 or both are pressed. "
+"Otherwise  \n"
 "the LED0 is off"
 msgstr ""
 "# Puerta OR: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
-"El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En otro caso  \n"
+"El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En "
+"otro caso  \n"
 "el LED0 está apagado"
 
 #: translation.js:227
@@ -854,43 +894,64 @@ msgstr ""
 msgid ""
 "# OR4 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
-"The LED is turned on if button 1 or button 2 or both are pressed. Otherwise  \n"
+"The LED is turned on if button 1 or button 2 or both are pressed. "
+"Otherwise  \n"
 "the LED0 is off"
 msgstr ""
 "# Puerta OR4: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
-"El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En otro caso  \n"
+"El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En "
+"otro caso  \n"
 "el LED0 está apagado"
 
 #: translation.js:235
 msgid ""
 "# OR7 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
-"The LED is turned on if button 1 or button 2 or both are pressed. Otherwise  \n"
+"The LED is turned on if button 1 or button 2 or both are pressed. "
+"Otherwise  \n"
 "the LED0 is off"
 msgstr ""
 "# Puerta OR7: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
-"El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En otro caso  \n"
+"El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En "
+"otro caso  \n"
 "el LED0 está apagado"
 
 #: translation.js:238
 msgid ""
 "# OR8 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
-"The LED is turned on if button 1 or button 2 or both are pressed. Otherwise  \n"
+"The LED is turned on if button 1 or button 2 or both are pressed. "
+"Otherwise  \n"
 "the LED0 is off"
 msgstr ""
 "# Puerta OR8: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
-"El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En otro caso  \n"
+"El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En "
+"otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:240
+#: translation.js:243
+#, fuzzy
+msgid ""
+"# XNOR-Op2: Manual testing with two pushbuttons and two LEDs\n"
+"\n"
+"The XNOR operation is applied to the 2-bits coming form the pushbuttons and "
+"a constant  \n"
+"number (0-3). The result is shown on LEDs 0 and 1\n"
+msgstr ""
+"# XOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"\n"
+"La operación XOR se aplica entre los dos bits que llegan de los "
+"pulsadores  \n"
+"y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
+
+#: translation.js:246
 msgid "# XNOR gate: Manual testing with two pushbuttons and one LED\n"
 msgstr "# Puerta XNOR: Comprobación manual con dos pulsadores y un LED\n"
 
-#: translation.js:241
+#: translation.js:247
 msgid ""
 "## XNOR Truth table\n"
 "\n"
@@ -914,28 +975,32 @@ msgstr ""
 msgid "Xor-op"
 msgstr "Xor-op"
 
-#: translation.js:247
+#: translation.js:253
 msgid ""
 "# XOR-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
-"The XOR operation is applied to the 2-bits coming form the pushbuttons and a constant  \n"
+"The XOR operation is applied to the 2-bits coming form the pushbuttons and a "
+"constant  \n"
 "number (0-3). The result is shown on LEDs 0 and 1\n"
 msgstr ""
 "# XOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación XOR se aplica entre los dos bits que llegan de los pulsadores  \n"
+"La operación XOR se aplica entre los dos bits que llegan de los "
+"pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
 #: translation.js:256
 msgid ""
 "# XOR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
-"The LED is turned on only if button 1 is pressed or button 2 is pressed but not  \n"
+"The LED is turned on only if button 1 is pressed or button 2 is pressed but "
+"not  \n"
 "both at the same time"
 msgstr ""
 "# Puerta XOR: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
-"El LED se enciende sólo si el botón 1 está apretado, o el dos está apretado pero  \n"
+"El LED se enciende sólo si el botón 1 está apretado, o el dos está apretado "
+"pero  \n"
 "no ambos a la vez"
 
 #: translation.js:257

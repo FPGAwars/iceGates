@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="125.81973mm"
+   height="72.090652mm"
+   viewBox="0 0 125.81973 72.090652"
+   version="1.1"
+   id="svg12743"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="block-xnor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12745"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="194.37232"
+     inkscape:cy="227.15802"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs12740" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;opacity:1"
+     transform="translate(-38.875895,-89.475153)">
+    <g
+       id="layer2"
+       inkscape:label="block"
+       style="display:inline"
+       transform="translate(1.204214,-9.780515)">
+      <rect
+         style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:1.33487;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect861"
+         width="106.55138"
+         height="70.755783"
+         x="46.889626"
+         y="99.923103"
+         ry="5.4701953" />
+      <path
+         style="fill:none;stroke:#777777;stroke-width:1.99789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.671681,153.07985 h 9.15701"
+         id="path865"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.99789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.671681,117.16536 h 9.15701"
+         id="path865-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:2.08673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 153.50194,135.12261 h 9.98947"
+         id="path865-3-6"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g13727"
+       transform="matrix(0.22066459,0,0,0.22066459,56.232387,104.29022)"
+       style="display:inline">
+      <g
+         id="g4158">
+        <g
+           transform="translate(-4.3309214e-8,0.3287938)"
+           id="g4154">
+          <path
+             d="M 175.56021,188.7178 H 84.527463 c 0,0 30.344497,-42.53778 31.085357,-94.03028 C 116.35558,43.19879 83.791909,4.39373 83.791909,4.39373 L 176.10932,4 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z"
+             id="path6-7"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             d="m 4.05697,47.29151 h 99.60472 M 4.883093,145.1682 H 105.86424 m 240.7036,-46.278066 h 50.35138"
+             id="path8-5"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             sodipodi:nodetypes="cccccc" />
+          <text
+             style="font-style:normal;font-weight:normal;font-size:42.0858px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff"
+             font-weight="normal"
+             xml:space="preserve"
+             font-size="17.5px"
+             font-style="normal"
+             y="108.72587"
+             x="129.31837"
+             line-height="125%"
+             id="text10-3"><tspan
+               font-weight="bold"
+               font-style="normal"
+               font-stretch="normal"
+               font-variant="normal"
+               y="108.72587"
+               x="129.31837"
+               id="tspan12-5"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif">XNOR</tspan></text>
+        </g>
+        <path
+           sodipodi:nodetypes="ccc"
+           style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           id="path6-7-2"
+           d="m 54.321215,188.3678 c 0,0 30.3445,-42.53778 31.08536,-94.030276 0.74276,-51.48873 -31.82091,-90.2937902 -31.82091,-90.2937902" />
+      </g>
+      <ellipse
+         cx="324.13037"
+         cy="99.608528"
+         id="circle6"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         rx="21.392729"
+         ry="21.893293"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
+</svg>

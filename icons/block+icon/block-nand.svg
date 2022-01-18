@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="125.81973mm"
+   height="72.090652mm"
+   viewBox="0 0 125.81973 72.090652"
+   version="1.1"
+   id="svg12743"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="block-nand.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12745"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="194.37232"
+     inkscape:cy="227.15802"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs12740" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;opacity:1"
+     transform="translate(-38.875895,-89.475153)">
+    <g
+       id="layer2"
+       inkscape:label="block"
+       style="display:inline"
+       transform="translate(1.204214,-9.780515)">
+      <rect
+         style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:1.33487;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect861"
+         width="106.55138"
+         height="70.755783"
+         x="46.889626"
+         y="99.923103"
+         ry="5.4701953" />
+      <path
+         style="fill:none;stroke:#777777;stroke-width:1.99789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.671681,153.07985 h 9.15701"
+         id="path865"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.99789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.671681,117.16536 h 9.15701"
+         id="path865-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:2.08673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 153.50194,135.12261 h 9.98947"
+         id="path865-3-6"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g13292"
+       transform="matrix(0.25368559,0,0,0.25368559,55.017769,100.35651)"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0"
+         id="path6"
+         d="M 174.65599,190.04526 H 78.303569 V 4 h 96.352421 c 0,0 87.46328,8.62453 87.46328,91.94023 0,83.31075 -87.46328,94.10503 -87.46328,94.10503 z" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0"
+         id="path8-3"
+         d="M 4.05697,45.66778 H 78.074705 M 4.05697,144.81248 H 78.074705 M 306.78261,94.77839 h 49.37881"
+         sodipodi:nodetypes="cccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="93.045647"
+         y="111.17511"
+         id="text4142-5"><tspan
+           sodipodi:role="line"
+           id="tspan4144-6"
+           x="93.045647"
+           y="111.17511"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.0116px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">NAND</tspan></text>
+      <ellipse
+         cx="284.47598"
+         cy="94.796349"
+         id="circle6"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         rx="21.392729"
+         ry="21.893293"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
+</svg>

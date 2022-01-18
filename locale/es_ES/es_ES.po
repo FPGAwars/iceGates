@@ -56,7 +56,6 @@ msgid "And3"
 msgstr "And3"
 
 #: translation.js:20
-#, fuzzy
 msgid "Three bits input And gate"
 msgstr "Puerta AND de 3 entradas de un bit"
 
@@ -105,7 +104,6 @@ msgid "Bus output"
 msgstr "Bus de salida"
 
 #: translation.js:31
-#, fuzzy
 msgid "And-Busen3"
 msgstr "And-Busen3"
 
@@ -126,7 +124,6 @@ msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgstr "Bus3-Join-all: Agrupar tres cables en un bus de 3 bits"
 
 #: translation.js:35
-#, fuzzy
 msgid "And-Busen5"
 msgstr "And-Busen5"
 
@@ -139,12 +136,10 @@ msgstr ""
 "salida es 0"
 
 #: translation.js:37
-#, fuzzy
 msgid "Bus5-Split-all: Split the 5-bits bus into its wires"
 msgstr "Bus5-Split-all: Separar el bus de 5 bits en sus cables"
 
 #: translation.js:38
-#, fuzzy
 msgid "Bus5-Join-all: Join all the wires into a 5-bits Bus"
 msgstr "Bus5-Join-all: Agrupar todos los cables en un bus de 5 bits"
 
@@ -169,7 +164,6 @@ msgid "Not-x02"
 msgstr "Not-x02"
 
 #: translation.js:44
-#, fuzzy
 msgid "not-x2: 2-bits not gate"
 msgstr "not-x2: Puerta not de entrada de 2 bits"
 
@@ -190,18 +184,16 @@ msgid "Not-x03"
 msgstr "Not-x03"
 
 #: translation.js:49
-#, fuzzy
 msgid "not-x3: 3-bits not gate"
 msgstr "not-x3: Puerta not de entrada de 3 bits"
 
 #: translation.js:50
 msgid "Not-x04"
-msgstr ""
+msgstr "Not-x04"
 
 #: translation.js:51
-#, fuzzy
 msgid "not-x4: 4-bits not gate"
-msgstr "Puerta AND de 2 entradas de un bit"
+msgstr "not-x4: Puerta not de entrada de 4 bits"
 
 #: translation.js:52
 msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
@@ -213,22 +205,20 @@ msgstr "Bus4-Join-all: Agrupar todos los cables en un bus de 4 bits"
 
 #: translation.js:54
 msgid "Not-x08"
-msgstr ""
+msgstr "Not-x08"
 
 #: translation.js:55
-#, fuzzy
 msgid "not-x8: 8-bits not gate"
-msgstr "Puerta AND de 2 entradas de un bit"
+msgstr "not-x8: Puerta not de entrada de 8 bits"
 
 #: translation.js:56
-#, fuzzy
 msgid "Bus8-Split-half: Split the 8-bits bus into two buses of the same size"
-msgstr "Bus8-Split-all: Separar el bus de 8 bits en sus cables"
+msgstr ""
+"Bus8-Split-half: Separar el bus de 8 bits en dos mitades del mismo tamaño"
 
 #: translation.js:57
-#, fuzzy
 msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
-msgstr "Bus8-Join-all: Agrupar todos los cables en un bus de 8 bits"
+msgstr "Bus8-Join-half: Agrupar los dos buses iguales en uno de 8 bits"
 
 #: translation.js:59 translation.js:168
 msgid "Or-Bus"
@@ -449,7 +439,6 @@ msgid "3bits constant value: 7"
 msgstr "Valor constante 7 de 3 bits"
 
 #: translation.js:122
-#, fuzzy
 msgid "Generic: 3-bits generic constant (0-7)"
 msgstr "Generic: Constantes genéricas de 3 bits (0-7)"
 
@@ -464,7 +453,6 @@ msgstr ""
 "Cuando el botón se aprieta, los LEDs se encienden"
 
 #: translation.js:126
-#, fuzzy
 msgid "Generic: 5-bits generic constant (0-31)"
 msgstr "Generic: Constantes genéricas de 5 bits (0-31)"
 
@@ -600,7 +588,6 @@ msgstr ""
 "Los dos pulsadores se invierten (logica negativa) y se muestran en los LEDs  "
 
 #: translation.js:154
-#, fuzzy
 msgid "Bus3-Join-2-1: Joint two buses of 1 and 2 bits into a 3-bits Bus"
 msgstr "Bus3-Join-2-1: Agrupar dos buses de 1 y 2 bits en un bus de 3 bits"
 
@@ -619,7 +606,6 @@ msgstr ""
 "Las tres entradas se invierten (logica negativa) y se muestran en los LEDs  "
 
 #: translation.js:159
-#, fuzzy
 msgid "Bus4-Join-half: Join the two buses into a 4-bits Bus"
 msgstr "Bus4-Join-all: Agrupar todos los cables en un bus de 4 bits"
 
@@ -638,18 +624,16 @@ msgstr ""
 "Las 4 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:164
-#, fuzzy
 msgid "Bus8-Join-2-6: Join the two buses into an 8-bits Bus"
-msgstr "Bus8-Join-all: Agrupar todos los cables en un bus de 8 bits"
+msgstr "Bus8-Join-2-6: Agrupar todos los cables en un bus de 8 bits"
 
 #: translation.js:165
 msgid "6bits constant value: 0"
 msgstr "Valor constante 0 de 6 bits"
 
 #: translation.js:166
-#, fuzzy
 msgid "Generic: 6-bits generic constant (0-63)"
-msgstr "Generic: Constantes genéricas de 2 bits (0,1,2,3)"
+msgstr "Generic: Constantes genéricas de 6 bits (0-63)"
 
 #: translation.js:167
 msgid ""

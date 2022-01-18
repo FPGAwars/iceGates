@@ -21,12 +21,11 @@ msgstr "And"
 
 #: translation.js:11 translation.js:46 translation.js:111
 msgid "Nand"
-msgstr ""
+msgstr "Nand"
 
 #: translation.js:12 translation.js:51 translation.js:112
-#, fuzzy
 msgid "Nor"
-msgstr "Not"
+msgstr "Nor"
 
 #: translation.js:13 translation.js:66 translation.js:113
 msgid "Not"
@@ -38,7 +37,7 @@ msgstr "Or"
 
 #: translation.js:15 translation.js:115
 msgid "Xnor"
-msgstr ""
+msgstr "Xnor"
 
 #: translation.js:16 translation.js:116
 msgid "Xor"
@@ -173,9 +172,8 @@ msgid "Operand 2"
 msgstr "Operando 2"
 
 #: translation.js:47
-#, fuzzy
 msgid "Nand-x02: two input NAND gate"
-msgstr "OR2: Puerta OR de entradas de un bit"
+msgstr "Nand-x02: Puerta NAND de dos entradas de un bit"
 
 #: translation.js:48
 msgid "NOT gate (Verilog implementation)"
@@ -190,9 +188,8 @@ msgid "Output"
 msgstr "Salida"
 
 #: translation.js:52
-#, fuzzy
 msgid "Nor-x02: two input NOR gate"
-msgstr "OR2: Puerta OR de entradas de un bit"
+msgstr "Nor-x02: Puerta NOR de dos entradas de un bit"
 
 #: translation.js:53
 msgid "OR2: Two bits input OR gate"
@@ -337,12 +334,11 @@ msgstr "Bus8-Split-all: Separar el bus de 8 bits en sus cables"
 
 #: translation.js:89 translation.js:237
 msgid "Xnor2"
-msgstr ""
+msgstr "Xnor2"
 
 #: translation.js:90
-#, fuzzy
 msgid "XNor-x02: two input XNOR gate"
-msgstr "OR2: Puerta OR de entradas de un bit"
+msgstr "Xnor-x02: Puerta XNOR de 2 entradas de un bit"
 
 #: translation.js:91
 msgid "XOR gate: two bits input xor gate"
@@ -350,7 +346,7 @@ msgstr "Puerta XOR de 2 entradas de un bit"
 
 #: translation.js:92 translation.js:244
 msgid "Xor-op2"
-msgstr ""
+msgstr "Xor-op2"
 
 #: translation.js:93 translation.js:243
 msgid "Xor2"
@@ -410,17 +406,15 @@ msgstr "### 8-bits"
 
 #: translation.js:107
 msgid "## NAND"
-msgstr ""
+msgstr "## NAND"
 
 #: translation.js:108
-#, fuzzy
 msgid "## NOR"
-msgstr "## Not "
+msgstr "## NOR"
 
 #: translation.js:109
-#, fuzzy
 msgid "## XNOR"
-msgstr "## XOR"
+msgstr "## XNOR"
 
 #: translation.js:124 translation.js:130 translation.js:135 translation.js:140
 #: translation.js:145 translation.js:148 translation.js:152 translation.js:155
@@ -590,23 +584,21 @@ msgstr ""
 
 #: translation.js:157
 msgid "Nand2"
-msgstr ""
+msgstr "Nand2"
 
 #: translation.js:160
-#, fuzzy
 msgid ""
 "# NAND gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
 "Only when the two buttons are pressed at the same time, the LED0 is turned "
 "off"
 msgstr ""
-"# Puerta AND: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta NAND: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
 #: translation.js:161
-#, fuzzy
 msgid ""
 "## NAND Truth table\n"
 "\n"
@@ -617,33 +609,30 @@ msgid ""
 "| 1   |  0  |   1    |\n"
 "| 1   |  1  |   0    |"
 msgstr ""
-"## Tabla de verdad de la XOR\n"
+"## Tabla de verdad de la NAND\n"
 "\n"
 "| i1  | i0  | output |\n"
 "|-----|-----|--------|\n"
-"| 0   |  0  |   0    |\n"
+"| 0   |  0  |   1    |\n"
 "| 0   |  1  |   1    |\n"
 "| 1   |  0  |   1    |\n"
 "| 1   |  1  |   0    |"
 
 #: translation.js:162
 msgid "Nor2"
-msgstr ""
+msgstr "Nor2"
 
 #: translation.js:165
-#, fuzzy
 msgid ""
 "# NOR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
 "The LED is only on when none of the butons is pressed"
 msgstr ""
-"# Puerta AND: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta NOR: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
-"El LED sólo se enciende cuando ambos botones están presionados  \n"
-"a la vez"
+"El LED sólo se enciende cuando ninguno de los botones está apretado"
 
 #: translation.js:166
-#, fuzzy
 msgid ""
 "## NOR Truth table\n"
 "\n"
@@ -654,13 +643,13 @@ msgid ""
 "| 1   |  0  |   0    |\n"
 "| 1   |  1  |   0    |"
 msgstr ""
-"## Tabla de verdad de la XOR\n"
+"## Tabla de verdad de la NOR\n"
 "\n"
 "| i1  | i0  | output |\n"
 "|-----|-----|--------|\n"
-"| 0   |  0  |   0    |\n"
-"| 0   |  1  |   1    |\n"
-"| 1   |  0  |   1    |\n"
+"| 0   |  0  |   1    |\n"
+"| 0   |  1  |   0    |\n"
+"| 1   |  0  |   0    |\n"
 "| 1   |  1  |   0    |"
 
 #: translation.js:167
@@ -932,16 +921,10 @@ msgstr ""
 "el LED0 está apagado"
 
 #: translation.js:240
-#, fuzzy
 msgid "# XNOR gate: Manual testing with two pushbuttons and one LED\n"
-msgstr ""
-"# Puerta AND: Comprobación manual con dos pulsadores y un LED\n"
-"\n"
-"El LED sólo se enciende cuando ambos botones están presionados  \n"
-"a la vez"
+msgstr "# Puerta XNOR: Comprobación manual con dos pulsadores y un LED\n"
 
 #: translation.js:241
-#, fuzzy
 msgid ""
 "## XNOR Truth table\n"
 "\n"
@@ -952,21 +935,20 @@ msgid ""
 "| 1   |  0  |   0    |\n"
 "| 1   |  1  |   1    |"
 msgstr ""
-"## Tabla de verdad de la XOR\n"
+"## Tabla de verdad de la XNOR\n"
 "\n"
 "| i1  | i0  | output |\n"
 "|-----|-----|--------|\n"
-"| 0   |  0  |   0    |\n"
-"| 0   |  1  |   1    |\n"
-"| 1   |  0  |   1    |\n"
-"| 1   |  1  |   0    |"
+"| 0   |  0  |   1    |\n"
+"| 0   |  1  |   0    |\n"
+"| 1   |  0  |   0    |\n"
+"| 1   |  1  |   1    |"
 
 #: translation.js:242
 msgid "Xor-op"
-msgstr ""
+msgstr "Xor-op"
 
 #: translation.js:247
-#, fuzzy
 msgid ""
 "# XOR-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -974,15 +956,11 @@ msgid ""
 "constant  \n"
 "number (0-3). The result is shown on LEDs 0 and 1\n"
 msgstr ""
-"# AND-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# XOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los dos bits que llegan de los "
+"La operación XOR se aplica entre los dos bits que llegan de los "
 "pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
-"\n"
-"Se usa el número 3 por defecto. Esto hace que el operando que llega de "
-"los  \n"
-"pulsadores se muestre en los LEDs sin modificación"
 
 #: translation.js:250
 msgid ""

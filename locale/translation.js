@@ -89,6 +89,9 @@ gettext('And-Op-4');
 gettext('AND-Op4: And operation between two numbers of 4 bits');
 gettext('Bus4-Split-half: Split the 4-bits bus into two of the same size');
 gettext('Bus4-Join-half: Join the two buses into a 4-bits Bus');
+gettext('And-Op-5');
+gettext('AND-Op5: And operation between two numbers of 5 bits');
+gettext('Bus5-Join-3-2: Join the two buses of 3 and 2 bits into a 5-bits Bus');
 gettext('Nand');
 gettext('Nand-x02: two input NAND gate');
 gettext('NOT gate (Verilog implementation)');
@@ -243,6 +246,7 @@ gettext('# AND-Busen8 gate: Manual testing with one pushbutton and LEDs\n\nWhen 
 gettext('And-Op-2');
 gettext('And-Op-3');
 gettext('And-Op-4');
+gettext('And-Op-5');
 gettext('Alhambra-II');
 gettext('01-manual-test-btns-leds');
 gettext('# AND-Op2: Manual testing with two pushbuttons and two LEDs\n\nThe AND operation is applied to the 2-bits coming form the pushbuttons and a constant  \nnumber (0-3). The result is shown on LEDs 0 and 1\n\nThe number 3 is used by default. It means that the operand coming from the buttons  \nis shown on the LEDs without modification');
@@ -252,6 +256,9 @@ gettext('# AND-Op3: Manual testing with two pushbuttons and two LEDs\n\nThe AND 
 gettext('Alhambra-II');
 gettext('01-manual-test-btns-leds');
 gettext('# AND-Op4: Manual testing with two pushbuttons and two LEDs\n\nThe AND operation is applied to the 4-bits coming form the pushbuttons and a constant  \nnumber. The result is shown on the LEDs\n');
+gettext('Alhambra-II');
+gettext('01-manual-test-btns-leds');
+gettext('# AND-Op5: Manual testing with two pushbuttons and two LEDs\n\nThe AND operation is applied to the 5-bits coming form the pushbuttons and a constant  \nnumber. The result is shown on the LEDs\n');
 gettext('Alhambra-II');
 gettext('01-manual-btns-led');
 gettext('# AND gate: Manual testing with two pushbuttons and one LED\n\nThe LED is only turned on when both buttons are pressed at the same  \ntime');

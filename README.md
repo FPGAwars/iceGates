@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/96) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/94) |
 
 ## Blocks
 * **And**
@@ -59,6 +59,7 @@ For installing and using this colection in Icestudio follow these steps:
     * And-Op-2
     * And-Op-3
     * And-Op-4
+    * And-Op-5
 * **Nand**
   * Nand
 * **Nor**
@@ -143,6 +144,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **And-Op-3**
         * 01-manual-test-btns-leds
       * **And-Op-4**
+        * **Alhambra-II**
+          * 01-manual-test-btns-leds
+      * **And-Op-5**
         * **Alhambra-II**
           * 01-manual-test-btns-leds
     * **And2**

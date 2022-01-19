@@ -604,19 +604,16 @@ msgid "## XNOR"
 msgstr "## XNOR"
 
 #: translation.js:145
-#, fuzzy
 msgid "### 5-bits"
-msgstr "### 2-bits"
+msgstr "### 5-bits"
 
 #: translation.js:146
-#, fuzzy
 msgid "### 6-bits"
-msgstr "### 2-bits"
+msgstr "### 6-bits"
 
 #: translation.js:147
-#, fuzzy
 msgid "### 7-bits"
-msgstr "### 2-bits"
+msgstr "### 7-bits"
 
 #: translation.js:172 translation.js:175 translation.js:180 translation.js:186
 #: translation.js:191 translation.js:196 translation.js:201 translation.js:213
@@ -664,14 +661,13 @@ msgid "Constant bit 1"
 msgstr "Bit constante 0"
 
 #: translation.js:179
-#, fuzzy
 msgid ""
 "# AND-Bus3 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND-Bus3: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
@@ -689,14 +685,13 @@ msgid "Generic: 2-bits generic constant (0,1,2,3)"
 msgstr "Generic: Constantes genéricas de 2 bits (0,1,2,3)"
 
 #: translation.js:185
-#, fuzzy
 msgid ""
 "# AND-Bus4 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND-Bus4: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
@@ -711,14 +706,13 @@ msgid "Generic: 3-bits generic constant (0-7)"
 msgstr "Generic: Constantes genéricas de 3 bits (0-7)"
 
 #: translation.js:190
-#, fuzzy
 msgid ""
 "# AND-Bus5 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND-Bus5: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
@@ -734,14 +728,13 @@ msgid "Bus6-Join-2-4: Join all the two buses into a 6-bits Bus"
 msgstr "Bus8-Join-2-6: Agrupar todos los cables en un bus de 8 bits"
 
 #: translation.js:195
-#, fuzzy
 msgid ""
 "# AND-Bus6 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND-Bus6: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
@@ -756,14 +749,13 @@ msgid "Generic: 5-bits generic constant (0-31)"
 msgstr "Generic: Constantes genéricas de 5 bits (0-31)"
 
 #: translation.js:200
-#, fuzzy
 msgid ""
 "# AND-Bus7 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND-Bus7: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
@@ -777,14 +769,13 @@ msgid "Generic: 6-bits generic constant (0-63)"
 msgstr "Generic: Constantes genéricas de 6 bits (0-63)"
 
 #: translation.js:205
-#, fuzzy
 msgid ""
 "# AND-Bus8 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND-Bus8: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
@@ -851,13 +842,12 @@ msgstr ""
 "Cuando el botón se aprieta, los LEDs se encienden"
 
 #: translation.js:222
-#, fuzzy
 msgid ""
 "# AND-Busen4 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Puerta AND-Busend3: Comprobación manual con un pulsador y LEDs\n"
+"# Puerta AND-Busend4: Comprobación manual con un pulsador y LEDs\n"
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
@@ -872,13 +862,12 @@ msgstr ""
 "Cuando el botón se aprieta, los LEDs se encienden"
 
 #: translation.js:228
-#, fuzzy
 msgid ""
 "# AND-Busen6 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Puerta AND-Busend3: Comprobación manual con un pulsador y LEDs\n"
+"# Puerta AND-Busend6: Comprobación manual con un pulsador y LEDs\n"
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
@@ -888,13 +877,12 @@ msgid "Generic: 7-bits generic constant (0-127)"
 msgstr "Generic: Constantes genéricas de 3 bits (0-7)"
 
 #: translation.js:232
-#, fuzzy
 msgid ""
 "# AND-Busen7 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Puerta AND-Busend3: Comprobación manual con un pulsador y LEDs\n"
+"# Puerta AND-Busend7: Comprobación manual con un pulsador y LEDs\n"
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
@@ -904,13 +892,12 @@ msgid "Generic: 8-bits generic constant (0-255)"
 msgstr "Generic: Constantes genéricas de 5 bits (0-31)"
 
 #: translation.js:236
-#, fuzzy
 msgid ""
 "# AND-Busen8 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Puerta AND-Busend3: Comprobación manual con un pulsador y LEDs\n"
+"# Puerta AND-Busend8: Comprobación manual con un pulsador y LEDs\n"
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
@@ -985,53 +972,49 @@ msgstr ""
 "a la vez"
 
 #: translation.js:252
-#, fuzzy
 msgid ""
 "# AND5 gate: Manual testing with pushbuttons and one LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND5: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
 #: translation.js:255
-#, fuzzy
 msgid ""
 "# AND6 gate: Manual testing with pushbuttons and one LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND6: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
 #: translation.js:258
-#, fuzzy
 msgid ""
 "# AND7 gate: Manual testing with pushbuttons and one LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND7: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
 #: translation.js:261
-#, fuzzy
 msgid ""
 "# AND8 gate: Manual testing with pushbuttons and one LED\n"
 "\n"
 "The LED is only turned on when both buttons are pressed at the same  \n"
 "time"
 msgstr ""
-"# Puerta AND: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta AND8: Comprobación manual con pulsadores y un LED\n"
 "\n"
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"

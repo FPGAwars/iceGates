@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/90) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/89) |
 
 ## Blocks
 * **And**
@@ -77,6 +77,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Or2
   * Or3
   * Or4
+  * Or5
   * Or7
   * Or8
   * **Or-Bus**
@@ -230,6 +231,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-manual-btns-led
     * **Or4**
+      * **Alhambra-II**
+        * 01-manual-btns-led
+    * **Or5**
       * **Alhambra-II**
         * 01-manual-btns-led
     * **Or7**

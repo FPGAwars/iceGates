@@ -800,8 +800,20 @@
           }
         },
         {
-          "id": "1432e5c6-2016-4284-87a0-cd5860549cfd",
-          "type": "83c32512a5ce576e18ddea157a64d35dc67301e3",
+          "id": "06bebc20-f35d-46ce-963b-32ba2dc74e8c",
+          "type": "1928b0fef6191670612fb9a10d4f0c40c60a9f41",
+          "position": {
+            "x": 432,
+            "y": 720
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "58eeb4bb-c906-4ced-9d6e-f8ea8af6a732",
+          "type": "7978443caf3e4a515915cb20037f9e4a4f22b5dd",
           "position": {
             "x": 432,
             "y": 448
@@ -10876,11 +10888,267 @@
         }
       }
     },
-    "83c32512a5ce576e18ddea157a64d35dc67301e3": {
+    "1928b0fef6191670612fb9a10d4f0c40c60a9f41": {
       "package": {
-        "name": "AND-Busen-6 CLONE",
-        "version": "1.0-c1642612603735",
-        "description": "AND-Busen-6: Enable a 6-bits bus. When the enable signal is 0, the output is 0",
+        "name": "AND-Busen-8",
+        "version": "1.0",
+        "description": "AND-Busen-8: Enable a 8-bits bus. When the enable signal is 0, the output is 0",
+        "author": "Jesús Arroyo, Juan González",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22336.09%22%20height=%22194.045%22%20version=%221%22%3E%3Cpath%20d=%22M174.656%20190.045H78.304V4h96.352s87.463%208.625%2087.463%2091.94c0%2083.311-87.463%2094.105-87.463%2094.105z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2045.668h74.018M4.057%20144.812h74.018m184.632-50.034h69.326%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%2292.894%22%20y=%22114.587%22%20font-weight=%22400%22%20font-size=%2258.054%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%2292.894%22%20y=%22114.587%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%3EAND%3C/tspan%3E%3C/text%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "4d3d5bad-8154-4a67-bd5c-b2f0d8dd9db8",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[7:0]",
+                "clock": false,
+                "size": 8
+              },
+              "position": {
+                "x": -184,
+                "y": -24
+              }
+            },
+            {
+              "id": "3f4b5993-f88d-46c2-8cb1-b001bd07f398",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[7:0]",
+                "size": 8
+              },
+              "position": {
+                "x": 656,
+                "y": -8
+              }
+            },
+            {
+              "id": "0d303f0d-398d-43f1-9e26-a95501d79457",
+              "type": "basic.input",
+              "data": {
+                "name": "en",
+                "clock": false
+              },
+              "position": {
+                "x": 24,
+                "y": 184
+              }
+            },
+            {
+              "id": "3a31f3be-4e9e-4021-9359-d59e5b9fee23",
+              "type": "basic.info",
+              "data": {
+                "info": "Enable input",
+                "readonly": true
+              },
+              "position": {
+                "x": 24,
+                "y": 160
+              },
+              "size": {
+                "width": 136,
+                "height": 48
+              }
+            },
+            {
+              "id": "cfebc77a-c174-4754-9f7c-48e4ac97a6d8",
+              "type": "basic.info",
+              "data": {
+                "info": "Bus input",
+                "readonly": true
+              },
+              "position": {
+                "x": -168,
+                "y": -48
+              },
+              "size": {
+                "width": 112,
+                "height": 40
+              }
+            },
+            {
+              "id": "744692d3-baec-4f7d-b2b2-1af2128d711e",
+              "type": "basic.info",
+              "data": {
+                "info": "Bus output",
+                "readonly": true
+              },
+              "position": {
+                "x": 664,
+                "y": -40
+              },
+              "size": {
+                "width": 128,
+                "height": 32
+              }
+            },
+            {
+              "id": "aab470e6-276e-46e1-91d7-de96afdfdd8a",
+              "type": "b60101568b14aaf999bf272c2114498155e4c4dd",
+              "position": {
+                "x": 232,
+                "y": -24
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "0088db59-8ef0-456c-8a7b-bc63e01a0287",
+              "type": "6bdcd950abc9b45a5cdd4ffbdeff404a6f44660a",
+              "position": {
+                "x": 0,
+                "y": -24
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "eb774b0e-34d7-438d-86e6-e696fa8baee3",
+              "type": "afb28fd5426aea14477d11cbe30a290679f789f8",
+              "position": {
+                "x": 504,
+                "y": -8
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "8673b412-3fa2-49d0-939a-1350f37f9ff9",
+              "type": "b60101568b14aaf999bf272c2114498155e4c4dd",
+              "position": {
+                "x": 232,
+                "y": 64
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "0d303f0d-398d-43f1-9e26-a95501d79457",
+                "port": "out"
+              },
+              "target": {
+                "block": "8673b412-3fa2-49d0-939a-1350f37f9ff9",
+                "port": "0d303f0d-398d-43f1-9e26-a95501d79457"
+              },
+              "vertices": [
+                {
+                  "x": 168,
+                  "y": 160
+                }
+              ]
+            },
+            {
+              "source": {
+                "block": "0d303f0d-398d-43f1-9e26-a95501d79457",
+                "port": "out"
+              },
+              "target": {
+                "block": "aab470e6-276e-46e1-91d7-de96afdfdd8a",
+                "port": "0d303f0d-398d-43f1-9e26-a95501d79457"
+              },
+              "vertices": [
+                {
+                  "x": 168,
+                  "y": 96
+                }
+              ]
+            },
+            {
+              "source": {
+                "block": "0088db59-8ef0-456c-8a7b-bc63e01a0287",
+                "port": "637e64f4-0a6b-4037-9a75-89397e078a58"
+              },
+              "target": {
+                "block": "aab470e6-276e-46e1-91d7-de96afdfdd8a",
+                "port": "33db44b9-69c9-4a5a-ab8a-2aa0f063ccf6"
+              },
+              "size": 4
+            },
+            {
+              "source": {
+                "block": "aab470e6-276e-46e1-91d7-de96afdfdd8a",
+                "port": "90e24ab2-5ef6-4343-b4fc-2f9af5c94540"
+              },
+              "target": {
+                "block": "eb774b0e-34d7-438d-86e6-e696fa8baee3",
+                "port": "a1770adf-e143-4506-9d87-3cb9c870f534"
+              },
+              "size": 4
+            },
+            {
+              "source": {
+                "block": "eb774b0e-34d7-438d-86e6-e696fa8baee3",
+                "port": "1269698e-e555-4fcb-a613-cb4c7ff2e598"
+              },
+              "target": {
+                "block": "3f4b5993-f88d-46c2-8cb1-b001bd07f398",
+                "port": "in"
+              },
+              "size": 8
+            },
+            {
+              "source": {
+                "block": "0088db59-8ef0-456c-8a7b-bc63e01a0287",
+                "port": "eb61d084-ca22-4894-b8a2-f936db38f4b1"
+              },
+              "target": {
+                "block": "8673b412-3fa2-49d0-939a-1350f37f9ff9",
+                "port": "33db44b9-69c9-4a5a-ab8a-2aa0f063ccf6"
+              },
+              "vertices": [
+                {
+                  "x": 128,
+                  "y": 48
+                }
+              ],
+              "size": 4
+            },
+            {
+              "source": {
+                "block": "4d3d5bad-8154-4a67-bd5c-b2f0d8dd9db8",
+                "port": "out"
+              },
+              "target": {
+                "block": "0088db59-8ef0-456c-8a7b-bc63e01a0287",
+                "port": "f96fa616-e49a-4bb8-b1d0-ddafcc56569e"
+              },
+              "size": 8
+            },
+            {
+              "source": {
+                "block": "8673b412-3fa2-49d0-939a-1350f37f9ff9",
+                "port": "90e24ab2-5ef6-4343-b4fc-2f9af5c94540"
+              },
+              "target": {
+                "block": "eb774b0e-34d7-438d-86e6-e696fa8baee3",
+                "port": "843164ff-f7d8-48b9-bf59-1e0d1135c81f"
+              },
+              "size": 4
+            }
+          ]
+        }
+      }
+    },
+    "7978443caf3e4a515915cb20037f9e4a4f22b5dd": {
+      "package": {
+        "name": "AND-Busen-7",
+        "version": "1.0",
+        "description": "AND-Busen-7: Enable a 7-bits bus. When the enable signal is 0, the output is 0",
         "author": "Jesús Arroyo, Juan González",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22336.09%22%20height=%22194.045%22%20version=%221%22%3E%3Cpath%20d=%22M174.656%20190.045H78.304V4h96.352s87.463%208.625%2087.463%2091.94c0%2083.311-87.463%2094.105-87.463%2094.105z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2045.668h74.018M4.057%20144.812h74.018m184.632-50.034h69.326%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%2292.894%22%20y=%22114.587%22%20font-weight=%22400%22%20font-size=%2258.054%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%2292.894%22%20y=%22114.587%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%3EAND%3C/tspan%3E%3C/text%3E%3C/svg%3E"
       },

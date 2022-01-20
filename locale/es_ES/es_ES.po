@@ -337,88 +337,73 @@ msgid "Operand 2"
 msgstr "Operando 2"
 
 #: translation.js:84 translation.js:263
-#, fuzzy
 msgid "And-Op-3"
-msgstr "And-Op-2"
+msgstr "And-Op-3"
 
 #: translation.js:85
-#, fuzzy
 msgid "AND-Op3: And operation between two numbers of 3 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "AND-Op3: Operación AND entre dos números de 3 bits"
 
 #: translation.js:86
-#, fuzzy
 msgid "Bus3-Split-2-1: Split the 3-bits bus into two: 2-bit and 1-bits buses"
-msgstr "Bus5-Split-3-2: Separar el bus de 5 bits en dos buses de 3 y 2 bits"
+msgstr "Bus5-Split-2-1: Separar el bus de 3 bits en dos buses de 2 y 1 bits"
 
 #: translation.js:87
 msgid "Bus3-Join-2-1: Joint two buses of 1 and 2 bits into a 3-bits Bus"
 msgstr "Bus3-Join-2-1: Agrupar dos buses de 1 y 2 bits en un bus de 3 bits"
 
 #: translation.js:88 translation.js:264
-#, fuzzy
 msgid "And-Op-4"
-msgstr "And-Op-2"
+msgstr "And-Op-4"
 
 #: translation.js:89
-#, fuzzy
 msgid "AND-Op4: And operation between two numbers of 4 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "AND-Op4: Operación AND entre dos números de 4 bits"
 
 #: translation.js:90
-#, fuzzy
 msgid "Bus4-Split-half: Split the 4-bits bus into two of the same size"
 msgstr ""
-"Bus8-Split-half: Separar el bus de 8 bits en dos mitades del mismo tamaño"
+"Bus4-Split-half: Separar el bus de 4 bits en dos mitades del mismo tamaño"
 
 #: translation.js:91
 msgid "Bus4-Join-half: Join the two buses into a 4-bits Bus"
 msgstr "Bus4-Join-all: Agrupar todos los cables en un bus de 4 bits"
 
 #: translation.js:92 translation.js:265
-#, fuzzy
 msgid "And-Op-5"
-msgstr "And-Op-2"
+msgstr "And-Op-5"
 
 #: translation.js:93
-#, fuzzy
 msgid "AND-Op5: And operation between two numbers of 5 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "AND-Op5: Operación AND entre dos números de 5 bits"
 
 #: translation.js:94
-#, fuzzy
 msgid "Bus5-Join-3-2: Join the two buses of 3 and 2 bits into a 5-bits Bus"
-msgstr "Bus5-Join-2-3: Agrupar dos buses de 2 y 3 bits en un bus de 5 bits"
+msgstr "Bus5-Join-3-2: Agrupar dos buses de 3 y 2 bits en un bus de 5 bits"
 
 #: translation.js:95 translation.js:266
-#, fuzzy
 msgid "And-Op-6"
-msgstr "And-Op-2"
+msgstr "And-Op-6"
 
 #: translation.js:96
-#, fuzzy
 msgid "AND-Op6: And operation between two numbers of 6 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "AND-Op6: Operación AND entre dos números de 6 bits"
 
 #: translation.js:97 translation.js:267
-#, fuzzy
 msgid "And-Op-7"
-msgstr "And-Op-2"
+msgstr "And-Op-7"
 
 #: translation.js:98
-#, fuzzy
 msgid "AND-Op7: And operation between two numbers of 7 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "AND-Op7: Operación AND entre dos números de 7 bits"
 
 #: translation.js:99 translation.js:268
-#, fuzzy
 msgid "And-Op-8"
-msgstr "And-Op-2"
+msgstr "And-Op-8"
 
 #: translation.js:100
-#, fuzzy
 msgid "AND-Op8: And operation between two numbers of 8 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "AND-Op8: Operación AND entre dos números de 8 bits"
 
 #: translation.js:102
 msgid "Nand-x02: two input NAND gate"
@@ -501,24 +486,20 @@ msgid "OR4: Four bits input OR gate"
 msgstr "OR4: Puerta OR de entradas de un bit"
 
 #: translation.js:124 translation.js:351
-#, fuzzy
 msgid "Or5"
-msgstr "Or"
+msgstr "Or5"
 
 #: translation.js:125
-#, fuzzy
 msgid "OR5: 5 bits input OR gate"
-msgstr "OR2: Puerta OR de entradas de un bit"
+msgstr "OR5: Puerta OR de 5 entradas de un bit"
 
 #: translation.js:126 translation.js:352
-#, fuzzy
 msgid "Or6"
-msgstr "Or"
+msgstr "Or6"
 
 #: translation.js:127
-#, fuzzy
 msgid "OR6: 6 bits input OR gate"
-msgstr "OR2: Puerta OR de entradas de un bit"
+msgstr "OR6: Puerta OR de 6 entradas de un bit"
 
 #: translation.js:128 translation.js:353
 msgid "Or7"
@@ -561,34 +542,28 @@ msgid "OR-BUS4: OR gate with 4-bits bus input"
 msgstr "OR-BUS4. Puerta OR con entrada de bus de 4 bits"
 
 #: translation.js:138
-#, fuzzy
 msgid "Or-bus5"
-msgstr "Or-bus2"
+msgstr "Or-bus5"
 
 #: translation.js:139
-#, fuzzy
 msgid "OR-BUS5: OR gate with 5-bits bus input"
-msgstr "OR-BUS2. Puerta OR con entrada de bus de 2 bits"
+msgstr "OR-BUS5. Puerta OR con entrada de bus de 5 bits"
 
 #: translation.js:140
-#, fuzzy
 msgid "Bus5-Split-4-1: Split the 5-bits bus into two buses of 4 and 1 bits"
-msgstr "Bus5-Split-3-2: Separar el bus de 5 bits en dos buses de 3 y 2 bits"
+msgstr "Bus5-Split-4-1: Separar el bus de 5 bits en dos buses de 4 y 1 bits"
 
 #: translation.js:141
-#, fuzzy
 msgid "Or-bus6"
-msgstr "Or-bus2"
+msgstr "Or-bus6"
 
 #: translation.js:142
-#, fuzzy
 msgid "OR-BUS6: OR gate with 6-bits bus input"
-msgstr "OR-BUS2. Puerta OR con entrada de bus de 2 bits"
+msgstr "OR-BUS6. Puerta OR con entrada de bus de 6 bits"
 
 #: translation.js:143
-#, fuzzy
 msgid "Bus6-Split-4-2: Split the 6-bits bus into two buses of 4 and 2 wires"
-msgstr "Bus6-Split-2-4: Separar el bus de 6 bits en dos buses de 2 y 4 cables"
+msgstr "Bus6-Split-4-2: Separar el bus de 6 bits en dos buses de 4 y 2 cables"
 
 #: translation.js:144
 msgid "Or-bus7"
@@ -1013,12 +988,10 @@ msgstr ""
 "pulsadores se muestre en los LEDs sin modificación"
 
 #: translation.js:273
-#, fuzzy
 msgid "Bus3-Join-1-2: Join two buses of 2 and 1 bits into a 3-bits Bus"
-msgstr "Bus3-Join-2-1: Agrupar dos buses de 1 y 2 bits en un bus de 3 bits"
+msgstr "Bus3-Join-1-2: Agrupar dos buses de 2 y 1 bits en un bus de 3 bits"
 
 #: translation.js:274
-#, fuzzy
 msgid ""
 "# AND-Op3: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1026,14 +999,12 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# XNOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
 "\n"
-"La operación XNOR se aplica entre los dos bits que llegan de los "
-"pulsadores  \n"
-"y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
+"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:277
-#, fuzzy
 msgid ""
 "# AND-Op4: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1041,14 +1012,12 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# XNOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# AND-Op4: Comprobación manual con  pulsadores y  LEDs  \n"
 "\n"
-"La operación XNOR se aplica entre los dos bits que llegan de los "
-"pulsadores  \n"
-"y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
+"La operación AND se aplica entre los 4 bits que llegan de los pulsadores  \n"
+"y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:280
-#, fuzzy
 msgid ""
 "# AND-Op5: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1056,19 +1025,16 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# XNOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# AND-Op5: Comprobación manual con  pulsadores y  LEDs  \n"
 "\n"
-"La operación XNOR se aplica entre los dos bits que llegan de los "
-"pulsadores  \n"
-"y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
+"La operación AND se aplica entre los 5 bits que llegan de los pulsadores  \n"
+"y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:283
-#, fuzzy
 msgid "Bus6-Join-4-2: Join the two buses into a 6-bits Bus"
-msgstr "Bus6-Join-4-3: Agrupar los dos buses en uno  de 7 bits"
+msgstr "Bus6-Join-4-2: Agrupar los dos buses en uno  de 6 bits"
 
 #: translation.js:284
-#, fuzzy
 msgid ""
 "# AND-Op6: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1076,19 +1042,17 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# XNOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# AND-Op6: Comprobación manual con  pulsadores y  LEDs  \n"
 "\n"
-"La operación XNOR se aplica entre los dos bits que llegan de los "
-"pulsadores  \n"
-"y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
+"La operación AND se aplica entre los 6 bits que llegan de los pulsadores  \n"
+"y un número constante. El resultado se muestra en los LEDs\n"
+"\n"
 
 #: translation.js:287
-#, fuzzy
 msgid "Bus7-Join-5-2: Join the two buses into a 7-bits Bus"
-msgstr "Bus6-Join-4-3: Agrupar los dos buses en uno  de 7 bits"
+msgstr "Bus7-Join-5-2: Agrupar los dos buses en uno  de 7 bits"
 
 #: translation.js:288
-#, fuzzy
 msgid ""
 "# AND-Op7: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1096,19 +1060,16 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# XNOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
 "\n"
-"La operación XNOR se aplica entre los dos bits que llegan de los "
-"pulsadores  \n"
-"y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
+"La operación AND se aplica entre los 7 bits que llegan de los pulsadores  \n"
+"y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:291
-#, fuzzy
 msgid "Bus8-Join-6-2: Join the two buses into an 8-bits Bus"
-msgstr "Bus8-Join-2-6: Agrupar todos los cables en un bus de 8 bits"
+msgstr "Bus8-Join-6-2: Agrupar todos los cables en un bus de 8 bits"
 
 #: translation.js:292
-#, fuzzy
 msgid ""
 "# AND-Op8: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1116,11 +1077,10 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# XNOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
 "\n"
-"La operación XNOR se aplica entre los dos bits que llegan de los "
-"pulsadores  \n"
-"y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
+"La operación AND se aplica entre los 8 bits que llegan de los pulsadores  \n"
+"y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:295
 msgid ""
@@ -1390,14 +1350,12 @@ msgid "Or-Bus4"
 msgstr "Or-Bus4"
 
 #: translation.js:358
-#, fuzzy
 msgid "Or-Bus5"
-msgstr "Or-Bus"
+msgstr "Or-Bus5"
 
 #: translation.js:359
-#, fuzzy
 msgid "Or-Bus6"
-msgstr "Or-Bus"
+msgstr "Or-Bus6"
 
 #: translation.js:360
 msgid "Or-Bus7"
@@ -1441,31 +1399,28 @@ msgstr ""
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
 #: translation.js:373
-#, fuzzy
 msgid ""
 "# OR-Bus5 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
 "The LED is turned on when the button SW1 is pressed, or the button SW1 or "
 "both"
 msgstr ""
-"# Puerta OR-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta OR-Bus5: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
 #: translation.js:376
-#, fuzzy
 msgid "Bus6-Join-all: Join all the wires into a 6-bits Bus"
-msgstr "Bus4-Join-all: Agrupar todos los cables en un bus de 4 bits"
+msgstr "Bus6-Join-all: Agrupar todos los cables en un bus de 6 bits"
 
 #: translation.js:377
-#, fuzzy
 msgid ""
 "# OR-Bus6 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
 "The LED is turned on when the button SW1 is pressed, or the button SW1 or "
 "both"
 msgstr ""
-"# Puerta OR-Bus2: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta OR-Bus6: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
@@ -1548,7 +1503,6 @@ msgstr ""
 "el LED0 está apagado"
 
 #: translation.js:397
-#, fuzzy
 msgid ""
 "# OR5 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1556,14 +1510,13 @@ msgid ""
 "Otherwise  \n"
 "the LED0 is off"
 msgstr ""
-"# Puerta OR: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta OR5: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En "
 "otro caso  \n"
 "el LED0 está apagado"
 
 #: translation.js:400
-#, fuzzy
 msgid ""
 "# OR6 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1571,7 +1524,7 @@ msgid ""
 "Otherwise  \n"
 "the LED0 is off"
 msgstr ""
-"# Puerta OR: Comprobación manual con dos pulsadores y un LED\n"
+"# Puerta OR6: Comprobación manual con dos pulsadores y un LED\n"
 "\n"
 "El LED se enciende si el botón 1, o el boton 2 o ambos están apretado. En "
 "otro caso  \n"

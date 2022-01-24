@@ -454,33 +454,28 @@ msgid "not-x4: 4-bits not gate"
 msgstr "not-x4: Puerta not de entrada de 4 bits"
 
 #: translation.js:115
-#, fuzzy
 msgid "Not-x05"
-msgstr "Not-x02"
+msgstr "Not-x05"
 
 #: translation.js:116
-#, fuzzy
 msgid "not-x5: 5-bits not gate"
-msgstr "not-x2: Puerta not de entrada de 2 bits"
+msgstr "not-x5: Puerta not de entrada de 5 bits"
 
 #: translation.js:117
-#, fuzzy
 msgid "Bus5-Join-4-1: Join the two buses of 4 and 1 bits into a 5-bits Bus"
-msgstr "Bus5-Join-3-2: Agrupar dos buses de 3 y 2 bits en un bus de 5 bits"
+msgstr "Bus5-Join-4-1: Agrupar dos buses de 4 y 1 bits en un bus de 5 bits"
 
 #: translation.js:118
 msgid "Bus5-Split-4-1: Split the 5-bits bus into two buses of 4 and 1 bits"
 msgstr "Bus5-Split-4-1: Separar el bus de 5 bits en dos buses de 4 y 1 bits"
 
 #: translation.js:119
-#, fuzzy
 msgid "Not-x06"
-msgstr "Not-x02"
+msgstr "Not-x06"
 
 #: translation.js:120
-#, fuzzy
 msgid "not-x6: 6-bits not gate"
-msgstr "not-x2: Puerta not de entrada de 2 bits"
+msgstr "not-x6: Puerta not de entrada de 6 bits"
 
 #: translation.js:121
 msgid "Bus6-Join-4-2: Join the two buses into a 6-bits Bus"
@@ -491,14 +486,12 @@ msgid "Bus6-Split-4-2: Split the 6-bits bus into two buses of 4 and 2 wires"
 msgstr "Bus6-Split-4-2: Separar el bus de 6 bits en dos buses de 4 y 2 cables"
 
 #: translation.js:123
-#, fuzzy
 msgid "Not-x07"
-msgstr "Not-x02"
+msgstr "Not-x07"
 
 #: translation.js:124
-#, fuzzy
 msgid "not-x7: 7-bits not gate"
-msgstr "not-x2: Puerta not de entrada de 2 bits"
+msgstr "not-x7: Puerta not de entrada de 7 bits"
 
 #: translation.js:125
 msgid "Not-x08"
@@ -1297,19 +1290,16 @@ msgid "04-bits"
 msgstr "04-bits"
 
 #: translation.js:335
-#, fuzzy
 msgid "05-bits"
-msgstr "02-bits"
+msgstr "05-bits"
 
 #: translation.js:336
-#, fuzzy
 msgid "06-bits"
-msgstr "02-bits"
+msgstr "06-bits"
 
 #: translation.js:337
-#, fuzzy
 msgid "07-bits"
-msgstr "02-bits"
+msgstr "07-bits"
 
 #: translation.js:338
 msgid "08-bits"
@@ -1375,52 +1365,46 @@ msgstr ""
 "Las 4 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:355
-#, fuzzy
 msgid "3bits constant value: 0"
-msgstr "Valor constante 7 de 3 bits"
+msgstr "Valor constante 0 de 3 bits"
 
 #: translation.js:356
-#, fuzzy
 msgid ""
 "# Not-x5 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
 "The 5 inputs are inverted (negative logic) and displayed on the LEDs  "
 msgstr ""
-"# Puerta Not-x4: Comprobación manual con un pulsador y  LEDs\n"
+"# Puerta Not-x5: Comprobación manual con un pulsador y  LEDs\n"
 "\n"
-"Las 4 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
+"Las 5 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:359
-#, fuzzy
 msgid "4bits constant value: 0"
-msgstr "Valor constante 0 de 2 bits"
+msgstr "Valor constante 0 de 4 bits"
 
 #: translation.js:360
-#, fuzzy
 msgid ""
 "# Not-x6 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
 "The 6 inputs are inverted (negative logic) and displayed on the LEDs  "
 msgstr ""
-"# Puerta Not-x4: Comprobación manual con un pulsador y  LEDs\n"
+"# Puerta Not-x6: Comprobación manual con un pulsador y  LEDs\n"
 "\n"
-"Las 4 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
+"Las 6 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:363
-#, fuzzy
 msgid "5bits constant value: 0"
-msgstr "Valor constante 0 de 2 bits"
+msgstr "Valor constante 0 de 5 bits"
 
 #: translation.js:364
-#, fuzzy
 msgid ""
 "# Not-x7 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
 "The 6 inputs are inverted (negative logic) and displayed on the LEDs  "
 msgstr ""
-"# Puerta Not-x4: Comprobación manual con un pulsador y  LEDs\n"
+"# Puerta Not-x7: Comprobación manual con un pulsador y  LEDs\n"
 "\n"
-"Las 4 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
+"Las 7 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:367
 msgid "6bits constant value: 0"

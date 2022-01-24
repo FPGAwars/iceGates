@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/96) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/94) |
 
 ## Blocks
 * **And**
@@ -73,6 +73,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Not-x04
   * Not-x05
   * Not-x06
+  * Not-x07
   * Not-x08
   * Not
 * **Or**
@@ -213,6 +214,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-manual-btn-led
     * **06-bits**
+      * **Alhambra-II**
+        * 01-manual-btn-led
+    * **07-bits**
       * **Alhambra-II**
         * 01-manual-btn-led
     * **08-bits**

@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/96) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/94) |
 
 ## Blocks
 * **And**
@@ -107,6 +107,9 @@ For installing and using this colection in Icestudio follow these steps:
 * **02-AND-gate-BUS**
   * **Alhambra-II**
     * 02-And-gate-BUS-buttons-LED
+* **03-AND-enable**
+  * **Alhambra-II**
+    * 03-And-enable-buttons-LED
 * **TESTs**
   * **And**
     * **And-Bus**

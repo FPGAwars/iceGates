@@ -61,6 +61,7 @@ gettext('And-Busen3');
 gettext('AND-Busen-3: Enable a 3-bits bus. When the enable signal is 0, the output is 0');
 gettext('Bus3-Join-all: Joint three wires into a 3-bits Bus');
 gettext('And-Busen4');
+gettext('AND-Busen-4: Enable a 4-bits bus. When the enable signal is 0, the output is 0');
 gettext('Bus4-Join-all: Join all the wires into a 4-bits Bus');
 gettext('And-Busen5');
 gettext('AND-Busen-5: Enable a 5-bits bus. When the enable signal is 0, the output is 0');

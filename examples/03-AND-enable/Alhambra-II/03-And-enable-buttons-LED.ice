@@ -106,12 +106,12 @@
             "readonly": true
           },
           "position": {
-            "x": -128,
-            "y": -72
+            "x": -136,
+            "y": -80
           },
           "size": {
-            "width": 608,
-            "height": 104
+            "width": 576,
+            "height": 96
           }
         },
         {
@@ -216,9 +216,9 @@
   "dependencies": {
     "b60101568b14aaf999bf272c2114498155e4c4dd": {
       "package": {
-        "name": "AND-Busen-3 CLONE",
-        "version": "1.0-c1642589507275",
-        "description": "AND-Busen-3: Enable a 3-bits bus. When the enable signal is 0, the output is 0",
+        "name": "AND-Busen-4",
+        "version": "1.0",
+        "description": "AND-Busen-4: Enable a 4-bits bus. When the enable signal is 0, the output is 0",
         "author": "Jesús Arroyo, Juan González",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22336.09%22%20height=%22194.045%22%20version=%221%22%3E%3Cpath%20d=%22M174.656%20190.045H78.304V4h96.352s87.463%208.625%2087.463%2091.94c0%2083.311-87.463%2094.105-87.463%2094.105z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2045.668h74.018M4.057%20144.812h74.018m184.632-50.034h69.326%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%2292.894%22%20y=%22114.587%22%20font-weight=%22400%22%20font-size=%2258.054%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%2292.894%22%20y=%22114.587%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%3EAND%3C/tspan%3E%3C/text%3E%3C/svg%3E"
       },

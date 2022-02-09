@@ -167,6 +167,7 @@ gettext('01-AND-gate');
 gettext('02-AND-gate-BUS');
 gettext('03-AND-enable');
 gettext('04-AND-op');
+gettext('05-OR-gate');
 gettext('TESTs');
 gettext('00-Index');
 gettext('# INDEX: IceGate Collection');
@@ -209,6 +210,10 @@ gettext('## Example: Manual testing of the AND-Op4 gate\n\nThe AND-Op4 gate perf
 gettext('Operand b or 0');
 gettext('Enable the operand b');
 gettext('`a AND b`');
+gettext('Alhambra-II');
+gettext('05-Or-gate-buttons-LED');
+gettext('**OR Gate**');
+gettext('## Example: Manual testing of the OR2 gate\n\nThe LED is turned on when any button (or both) are pressed');
 gettext('And');
 gettext('Nand');
 gettext('Nor');

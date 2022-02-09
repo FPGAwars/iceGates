@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="330.77365mm"
+   height="202.29065mm"
+   viewBox="0 0 330.77365 202.29065"
+   version="1.1"
+   id="svg14964"
+   inkscape:version="1.1.2 (0a00cf5, 2022-02-04)"
+   sodipodi:docname="or-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14966"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="676.79038"
+     inkscape:cy="372.3518"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs14961">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="back"
+     transform="translate(54.018536,0.36676781)">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+       id="rect26402"
+       width="330.24448"
+       height="201.76149"
+       x="-53.753952"
+       y="-0.10218431"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1338"
+       transform="matrix(0.56286368,0,0,0.56286368,16.109326,35.643707)"
+       style="stroke-width:1.77663">
+      <g
+         id="layer4"
+         inkscape:label="back"
+         transform="translate(12.828938,6.4144583)"
+         style="stroke-width:1.77663" />
+      <g
+         id="layer2-3"
+         inkscape:label="block"
+         style="display:inline;stroke-width:1.77663"
+         transform="translate(-20.843431,-87.422113)">
+        <rect
+           style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:2.37157;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect861-6"
+           width="122.05302"
+           height="80.110222"
+           x="35.931576"
+           y="94.043175"
+           ry="6.1933956" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.54951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 24.842745,113.42359 H 35.737008"
+           id="path865-3-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.54951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 24.842745,154.5831 H 35.737008"
+           id="path865-3-67"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.54951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 157.89037,133.8889 h 10.89426"
+           id="path865-3-67-5"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="layer3-5"
+         inkscape:label="symbol"
+         style="display:inline;stroke-width:1.77663"
+         transform="translate(-20.843431,-87.422113)">
+        <g
+           id="g838"
+           transform="matrix(0.25891698,0,0,0.25879393,47.654803,109.06955)"
+           style="stroke-width:1.81594">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:14.5276;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path6-3"
+             d="M 175.56021,188.7178 H 84.527463 c 0,0 30.344497,-42.53778 31.085357,-94.03028 C 116.35558,43.19879 83.791909,4.39373 83.791909,4.39373 L 176.10932,4 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             style="fill:none;stroke:#000000;stroke-width:14.5276;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path8"
+             d="m 4.05697,47.29151 h 99.60472 M 4.883093,145.1682 H 105.86424 M 298.57,98.890134 h 81.07" />
+          <text
+             id="text10"
+             line-height="125%"
+             x="131.5721"
+             y="121.27979"
+             font-style="normal"
+             font-size="17.5px"
+             xml:space="preserve"
+             font-weight="normal"
+             style="font-style:normal;font-weight:normal;font-size:66.3172px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:1.81594"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:1.81594"
+               id="tspan12"
+               x="131.5721"
+               y="121.27979"
+               font-variant="normal"
+               font-stretch="normal"
+               font-style="normal"
+               font-weight="bold">OR</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(54.018536,0.36676781)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="45.823753"
+       y="32.433182"
+       id="text3278"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3276"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+         x="45.823753"
+         y="32.433182">Or2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="-41.270145"
+       y="25.989058"
+       id="text3278-6"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-41.270145"
+         y="25.989058"
+         id="tspan7689">2 inputs</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -23.905608,29.583892 35.94023,17.92847"
+       id="path7194"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="45.823753"
+       y="106.63238"
+       id="text18032"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan18030"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+         x="45.823753"
+         y="106.63238">Or3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="208.32913"
+       y="58.307076"
+       id="text19358"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19356"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+         x="208.32913"
+         y="58.307076">Or4</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M -23.905608,29.583892 12.352848,70.439478"
+       id="path22994"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="-41.270145"
+       y="98.244652"
+       id="text23182"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-41.270145"
+         y="98.244652"
+         id="tspan23180">3 inputs</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -23.905608,101.83948 35.94023,17.92847"
+       id="path23184"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -23.905608,101.83948 36.258456,40.85559"
+       id="path23186"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -23.905608,101.83948 36.258456,59.53303"
+       id="path24812"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="120.55668"
+       y="51.469074"
+       id="text25005"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="120.55668"
+         y="51.469074"
+         id="tspan25003">4 inputs</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 137.92121,55.063895 35.94023,17.92847"
+       id="path25007"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 137.92121,55.063895 36.25846,40.85559"
+       id="path25009"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 137.92121,55.063895 36.25846,59.533025"
+       id="path25011"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 137.92121,55.063895 174.17967,138.972"
+       id="path26022"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceGates/wiki/images/and-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g4494"
+       transform="translate(321.75588,-23.847251)">
+      <g
+         id="layer2"
+         inkscape:label="block"
+         style="display:inline;opacity:1;stroke-width:1.55306"
+         transform="matrix(0.64389074,0,0,0.64389074,-327.34578,79.767893)">
+        <rect
+           style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:2.07313;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect861"
+           width="106.55138"
+           height="101.69727"
+           x="46.889626"
+           y="84.920242"
+           ry="4.3739834" />
+        <path
+           style="fill:none;stroke:#777777;stroke-width:3.10284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.671681,135.46172 h 9.15701"
+           id="path865"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.10284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.671681,101.58271 h 9.15701"
+           id="path865-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.24082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 153.50194,135.12261 h 9.98947"
+           id="path865-3-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#777777;stroke-width:3.10284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.671681,170.3131 h 9.15701"
+           id="path15209-5"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.28732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           id="path6-3-6"
+           d="M 95.81226,159.03129 H 71.726517 c 0,0 8.028648,-11.25478 8.224667,-24.87884 0.196522,-13.62306 -8.419283,-23.89023 -8.419283,-23.89023 l 24.425649,-0.10418 c 12.28852,0.51537 27.48975,14.13943 32.55616,24.7856 -8.62583,17.86027 -24.38353,23.75688 -32.70155,24.08775 z" />
+        <path
+           id="path819"
+           d="M 57.392642,121.61226 H 76.806767"
+           style="fill:none;stroke:#000000;stroke-width:3.28732;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path8-2"
+           d="m 128.3586,135.26439 h 14.79376"
+           style="fill:none;stroke:#000000;stroke-width:3.28732;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:nodetypes="cc" />
+        <text
+           id="text10-9"
+           line-height="125%"
+           x="84.173737"
+           y="141.18832"
+           font-style="normal"
+           font-size="17.5px"
+           xml:space="preserve"
+           font-weight="normal"
+           style="font-style:normal;font-weight:normal;font-size:17.5464px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:0.410913"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:0.410913"
+             id="tspan12-1"
+             x="84.173737"
+             y="141.18832"
+             font-variant="normal"
+             font-stretch="normal"
+             font-style="normal"
+             font-weight="bold">OR</tspan></text>
+        <path
+           id="path4077"
+           d="M 57.392642,147.5088 H 76.806767"
+           style="fill:none;stroke:#000000;stroke-width:3.28732;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="layer3"
+         inkscape:label="symbol"
+         style="display:inline"
+         transform="translate(-37.671681,-84.252807)" />
+    </g>
+    <g
+       id="g10606"
+       transform="matrix(0.64389069,0,0,0.64389069,178.54942,61.326249)"
+       style="stroke-width:1.55306">
+      <g
+         id="layer2-0"
+         inkscape:label="block"
+         style="display:inline;opacity:1;stroke-width:1.55306"
+         transform="translate(-37.671681,-64.685981)">
+        <rect
+           style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:2.07313;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect861-9"
+           width="106.55138"
+           height="140.66063"
+           x="46.889626"
+           y="65.353409"
+           ry="3.386368" />
+        <path
+           style="fill:none;stroke:#777777;stroke-width:3.10284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.671681,117.96093 h 9.15701"
+           id="path865-36"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.10284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.671681,82.738985 h 9.15701"
+           id="path865-3-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.24082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 153.50194,135.12261 h 9.98947"
+           id="path865-3-6-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#777777;stroke-width:3.10284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.671681,153.05343 h 9.15701"
+           id="path15209"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#777777;stroke-width:3.10284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.671681,188.10334 h 9.15701"
+           id="path15563-2"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="layer3-6"
+         inkscape:label="symbol"
+         style="display:inline;stroke-width:1.55306"
+         transform="translate(-37.671681,-64.685981)">
+        <g
+           id="g10551"
+           transform="translate(0,-104.97254)"
+           style="stroke-width:1.55306">
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:3.28732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path6-2"
+             d="M 95.60008,264.1828 H 71.51434 c 0,0 8.02865,-11.25479 8.22466,-24.87885 0.19653,-13.62306 -8.41928,-23.89023 -8.41928,-23.89023 l 24.42565,-0.10417 c 12.28852,0.51536 27.48976,14.13942 32.55616,24.7856 -8.62583,17.86027 -24.38353,23.75687 -32.70155,24.08775 z" />
+          <path
+             id="path819-1"
+             d="M 57.39264,226.76375 H 76.80676"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:3.28732;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             sodipodi:nodetypes="cc" />
+          <text
+             id="text10-8"
+             line-height="125%"
+             x="83.961555"
+             y="246.33981"
+             font-style="normal"
+             font-size="17.5px"
+             xml:space="preserve"
+             font-weight="normal"
+             style="font-style:normal;font-weight:normal;font-size:17.5464px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;stroke-width:0.410913"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:0.410913"
+               id="tspan12-7"
+               x="83.961555"
+               y="246.33981"
+               font-variant="normal"
+               font-stretch="normal"
+               font-style="normal"
+               font-weight="bold">OR</tspan></text>
+          <path
+             id="path10013"
+             d="M 57.39264,252.66029 H 76.80676"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:3.28732;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             sodipodi:nodetypes="cc" />
+          <path
+             id="path10013-7"
+             d="m 128.53178,240.41589 h 14.62059"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:3.28732;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             sodipodi:nodetypes="cc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="345.74564mm"
+   height="179.9178mm"
+   viewBox="0 0 345.74563 179.9178"
+   version="1.1"
+   id="svg14964"
+   inkscape:version="1.1.2 (0a00cf5, 2022-02-04)"
+   sodipodi:docname="or-04.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14966"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="661.17814"
+     inkscape:cy="334.88244"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer10"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="394.50137,141.8159"
+       orientation="1,0"
+       id="guide3301" />
+  </sodipodi:namedview>
+  <defs
+     id="defs14961">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="back"
+     transform="translate(68.99052,0.36676781)">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+       id="rect26402"
+       width="345.21646"
+       height="179.38864"
+       x="-68.725937"
+       y="-0.10218431"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/or-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(68.99052,0.36676781)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="-53.237343"
+       y="18.52969"
+       id="text3278-6"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/or-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-53.237343"
+         y="18.52969"
+         id="tspan7689">2 bits </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-53.237343"
+         y="28.532177"
+         id="tspan12578">Bus input</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M -34.802974,34.990509 1.1372564,52.918979"
+       id="path7194"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/or-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -36.902807,100.99314 35.94023003,17.92847"
+       id="path23184"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/or-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 122.69732,34.717448 35.94023,17.92847"
+       id="path25007"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/or-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="-53.237343"
+       y="85.660194"
+       id="text14544"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/or-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-53.237343"
+         y="85.660194"
+         id="tspan14540">4 bits </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-53.237343"
+         y="95.662682"
+         id="tspan14542">Bus input</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="109.15657"
+       y="18.159821"
+       id="text26289"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/or-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="109.15657"
+         y="18.159821"
+         id="tspan26285">8 bits </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="109.15657"
+         y="28.162308"
+         id="tspan26287">Bus input</tspan></text>
+    <g
+       id="layer4"
+       inkscape:label="back"
+       transform="matrix(0.63593676,0,0,0.63593676,324.07413,37.603741)"
+       style="stroke-width:1.57248" />
+    <g
+       id="g5597"
+       transform="translate(-296.8811)"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/or-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+         x="341.20847"
+         y="32.433182"
+         id="text3278"
+         inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/and-04.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan3276"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+           x="341.20847"
+           y="32.433182">OR-BUS2</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:4.49792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 319.32023,63.594467 h 6.19064"
+         id="path7658"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.58358px;line-height:1.25;font-family:sans-serif;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.339592"
+         x="300.42657"
+         y="56.022972"
+         id="text9740"><tspan
+           sodipodi:role="line"
+           id="tspan9738"
+           style="fill:#777777;stroke-width:0.339592"
+           x="300.42657"
+           y="56.022972">[1:0]</tspan></text>
+      <rect
+         style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:1.33487;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect861-6-6"
+         width="77.617996"
+         height="50.945034"
+         x="325.51086"
+         y="37.735126"
+         ry="3.9386079" />
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.99789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 403.06893,63.074489 h 6.92806"
+         id="path865-3-67-5"
+         inkscape:connector-curvature="0" />
+      <g
+         id="layer3-5"
+         inkscape:label="symbol"
+         style="display:inline;stroke-width:1.57248"
+         transform="matrix(0.63593676,0,0,0.63593676,302.66064,-22.070384)">
+        <g
+           id="g838"
+           transform="matrix(0.25891698,0,0,0.25879393,47.654803,109.06955)"
+           style="stroke-width:1.60728">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:12.8583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path6-3"
+             d="M 175.56021,188.7178 H 84.527463 c 0,0 30.344497,-42.53778 31.085357,-94.03028 C 116.35558,43.19879 83.791909,4.39373 83.791909,4.39373 L 176.10932,4 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             style="fill:none;stroke:#000000;stroke-width:12.8583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path8-7"
+             d="m 4.05697,47.29151 h 99.60472 M 4.883093,145.1682 H 105.86424 M 298.57,98.890134 h 81.07" />
+          <text
+             id="text10-5"
+             line-height="125%"
+             x="131.5721"
+             y="121.27979"
+             font-style="normal"
+             font-size="17.5px"
+             xml:space="preserve"
+             font-weight="normal"
+             style="font-style:normal;font-weight:normal;font-size:66.3172px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:1.60728"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:1.60728"
+               id="tspan12-3"
+               x="131.5721"
+               y="121.27979"
+               font-variant="normal"
+               font-stretch="normal"
+               font-style="normal"
+               font-weight="bold">OR</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+         x="341.20847"
+         y="103.06911"
+         id="text7819"
+         inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/and-04.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan7817"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+           x="341.20847"
+           y="103.06911">OR-BUS4</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:4.49792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 319.32023,134.2304 h 6.19064"
+         id="path7821"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.58358px;line-height:1.25;font-family:sans-serif;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.339592"
+         x="300.42657"
+         y="126.65891"
+         id="text7825"><tspan
+           sodipodi:role="line"
+           id="tspan7823"
+           style="fill:#777777;stroke-width:0.339592"
+           x="300.42657"
+           y="126.65891">[3:0]</tspan></text>
+      <rect
+         style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:1.33487;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7827"
+         width="77.617996"
+         height="50.945034"
+         x="325.51086"
+         y="108.37106"
+         ry="3.9386079" />
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.99789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 403.06893,133.71042 h 6.92806"
+         id="path7829"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g7841"
+         inkscape:label="symbol"
+         style="display:inline;stroke-width:1.57248"
+         transform="matrix(0.63593676,0,0,0.63593676,302.66064,48.565549)">
+        <g
+           id="g7839"
+           transform="matrix(0.25891698,0,0,0.25879393,47.654803,109.06955)"
+           style="stroke-width:1.60728">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:12.8583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path7831"
+             d="M 175.56021,188.7178 H 84.527463 c 0,0 30.344497,-42.53778 31.085357,-94.03028 C 116.35558,43.19879 83.791909,4.39373 83.791909,4.39373 L 176.10932,4 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             style="fill:none;stroke:#000000;stroke-width:12.8583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path7833"
+             d="m 4.05697,47.29151 h 99.60472 M 4.883093,145.1682 H 105.86424 M 298.57,98.890134 h 81.07" />
+          <text
+             id="text7837"
+             line-height="125%"
+             x="131.5721"
+             y="121.27979"
+             font-style="normal"
+             font-size="17.5px"
+             xml:space="preserve"
+             font-weight="normal"
+             style="font-style:normal;font-weight:normal;font-size:66.3172px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:1.60728"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:1.60728"
+               id="tspan7835"
+               x="131.5721"
+               y="121.27979"
+               font-variant="normal"
+               font-stretch="normal"
+               font-style="normal"
+               font-weight="bold">OR</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+         x="499.43829"
+         y="32.433182"
+         id="text12045"
+         inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceGates/wiki/images/and-04.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan12043"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+           x="499.43829"
+           y="32.433182">OR-BUS8</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:4.49792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 477.55005,63.594467 h 6.19064"
+         id="path12047"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.58358px;line-height:1.25;font-family:sans-serif;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.339592"
+         x="458.6564"
+         y="56.022972"
+         id="text12051"><tspan
+           sodipodi:role="line"
+           id="tspan12049"
+           style="fill:#777777;stroke-width:0.339592"
+           x="458.6564"
+           y="56.022972">[7:0]</tspan></text>
+      <rect
+         style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:1.33487;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12053"
+         width="77.617996"
+         height="50.945034"
+         x="483.74069"
+         y="37.735126"
+         ry="3.9386079" />
+      <path
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.99789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 561.29875,63.074489 h 6.92806"
+         id="path12055"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g12067"
+         inkscape:label="symbol"
+         style="display:inline;stroke-width:1.57248"
+         transform="matrix(0.63593676,0,0,0.63593676,460.89046,-22.070384)">
+        <g
+           id="g12065"
+           transform="matrix(0.25891698,0,0,0.25879393,47.654803,109.06955)"
+           style="stroke-width:1.60728">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:12.8583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path12057"
+             d="M 175.56021,188.7178 H 84.527463 c 0,0 30.344497,-42.53778 31.085357,-94.03028 C 116.35558,43.19879 83.791909,4.39373 83.791909,4.39373 L 176.10932,4 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             style="fill:none;stroke:#000000;stroke-width:12.8583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path12059"
+             d="m 4.05697,47.29151 h 99.60472 M 4.883093,145.1682 H 105.86424 M 298.57,98.890134 h 81.07" />
+          <text
+             id="text12063"
+             line-height="125%"
+             x="131.5721"
+             y="121.27979"
+             font-style="normal"
+             font-size="17.5px"
+             xml:space="preserve"
+             font-weight="normal"
+             style="font-style:normal;font-weight:normal;font-size:66.3172px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:1.60728"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:1.60728"
+               id="tspan12061"
+               x="131.5721"
+               y="121.27979"
+               font-variant="normal"
+               font-stretch="normal"
+               font-style="normal"
+               font-weight="bold">OR</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-12 20:14+0000\n"
+"POT-Creation-Date: 2022-02-12 20:20+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -664,7 +664,7 @@ msgstr "And-Op-2"
 msgid "Or-Op4: Or operation between two numbers of 4 bits"
 msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
 
-#: translation.js:166 translation.js:491
+#: translation.js:166 translation.js:495
 msgid "Xnor-op2"
 msgstr "Xnor-op2"
 
@@ -680,15 +680,15 @@ msgstr "Xnor-x02: Puerta XNOR de 2 entradas de un bit"
 msgid "XOR gate: two bits input xor gate"
 msgstr "Puerta XOR de 2 entradas de un bit"
 
-#: translation.js:170 translation.js:492
+#: translation.js:170 translation.js:496
 msgid "Xnor2"
 msgstr "Xnor2"
 
-#: translation.js:171 translation.js:502
+#: translation.js:171 translation.js:506
 msgid "Xor-op2"
 msgstr "Xor-op2"
 
-#: translation.js:172 translation.js:501
+#: translation.js:172 translation.js:505
 msgid "Xor2"
 msgstr "Xor2"
 
@@ -813,10 +813,11 @@ msgstr "And-Op2"
 #: translation.js:392 translation.js:395 translation.js:398 translation.js:402
 #: translation.js:406 translation.js:410 translation.js:414 translation.js:418
 #: translation.js:438 translation.js:441 translation.js:444 translation.js:447
-#: translation.js:450 translation.js:454 translation.js:458 translation.js:464
-#: translation.js:467 translation.js:470 translation.js:474 translation.js:476
-#: translation.js:479 translation.js:482 translation.js:485 translation.js:488
-#: translation.js:493 translation.js:496 translation.js:503 translation.js:506
+#: translation.js:450 translation.js:454 translation.js:458 translation.js:465
+#: translation.js:468 translation.js:471 translation.js:474 translation.js:478
+#: translation.js:480 translation.js:483 translation.js:486 translation.js:489
+#: translation.js:492 translation.js:497 translation.js:500 translation.js:507
+#: translation.js:510
 msgid "Alhambra-II"
 msgstr "Alhambra-II"
 
@@ -999,9 +1000,9 @@ msgstr ""
 #: translation.js:358 translation.js:361 translation.js:363 translation.js:366
 #: translation.js:369 translation.js:372 translation.js:376 translation.js:381
 #: translation.js:439 translation.js:442 translation.js:445 translation.js:448
-#: translation.js:451 translation.js:455 translation.js:459 translation.js:471
-#: translation.js:475 translation.js:477 translation.js:480 translation.js:483
-#: translation.js:486 translation.js:489 translation.js:497 translation.js:507
+#: translation.js:451 translation.js:455 translation.js:459 translation.js:475
+#: translation.js:479 translation.js:481 translation.js:484 translation.js:487
+#: translation.js:490 translation.js:493 translation.js:501 translation.js:511
 msgid "01-manual-btns-led"
 msgstr "01-manual-btns-led"
 
@@ -1245,8 +1246,8 @@ msgstr ""
 "Cuando el botón se aprieta, los LEDs se encienden"
 
 #: translation.js:331 translation.js:333 translation.js:337 translation.js:340
-#: translation.js:343 translation.js:346 translation.js:350 translation.js:465
-#: translation.js:468 translation.js:494 translation.js:504
+#: translation.js:343 translation.js:346 translation.js:350 translation.js:466
+#: translation.js:469 translation.js:472 translation.js:498 translation.js:508
 msgid "01-manual-test-btns-leds"
 msgstr "01-manual-test-btns-leds"
 
@@ -1800,7 +1801,12 @@ msgstr "Xor-op2"
 msgid "Or-op-3"
 msgstr "Xor-op2"
 
-#: translation.js:466
+#: translation.js:464
+#, fuzzy
+msgid "Or-op-4"
+msgstr "Xor-op2"
+
+#: translation.js:467
 #, fuzzy
 msgid ""
 "# OR-Op2: Manual testing with two pushbuttons and two LEDs\n"
@@ -1817,7 +1823,7 @@ msgstr ""
 "pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
-#: translation.js:469
+#: translation.js:470
 #, fuzzy
 msgid ""
 "# OR-Op3: Manual testing with two pushbuttons and two LEDs\n"
@@ -1831,7 +1837,21 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:472
+#: translation.js:473
+#, fuzzy
+msgid ""
+"# OR-Op4: Manual testing with two pushbuttons and two LEDs\n"
+"\n"
+"The OR operation is applied to the 4-bits coming form the pushbuttons and a "
+"constant  \n"
+"number. The result is shown on the LEDs\n"
+msgstr ""
+"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"\n"
+"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"y un número constante. El resultado se muestra en los LEDs\n"
+
+#: translation.js:476
 msgid ""
 "# OR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1845,7 +1865,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:473
+#: translation.js:477
 msgid ""
 "## OR Truth table\n"
 "\n"
@@ -1865,7 +1885,7 @@ msgstr ""
 "| 1   |  0  |   1    |\n"
 "| 1   |  1  |   1    |"
 
-#: translation.js:478
+#: translation.js:482
 msgid ""
 "# OR4 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1879,7 +1899,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:481
+#: translation.js:485
 msgid ""
 "# OR5 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1893,7 +1913,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:484
+#: translation.js:488
 msgid ""
 "# OR6 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1907,7 +1927,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:487
+#: translation.js:491
 msgid ""
 "# OR7 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1921,7 +1941,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:490
+#: translation.js:494
 msgid ""
 "# OR8 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1935,7 +1955,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:495
+#: translation.js:499
 msgid ""
 "# XNOR-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1949,11 +1969,11 @@ msgstr ""
 "pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
-#: translation.js:498
+#: translation.js:502
 msgid "# XNOR gate: Manual testing with two pushbuttons and one LED\n"
 msgstr "# Puerta XNOR: Comprobación manual con dos pulsadores y un LED\n"
 
-#: translation.js:499
+#: translation.js:503
 msgid ""
 "## XNOR Truth table\n"
 "\n"
@@ -1973,11 +1993,11 @@ msgstr ""
 "| 1   |  0  |   0    |\n"
 "| 1   |  1  |   1    |"
 
-#: translation.js:500
+#: translation.js:504
 msgid "Xor-op"
 msgstr "Xor-op"
 
-#: translation.js:505
+#: translation.js:509
 msgid ""
 "# XOR-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1991,7 +2011,7 @@ msgstr ""
 "pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
-#: translation.js:508
+#: translation.js:512
 msgid ""
 "# XOR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -2005,7 +2025,7 @@ msgstr ""
 "pero  \n"
 "no ambos a la vez"
 
-#: translation.js:509
+#: translation.js:513
 msgid ""
 "## XOR Truth table\n"
 "\n"

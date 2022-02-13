@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="283.21228mm"
+   height="103.15453mm"
+   viewBox="0 0 283.21228 103.15453"
+   version="1.1"
+   id="svg14964"
+   inkscape:version="1.1.2 (0a00cf5, 2022-02-04)"
+   sodipodi:docname="xor-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14966"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="750.16788"
+     inkscape:cy="362.20385"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer10"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="-31.691411,18.887494"
+       orientation="1,0"
+       id="guide14828" />
+  </sodipodi:namedview>
+  <defs
+     id="defs14961">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="back"
+     transform="translate(73.548267,0.3667678)">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+       id="rect26402"
+       width="282.68311"
+       height="102.62537"
+       x="-73.283684"
+       y="-0.1021843"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/xor-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
+       d="m 142.61164,40.275695 -35.94023,17.92847"
+       id="path5613"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/xor-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="129.78627"
+       y="35.999035"
+       id="text11547"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/xor-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="129.78627"
+         y="35.999035"
+         id="tspan11545">output</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(73.548267,0.3667678)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="45.823753"
+       y="32.433182"
+       id="text3278"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/xor-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3276"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+         x="45.823753"
+         y="32.433182">Xor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="-41.270145"
+       y="25.989058"
+       id="text3278-6"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/xor-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-41.270145"
+         y="25.989058"
+         id="tspan7689">2 inputs</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -23.905608,29.583892 35.94023,17.92847"
+       id="path7194"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/xor-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M -23.905608,29.583892 12.352848,70.439478"
+       id="path22994"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/xor-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g14824"
+       transform="matrix(0.55864447,0,0,0.55864447,16.661641,35.586651)"
+       style="stroke-width:1.79005"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/xor-01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="layer2-2"
+         inkscape:label="block"
+         style="display:inline;stroke-width:1.79005"
+         transform="translate(-20.843431,-87.422113)">
+        <rect
+           style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:2.38948;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect861-0"
+           width="123.75391"
+           height="82.189087"
+           x="34.986633"
+           y="91.586327"
+           ry="6.354115" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.57632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 23.141853,153.54367 H 35.264539"
+           id="path865-3-67-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.57632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 158.42491,132.55255 h 11.4288"
+           id="path865-3-67-5-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#777777;stroke-width:3.57632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 23.141853,111.58831 H 35.264539"
+           id="path865-3-67-3"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="layer3-7"
+         inkscape:label="symbol"
+         style="display:inline;stroke-width:1.79005"
+         transform="translate(-20.843431,-87.422113)">
+        <g
+           id="g851"
+           transform="matrix(0.26458333,0,0,0.26458333,45.988066,107.40806)"
+           style="stroke-width:1.79005">
+          <g
+             transform="translate(-4.3309214e-8,0.3287938)"
+             id="g4154"
+             style="stroke-width:1.79005">
+            <path
+               d="M 175.56021,188.7178 H 84.527463 c 0,0 30.344497,-42.53778 31.085357,-94.03028 C 116.35558,43.19879 83.791909,4.39373 83.791909,4.39373 L 176.10932,4 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z"
+               id="path6-7"
+               inkscape:connector-curvature="0"
+               style="fill:none;stroke:#000000;stroke-width:14.3203;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+            <path
+               d="m 4.05697,47.29151 h 99.60472 M 4.883093,145.1682 H 105.86424 M 298.57,98.890134 h 81.07"
+               id="path8-5"
+               inkscape:connector-curvature="0"
+               style="fill:none;stroke:#000000;stroke-width:14.3203;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+               sodipodi:nodetypes="cccccc" />
+            <text
+               style="font-style:normal;font-weight:normal;font-size:58.2401px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:1.79005"
+               font-weight="normal"
+               xml:space="preserve"
+               font-size="17.5px"
+               font-style="normal"
+               y="115.28504"
+               x="129.01074"
+               line-height="125%"
+               id="text10-3"><tspan
+                 font-weight="bold"
+                 font-style="normal"
+                 font-stretch="normal"
+                 font-variant="normal"
+                 y="115.28504"
+                 x="129.01074"
+                 id="tspan12-5"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:1.79005">XOR</tspan></text>
+          </g>
+          <path
+             sodipodi:nodetypes="ccc"
+             style="fill:none;stroke:#000000;stroke-width:14.3203;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             id="path6-7-2"
+             d="m 54.321215,188.3678 c 0,0 30.3445,-42.53778 31.08536,-94.030276 0.74276,-51.48873 -31.82091,-90.2937902 -31.82091,-90.2937902" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

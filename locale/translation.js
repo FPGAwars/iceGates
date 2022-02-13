@@ -163,6 +163,8 @@ gettext('Or-Op-3');
 gettext('OR-Op3: Or operation between two numbers of 3 bits');
 gettext('Or-Op-4');
 gettext('Or-Op4: Or operation between two numbers of 4 bits');
+gettext('Or-Op-5');
+gettext('OR-Op5: And operation between two numbers of 5 bits');
 gettext('Xnor-op2');
 gettext('XNOR gate: two bits input xnor gate');
 gettext('XNor-x02: two input XNOR gate');
@@ -462,6 +464,7 @@ gettext('# OR-Bus8 gate: Manual testing with two pushbutton and an LED\n\nThe LE
 gettext('Or-op-2');
 gettext('Or-op-3');
 gettext('Or-op-4');
+gettext('Or-op-5');
 gettext('Alhambra-II');
 gettext('01-manual-test-btns-leds');
 gettext('# OR-Op2: Manual testing with two pushbuttons and two LEDs\n\nThe OR operation is applied to the 2-bits coming form the pushbuttons and a constant  \nnumber (0-3). The result is shown on LEDs 0 and 1\n\nThe number 0 is used by default');
@@ -471,6 +474,9 @@ gettext('# OR-Op3: Manual testing with two pushbuttons and two LEDs\n\nThe OR op
 gettext('Alhambra-II');
 gettext('01-manual-test-btns-leds');
 gettext('# OR-Op4: Manual testing with two pushbuttons and two LEDs\n\nThe OR operation is applied to the 4-bits coming form the pushbuttons and a constant  \nnumber. The result is shown on the LEDs\n');
+gettext('Alhambra-II');
+gettext('01-manual-test-btns-leds');
+gettext('# OR-Op5: Manual testing with two pushbuttons and two LEDs\n\nThe OR operation is applied to the 5-bits coming form the pushbuttons and a constant  \nnumber. The result is shown on the LEDs\n');
 gettext('Alhambra-II');
 gettext('01-manual-btns-led');
 gettext('# OR gate: Manual testing with two pushbuttons and one LED\n\nThe LED is turned on if button 1 or button 2 or both are pressed. Otherwise  \nthe LED0 is off');

@@ -101,8 +101,9 @@ For installing and using this colection in Icestudio follow these steps:
     * Or-Op-7
     * Or-Op-8
 * **Xnor**
-  * Xnor-op2
   * Xnor2
+  * **Xnor-OP**
+    * Xnor-op2
 * **Xor**
   * Xor2
   * **Xor-OP**

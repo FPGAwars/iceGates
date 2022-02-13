@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/77) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/76) |
 
 ## Blocks
 * **And**
@@ -108,6 +108,7 @@ For installing and using this colection in Icestudio follow these steps:
   * **Xor-OP**
     * Xor-op2
     * Xor-op3
+    * Xor-op4
 
 ## Examples
 * 00-Index
@@ -341,6 +342,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-manual-test-btns-leds
       * **Xor-op3**
+        * **Alhambra-II**
+          * 01-manual-test-btns-leds
+      * **Xor-op4**
         * **Alhambra-II**
           * 01-manual-test-btns-leds
     * **Xor2**

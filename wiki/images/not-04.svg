@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="280.06534mm"
+   height="110.16849mm"
+   viewBox="0 0 280.06534 110.16849"
+   version="1.1"
+   id="svg14964"
+   inkscape:version="1.1.2 (0a00cf5, 2022-02-04)"
+   sodipodi:docname="not-04.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14966"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45291836"
+     inkscape:cx="663.47498"
+     inkscape:cy="421.70955"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs14961">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-70"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="back"
+     transform="translate(73.218601,0.36676781)">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+       id="rect26402"
+       width="279.53616"
+       height="109.63932"
+       x="-72.954018"
+       y="-0.10218431"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="layer4"
+       inkscape:label="back"
+       transform="matrix(0.63593676,0,0,0.63593676,322.01829,164.14809)"
+       style="stroke-width:1.57248" />
+    <path
+       style="display:inline;fill:none;stroke:#777777;stroke-width:4.49792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.293469,63.849212 h 6.19064"
+       id="path7658"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.58358px;line-height:1.25;font-family:sans-serif;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.339592"
+       x="0.30060586"
+       y="56.982704"
+       id="text9740"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan9738"
+         style="fill:#777777;stroke-width:0.339592"
+         x="0.30060586"
+         y="56.982704">[3:0]</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#777777;stroke-width:4.49792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 93.605749,63.849212 h 6.19064"
+       id="path6375"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.58358px;line-height:1.25;font-family:sans-serif;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.339592"
+       x="97.637886"
+       y="56.982704"
+       id="text8471"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan8469"
+         style="fill:#777777;stroke-width:0.339592"
+         x="97.637886"
+         y="56.982704">[3:0]</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(73.218601,0.36676781)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="45.823753"
+       y="32.433182"
+       id="text3278"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3276"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+         x="45.823753"
+         y="32.433182">Not-4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="-61.015659"
+       y="29.104563"
+       id="text3278-6"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-61.015659"
+         y="29.104563"
+         id="tspan7689">4 bits input</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="-61.015659"
+         y="39.107048"
+         id="tspan11129">operand</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -37.248392,44.040244 35.94023,17.92847"
+       id="path7194"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:1.33487;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect861-7"
+       width="68.978661"
+       height="45.8055"
+       x="24.601898"
+       y="41.061947"
+       ry="3.5412657"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="layer3-3"
+       inkscape:label="symbol"
+       style="display:inline;stroke-width:1.5447"
+       transform="matrix(0.64737463,0,0,0.64737463,-5.7532564,-23.625737)"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g839"
+         transform="matrix(0.26458333,0,0,0.26458333,57.932603,109.32449)"
+         style="stroke-width:1.5447">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+           style="fill:none;stroke:#000000;stroke-width:12.3576;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           id="path4"
+           d="M 69.246033,3.9997089 231.10678,97.026509 69.246033,190.05824 Z" />
+        <ellipse
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+           ry="21.893293"
+           rx="21.392729"
+           style="fill:none;stroke:#000000;stroke-width:12.3576;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle6"
+           cy="96.73584"
+           cx="253.35196" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+           sodipodi:nodetypes="cccc"
+           style="fill:none;stroke:#000000;stroke-width:12.3576;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           id="path8-5"
+           d="m 4.05697,97.489598 h 65.261636 m 205.796024,0 h 38.47962" />
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+           transform="scale(0.99532128,1.0047007)"
+           id="text4142"
+           y="111.73375"
+           x="81.112289"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.5447px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.6751px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.5447px"
+             y="111.73375"
+             x="81.112289"
+             id="tspan4144"
+             sodipodi:role="line">Not</tspan></text>
+      </g>
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 157.62282,43.358537 -35.94023,17.92847"
+       id="path5613"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="136.70258"
+       y="39.494946"
+       id="text11547"
+       inkscape:export-filename="/home/obijuan/Develop/icestudio-collections/iceGates/wiki/images/not-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="136.70258"
+         y="39.494946"
+         id="tspan11545">4 bits result</tspan></text>
+  </g>
+</svg>

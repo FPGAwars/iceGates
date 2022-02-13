@@ -104,8 +104,10 @@ For installing and using this colection in Icestudio follow these steps:
   * Xnor-op2
   * Xnor2
 * **Xor**
-  * Xor-op2
   * Xor2
+  * **Xor-OP**
+    * Xor-op2
+    * Xor-op3
 
 ## Examples
 * 00-Index
@@ -336,6 +338,9 @@ For installing and using this colection in Icestudio follow these steps:
   * **Xor**
     * **Xor-op**
       * **Xor-op2**
+        * **Alhambra-II**
+          * 01-manual-test-btns-leds
+      * **Xor-op3**
         * **Alhambra-II**
           * 01-manual-test-btns-leds
     * **Xor2**

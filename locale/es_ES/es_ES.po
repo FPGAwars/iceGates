@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-13 19:05+0000\n"
+"POT-Creation-Date: 2022-02-13 19:06+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -15,47 +15,47 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: translation.js\n"
 
-#: translation.js:10 translation.js:273
+#: translation.js:10 translation.js:277
 msgid "And"
 msgstr "And"
 
-#: translation.js:11 translation.js:102 translation.js:274
+#: translation.js:11 translation.js:102 translation.js:278
 msgid "Nand"
 msgstr "Nand"
 
-#: translation.js:12 translation.js:107 translation.js:275
+#: translation.js:12 translation.js:107 translation.js:279
 msgid "Nor"
 msgstr "Nor"
 
-#: translation.js:13 translation.js:128 translation.js:276
+#: translation.js:13 translation.js:128 translation.js:280
 msgid "Not"
 msgstr "Not"
 
-#: translation.js:14 translation.js:277
+#: translation.js:14 translation.js:281
 msgid "Or"
 msgstr "Or"
 
-#: translation.js:15 translation.js:278
+#: translation.js:15 translation.js:282
 msgid "Xnor"
 msgstr "Xnor"
 
-#: translation.js:16 translation.js:279
+#: translation.js:16 translation.js:283
 msgid "Xor"
 msgstr "Xor"
 
-#: translation.js:17 translation.js:280
+#: translation.js:17 translation.js:284
 msgid "And-Bus"
 msgstr "And-Bus"
 
-#: translation.js:18 translation.js:281
+#: translation.js:18 translation.js:285
 msgid "And-Busen"
 msgstr "And-Busen"
 
-#: translation.js:19 translation.js:282
+#: translation.js:19 translation.js:286
 msgid "And-Op"
 msgstr "And-Op"
 
-#: translation.js:20 translation.js:283
+#: translation.js:20 translation.js:287
 msgid "And2"
 msgstr "And2"
 
@@ -63,7 +63,7 @@ msgstr "And2"
 msgid "Two bits input And gate"
 msgstr "Puerta AND de 2 entradas de un bit"
 
-#: translation.js:22 translation.js:284
+#: translation.js:22 translation.js:288
 msgid "And3"
 msgstr "And3"
 
@@ -71,11 +71,11 @@ msgstr "And3"
 msgid "Three bits input And gate"
 msgstr "Puerta AND de 3 entradas de un bit"
 
-#: translation.js:24 translation.js:285
+#: translation.js:24 translation.js:289
 msgid "And4"
 msgstr "And4"
 
-#: translation.js:25 translation.js:286
+#: translation.js:25 translation.js:290
 msgid "And5"
 msgstr "And5"
 
@@ -83,7 +83,7 @@ msgstr "And5"
 msgid "And5: five bits input And gate"
 msgstr "AND5:  Puerta AND de 5 entradas de un bit"
 
-#: translation.js:27 translation.js:287
+#: translation.js:27 translation.js:291
 msgid "And6"
 msgstr "And6"
 
@@ -91,7 +91,7 @@ msgstr "And6"
 msgid "And6: six bits input And gate"
 msgstr "AND6: Puerta AND de 6 entradas de un bit"
 
-#: translation.js:29 translation.js:288
+#: translation.js:29 translation.js:292
 msgid "And7"
 msgstr "And7"
 
@@ -99,7 +99,7 @@ msgstr "And7"
 msgid "And7: seven bits input And gate"
 msgstr "AND7: Puerta AND de 7 entradas de un bit"
 
-#: translation.js:31 translation.js:289
+#: translation.js:31 translation.js:293
 msgid "And8"
 msgstr "And8"
 
@@ -107,7 +107,7 @@ msgstr "And8"
 msgid "And8: 8-bits input And gate"
 msgstr "AND8: Puerta AND de 8 entradas de un bit"
 
-#: translation.js:33 translation.js:290
+#: translation.js:33 translation.js:294
 msgid "And-Bus2"
 msgstr "And-Bus2"
 
@@ -119,7 +119,7 @@ msgstr "AND-BUS2. Puerta AND con entrada de bus de 2 bits"
 msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
 msgstr "Bus2-Split-all: Separar el bus de 2 bits en sus cables"
 
-#: translation.js:36 translation.js:291
+#: translation.js:36 translation.js:295
 msgid "And-Bus3"
 msgstr "And-Bus3"
 
@@ -131,7 +131,7 @@ msgstr "AND-BUS3. Puerta AND con entrada de bus de 3 bits"
 msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
 msgstr "Bus3-Split-all: Separar el bus de 3 bits en sus cables"
 
-#: translation.js:39 translation.js:292
+#: translation.js:39 translation.js:296
 msgid "And-Bus4"
 msgstr "And-Bus4"
 
@@ -143,7 +143,7 @@ msgstr "AND-BUS4. Puerta AND con entrada de bus de 4 bits"
 msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
 msgstr "Bus4-Split-all: Separar el bus de 4 bits en sus cables"
 
-#: translation.js:42 translation.js:293
+#: translation.js:42 translation.js:297
 msgid "And-Bus5"
 msgstr "And-Bus5"
 
@@ -155,7 +155,7 @@ msgstr "AND-BUS5. Puerta AND con entrada de bus de 5 bits"
 msgid "Bus5-Split-3-2: Split the 5-bits bus into two buses of 3 and 2 bits"
 msgstr "Bus5-Split-3-2: Separar el bus de 5 bits en dos buses de 3 y 2 bits"
 
-#: translation.js:45 translation.js:294
+#: translation.js:45 translation.js:298
 msgid "And-Bus6"
 msgstr "And-Bus6"
 
@@ -167,7 +167,7 @@ msgstr "AND-BUS6. Puerta AND con entrada de bus de 6 bits"
 msgid "Bus6-Split-2-4: Split the 6-bits bus into two buses of 2 and 4 wires"
 msgstr "Bus6-Split-2-4: Separar el bus de 6 bits en dos buses de 2 y 4 cables"
 
-#: translation.js:48 translation.js:295
+#: translation.js:48 translation.js:299
 msgid "And-Bus7"
 msgstr "And-Bus7"
 
@@ -179,7 +179,7 @@ msgstr "AND-BUS7. Puerta AND con entrada de bus de 7 bits"
 msgid "Bus7-Split-3-4: Split the 7-bits bus into two buses of 3 and 4 wires"
 msgstr "Bus7-Split-3-4: Separar el bus de 7 bits en dos buses de 3 y 4 cables"
 
-#: translation.js:51 translation.js:296
+#: translation.js:51 translation.js:300
 msgid "And-Bus8"
 msgstr "And-Bus8"
 
@@ -329,7 +329,7 @@ msgstr ""
 msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
 msgstr "Bus8-Join-half: Agrupar los dos buses iguales en uno de 8 bits"
 
-#: translation.js:81 translation.js:359
+#: translation.js:81 translation.js:363
 msgid "And-Op-2"
 msgstr "And-Op-2"
 
@@ -345,7 +345,7 @@ msgstr "Operando 1"
 msgid "Operand 2"
 msgstr "Operando 2"
 
-#: translation.js:85 translation.js:360
+#: translation.js:85 translation.js:364
 msgid "And-Op-3"
 msgstr "And-Op-3"
 
@@ -361,7 +361,7 @@ msgstr "Bus5-Split-2-1: Separar el bus de 3 bits en dos buses de 2 y 1 bits"
 msgid "Bus3-Join-2-1: Joint two buses of 1 and 2 bits into a 3-bits Bus"
 msgstr "Bus3-Join-2-1: Agrupar dos buses de 1 y 2 bits en un bus de 3 bits"
 
-#: translation.js:89 translation.js:361
+#: translation.js:89 translation.js:365
 msgid "And-Op-4"
 msgstr "And-Op-4"
 
@@ -378,7 +378,7 @@ msgstr ""
 msgid "Bus4-Join-half: Join the two buses into a 4-bits Bus"
 msgstr "Bus4-Join-all: Agrupar todos los cables en un bus de 4 bits"
 
-#: translation.js:93 translation.js:362
+#: translation.js:93 translation.js:366
 msgid "And-Op-5"
 msgstr "And-Op-5"
 
@@ -390,7 +390,7 @@ msgstr "AND-Op5: Operación AND entre dos números de 5 bits"
 msgid "Bus5-Join-3-2: Join the two buses of 3 and 2 bits into a 5-bits Bus"
 msgstr "Bus5-Join-3-2: Agrupar dos buses de 3 y 2 bits en un bus de 5 bits"
 
-#: translation.js:96 translation.js:363
+#: translation.js:96 translation.js:367
 msgid "And-Op-6"
 msgstr "And-Op-6"
 
@@ -398,7 +398,7 @@ msgstr "And-Op-6"
 msgid "AND-Op6: And operation between two numbers of 6 bits"
 msgstr "AND-Op6: Operación AND entre dos números de 6 bits"
 
-#: translation.js:98 translation.js:364
+#: translation.js:98 translation.js:368
 msgid "And-Op-7"
 msgstr "And-Op-7"
 
@@ -406,7 +406,7 @@ msgstr "And-Op-7"
 msgid "AND-Op7: And operation between two numbers of 7 bits"
 msgstr "AND-Op7: Operación AND entre dos números de 7 bits"
 
-#: translation.js:100 translation.js:365
+#: translation.js:100 translation.js:369
 msgid "And-Op-8"
 msgstr "And-Op-8"
 
@@ -510,7 +510,7 @@ msgstr "Not-x08"
 msgid "not-x8: 8-bits not gate"
 msgstr "not-x8: Puerta not de entrada de 8 bits"
 
-#: translation.js:129 translation.js:458
+#: translation.js:129 translation.js:462
 msgid "Or-Bus"
 msgstr "Or-Bus"
 
@@ -518,11 +518,11 @@ msgstr "Or-Bus"
 msgid "Or-Op"
 msgstr ""
 
-#: translation.js:131 translation.js:460
+#: translation.js:131 translation.js:464
 msgid "Or2"
 msgstr "Or2"
 
-#: translation.js:132 translation.js:461
+#: translation.js:132 translation.js:465
 msgid "Or3"
 msgstr "Or3"
 
@@ -530,7 +530,7 @@ msgstr "Or3"
 msgid "OR3: Three bits input OR gate"
 msgstr "OR3: Puerta OR de 3  entradas de un bit"
 
-#: translation.js:134 translation.js:462
+#: translation.js:134 translation.js:466
 msgid "Or4"
 msgstr "Or4"
 
@@ -538,7 +538,7 @@ msgstr "Or4"
 msgid "OR4: Four bits input OR gate"
 msgstr "OR4: Puerta OR de entradas de un bit"
 
-#: translation.js:136 translation.js:463
+#: translation.js:136 translation.js:467
 msgid "Or5"
 msgstr "Or5"
 
@@ -546,7 +546,7 @@ msgstr "Or5"
 msgid "OR5: 5 bits input OR gate"
 msgstr "OR5: Puerta OR de 5 entradas de un bit"
 
-#: translation.js:138 translation.js:464
+#: translation.js:138 translation.js:468
 msgid "Or6"
 msgstr "Or6"
 
@@ -554,7 +554,7 @@ msgstr "Or6"
 msgid "OR6: 6 bits input OR gate"
 msgstr "OR6: Puerta OR de 6 entradas de un bit"
 
-#: translation.js:140 translation.js:465
+#: translation.js:140 translation.js:469
 msgid "Or7"
 msgstr "Or7"
 
@@ -562,7 +562,7 @@ msgstr "Or7"
 msgid "Or7: Seven bits input OR gate"
 msgstr "OR7: Puerta OR de 7 entradas de un bit"
 
-#: translation.js:142 translation.js:466
+#: translation.js:142 translation.js:470
 msgid "Or8"
 msgstr "Or8"
 
@@ -709,7 +709,7 @@ msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
 msgid "Xnor-OP"
 msgstr "Xor-op"
 
-#: translation.js:175 translation.js:548
+#: translation.js:175 translation.js:552
 msgid "Xnor2"
 msgstr "Xnor2"
 
@@ -721,7 +721,7 @@ msgstr "Xnor-x02: Puerta XNOR de 2 entradas de un bit"
 msgid "XOR gate: two bits input xor gate"
 msgstr "Puerta XOR de 2 entradas de un bit"
 
-#: translation.js:178 translation.js:547
+#: translation.js:178 translation.js:551
 msgid "Xnor-op2"
 msgstr "Xnor-op2"
 
@@ -734,15 +734,15 @@ msgstr "Puerta XNOR de 2 entradas de un bit"
 msgid "Xor-OP"
 msgstr "Xor-op"
 
-#: translation.js:181 translation.js:557
+#: translation.js:181 translation.js:561
 msgid "Xor2"
 msgstr "Xor2"
 
-#: translation.js:182 translation.js:558
+#: translation.js:182 translation.js:562
 msgid "Xor-op2"
 msgstr "Xor-op2"
 
-#: translation.js:183 translation.js:559
+#: translation.js:183 translation.js:563
 #, fuzzy
 msgid "Xor-op3"
 msgstr "Xor-op"
@@ -752,7 +752,7 @@ msgstr "Xor-op"
 msgid "XOR-Op3: Xor operation between two numbers of 3 bits"
 msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
 
-#: translation.js:185 translation.js:560
+#: translation.js:185 translation.js:564
 #, fuzzy
 msgid "Xor-op4"
 msgstr "Xor-op"
@@ -807,121 +807,125 @@ msgid "11-XOR-op"
 msgstr ""
 
 #: translation.js:198
+msgid "12-XNOR-op"
+msgstr ""
+
+#: translation.js:199
 msgid "TESTs"
 msgstr "Pruebas"
 
-#: translation.js:199
+#: translation.js:200
 msgid "00-Index"
 msgstr "00-Indice"
 
-#: translation.js:200
+#: translation.js:201
 msgid "# INDEX: IceGate Collection"
 msgstr "# ÍNDICE: Colección IceGate"
 
-#: translation.js:201
+#: translation.js:202
 msgid "## AND"
 msgstr "## AND"
 
-#: translation.js:202
+#: translation.js:203
 msgid "## Not "
 msgstr "## Not "
 
-#: translation.js:203
+#: translation.js:204
 msgid "And-Op2"
 msgstr "And-Op2"
 
-#: translation.js:204
+#: translation.js:205
 msgid "## OR "
 msgstr "## OR "
 
-#: translation.js:205
+#: translation.js:206
 msgid "## XOR"
 msgstr "## XOR"
 
-#: translation.js:206
+#: translation.js:207
 msgid "### 2-bits"
 msgstr "### 2-bits"
 
-#: translation.js:207
+#: translation.js:208
 msgid "### 3-bits"
 msgstr "### 3-bits"
 
-#: translation.js:208
+#: translation.js:209
 msgid "### 4-bits"
 msgstr "### 4-bits"
 
-#: translation.js:209
+#: translation.js:210
 msgid "### 8-bits"
 msgstr "### 8-bits"
 
-#: translation.js:210
+#: translation.js:211
 msgid "## NAND"
 msgstr "## NAND"
 
-#: translation.js:211
+#: translation.js:212
 msgid "## NOR"
 msgstr "## NOR"
 
-#: translation.js:212
+#: translation.js:213
 msgid "## XNOR"
 msgstr "## XNOR"
 
-#: translation.js:213
+#: translation.js:214
 msgid "### 5-bits"
 msgstr "### 5-bits"
 
-#: translation.js:214
+#: translation.js:215
 msgid "### 6-bits"
 msgstr "### 6-bits"
 
-#: translation.js:215
+#: translation.js:216
 msgid "### 7-bits"
 msgstr "### 7-bits"
 
-#: translation.js:216 translation.js:467
+#: translation.js:217 translation.js:471
 msgid "Or-Bus2"
 msgstr "Or-Bus2"
 
-#: translation.js:217
+#: translation.js:218
 #, fuzzy
 msgid "Or-Op2"
 msgstr "And-Op2"
 
-#: translation.js:218 translation.js:224 translation.js:228 translation.js:235
-#: translation.js:242 translation.js:246 translation.js:250 translation.js:255
-#: translation.js:260 translation.js:265 translation.js:268 translation.js:297
-#: translation.js:300 translation.js:304 translation.js:309 translation.js:314
-#: translation.js:318 translation.js:323 translation.js:335 translation.js:338
-#: translation.js:342 translation.js:345 translation.js:348 translation.js:351
-#: translation.js:355 translation.js:366 translation.js:372 translation.js:375
-#: translation.js:378 translation.js:381 translation.js:385 translation.js:389
-#: translation.js:393 translation.js:396 translation.js:398 translation.js:401
-#: translation.js:404 translation.js:407 translation.js:411 translation.js:416
-#: translation.js:428 translation.js:431 translation.js:434 translation.js:438
+#: translation.js:219 translation.js:225 translation.js:229 translation.js:236
+#: translation.js:243 translation.js:247 translation.js:251 translation.js:256
+#: translation.js:261 translation.js:266 translation.js:269 translation.js:274
+#: translation.js:301 translation.js:304 translation.js:308 translation.js:313
+#: translation.js:318 translation.js:322 translation.js:327 translation.js:339
+#: translation.js:342 translation.js:346 translation.js:349 translation.js:352
+#: translation.js:355 translation.js:359 translation.js:370 translation.js:376
+#: translation.js:379 translation.js:382 translation.js:385 translation.js:389
+#: translation.js:393 translation.js:397 translation.js:400 translation.js:402
+#: translation.js:405 translation.js:408 translation.js:411 translation.js:415
+#: translation.js:420 translation.js:432 translation.js:435 translation.js:438
 #: translation.js:442 translation.js:446 translation.js:450 translation.js:454
-#: translation.js:474 translation.js:477 translation.js:480 translation.js:483
-#: translation.js:486 translation.js:490 translation.js:494 translation.js:505
-#: translation.js:508 translation.js:511 translation.js:514 translation.js:517
-#: translation.js:520 translation.js:523 translation.js:526 translation.js:530
-#: translation.js:532 translation.js:535 translation.js:538 translation.js:541
-#: translation.js:544 translation.js:549 translation.js:552 translation.js:561
-#: translation.js:564 translation.js:567 translation.js:570
+#: translation.js:458 translation.js:478 translation.js:481 translation.js:484
+#: translation.js:487 translation.js:490 translation.js:494 translation.js:498
+#: translation.js:509 translation.js:512 translation.js:515 translation.js:518
+#: translation.js:521 translation.js:524 translation.js:527 translation.js:530
+#: translation.js:534 translation.js:536 translation.js:539 translation.js:542
+#: translation.js:545 translation.js:548 translation.js:553 translation.js:556
+#: translation.js:565 translation.js:568 translation.js:571 translation.js:574
 msgid "Alhambra-II"
 msgstr "Alhambra-II"
 
-#: translation.js:219
+#: translation.js:220
 msgid "01-And-gate-buttons-LED"
 msgstr ""
 
-#: translation.js:220
+#: translation.js:221
 msgid "## INPUTS"
 msgstr ""
 
-#: translation.js:221
+#: translation.js:222
 msgid "**AND Gate**"
 msgstr ""
 
-#: translation.js:222
+#: translation.js:223
 #, fuzzy
 msgid ""
 "## Example: Manual testing of the AND2 gate\n"
@@ -932,19 +936,19 @@ msgstr ""
 "\n"
 "El LED sólo se enciende cuando ninguno de los botones está apretado"
 
-#: translation.js:223
+#: translation.js:224
 msgid "## OUTPUT"
 msgstr ""
 
-#: translation.js:225
+#: translation.js:226
 msgid "02-And-gate-BUS-buttons-LED"
 msgstr ""
 
-#: translation.js:226
+#: translation.js:227
 msgid "**AND-BUS2 Gate**"
 msgstr ""
 
-#: translation.js:227
+#: translation.js:228
 #, fuzzy
 msgid ""
 "## Example: Manual testing of the AND-BUS2 gate\n"
@@ -955,25 +959,25 @@ msgstr ""
 "\n"
 "El LED sólo se enciende cuando ninguno de los botones está apretado"
 
-#: translation.js:229
+#: translation.js:230
 msgid "03-And-enable-buttons-LED"
 msgstr ""
 
-#: translation.js:230
+#: translation.js:231
 #, fuzzy
 msgid "4bits constant value: 15 (0xF in hexadecimal)"
 msgstr "Valor constante 0 de 4 bits"
 
-#: translation.js:231
+#: translation.js:232
 msgid "Generic: 4-bits generic constant (0-15)"
 msgstr "Generic: Constante genérica de 4 bits (0-15)"
 
-#: translation.js:232
+#: translation.js:233
 #, fuzzy
 msgid "**AND-Busen4**"
 msgstr "And-Busen4"
 
-#: translation.js:233
+#: translation.js:234
 #, fuzzy
 msgid ""
 "## Example: Manual testing of the AND-Busen4 gate\n"
@@ -986,21 +990,21 @@ msgstr ""
 "\n"
 "El LED sólo se enciende cuando ninguno de los botones está apretado"
 
-#: translation.js:234
+#: translation.js:235
 #, fuzzy
 msgid "Enable button"
 msgstr "Habilitar la entrada"
 
-#: translation.js:236
+#: translation.js:237
 msgid "04-And-op-button-LEDs"
 msgstr ""
 
-#: translation.js:237
+#: translation.js:238
 #, fuzzy
 msgid "**AND-Op4**"
 msgstr "And-Busen4"
 
-#: translation.js:238
+#: translation.js:239
 msgid ""
 "## Example: Manual testing of the AND-Op4 gate\n"
 "\n"
@@ -1009,29 +1013,29 @@ msgid ""
 "otherwise operand b is 0"
 msgstr ""
 
-#: translation.js:239
+#: translation.js:240
 #, fuzzy
 msgid "Operand b or 0"
 msgstr "Operando 1"
 
-#: translation.js:240
+#: translation.js:241
 #, fuzzy
 msgid "Enable the operand b"
 msgstr "Habilitar la entrada"
 
-#: translation.js:241
+#: translation.js:242
 msgid "`a AND b`"
 msgstr ""
 
-#: translation.js:243
+#: translation.js:244
 msgid "05-Or-gate-buttons-LED"
 msgstr ""
 
-#: translation.js:244
+#: translation.js:245
 msgid "**OR Gate**"
 msgstr ""
 
-#: translation.js:245
+#: translation.js:246
 #, fuzzy
 msgid ""
 "## Example: Manual testing of the OR2 gate\n"
@@ -1042,15 +1046,15 @@ msgstr ""
 "\n"
 "El LED sólo se enciende cuando ninguno de los botones está apretado"
 
-#: translation.js:247
+#: translation.js:248
 msgid "06-Or-gate-BUS-buttons-LED"
 msgstr ""
 
-#: translation.js:248
+#: translation.js:249
 msgid "**OR-BUS2 Gate**"
 msgstr ""
 
-#: translation.js:249
+#: translation.js:250
 #, fuzzy
 msgid ""
 "## Example: Manual testing of the OR-BUS2 gate\n"
@@ -1061,16 +1065,16 @@ msgstr ""
 "\n"
 "El LED sólo se enciende cuando ninguno de los botones está apretado"
 
-#: translation.js:251
+#: translation.js:252
 msgid "07-Or-op-button-LEDs"
 msgstr ""
 
-#: translation.js:252
+#: translation.js:253
 #, fuzzy
 msgid "**OR-Op4**"
 msgstr "And-Busen4"
 
-#: translation.js:253
+#: translation.js:254
 msgid ""
 "## Example: Manual testing of the OR-Op4 gate\n"
 "\n"
@@ -1079,19 +1083,19 @@ msgid ""
 "otherwise operand b is 0"
 msgstr ""
 
-#: translation.js:254
+#: translation.js:255
 msgid "`a OR b`"
 msgstr ""
 
-#: translation.js:256
+#: translation.js:257
 msgid "08-NOT-button-LED"
 msgstr ""
 
-#: translation.js:257
+#: translation.js:258
 msgid "**NOT gate**"
 msgstr ""
 
-#: translation.js:258
+#: translation.js:259
 #, fuzzy
 msgid ""
 "## Example: Manual testing of the NOT gate\n"
@@ -1104,15 +1108,15 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:259
+#: translation.js:260
 msgid "## INPUT"
 msgstr ""
 
-#: translation.js:261
+#: translation.js:262
 msgid "09-NOT-op-LEDs"
 msgstr ""
 
-#: translation.js:262
+#: translation.js:263
 msgid ""
 "## Example: Manual testing of the NOT-4 gate\n"
 "\n"
@@ -1126,33 +1130,33 @@ msgid ""
 "LED"
 msgstr ""
 
-#: translation.js:263
+#: translation.js:264
 #, fuzzy
 msgid "Operand a"
 msgstr "Operando 1"
 
-#: translation.js:264
+#: translation.js:265
 msgid "`NOT a`"
 msgstr ""
 
-#: translation.js:266
+#: translation.js:267
 msgid "10-XOR-gate-buttons-LED"
 msgstr ""
 
-#: translation.js:267
+#: translation.js:268
 msgid "## Example: Manual testing of the XOR gate\n"
 msgstr ""
 
-#: translation.js:269
+#: translation.js:270
 msgid "11-XOR-op-button-LEDs"
 msgstr ""
 
-#: translation.js:270
+#: translation.js:271
 #, fuzzy
 msgid "**XOR-Op4**"
 msgstr "And-Busen4"
 
-#: translation.js:271
+#: translation.js:272
 #, fuzzy
 msgid ""
 "## Example: Manual testing of the XOR-Op4 gate\n"
@@ -1166,22 +1170,30 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:272
+#: translation.js:273
 msgid "`a XOR b`"
 msgstr ""
 
-#: translation.js:298 translation.js:301 translation.js:305 translation.js:310
-#: translation.js:315 translation.js:319 translation.js:324 translation.js:390
-#: translation.js:394 translation.js:397 translation.js:399 translation.js:402
-#: translation.js:405 translation.js:408 translation.js:412 translation.js:417
-#: translation.js:475 translation.js:478 translation.js:481 translation.js:484
-#: translation.js:487 translation.js:491 translation.js:495 translation.js:527
-#: translation.js:531 translation.js:533 translation.js:536 translation.js:539
-#: translation.js:542 translation.js:545 translation.js:553 translation.js:571
+#: translation.js:275
+msgid "12-XNOR-gate-buttons-LED"
+msgstr ""
+
+#: translation.js:276
+msgid "## Example: Manual testing of the XNOR gate\n"
+msgstr ""
+
+#: translation.js:302 translation.js:305 translation.js:309 translation.js:314
+#: translation.js:319 translation.js:323 translation.js:328 translation.js:394
+#: translation.js:398 translation.js:401 translation.js:403 translation.js:406
+#: translation.js:409 translation.js:412 translation.js:416 translation.js:421
+#: translation.js:479 translation.js:482 translation.js:485 translation.js:488
+#: translation.js:491 translation.js:495 translation.js:499 translation.js:531
+#: translation.js:535 translation.js:537 translation.js:540 translation.js:543
+#: translation.js:546 translation.js:549 translation.js:557 translation.js:575
 msgid "01-manual-btns-led"
 msgstr "01-manual-btns-led"
 
-#: translation.js:299
+#: translation.js:303
 msgid ""
 "# AND-Bus2 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1193,11 +1205,11 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:302
+#: translation.js:306
 msgid "Constant bit 1"
 msgstr "Bit constante 1"
 
-#: translation.js:303
+#: translation.js:307
 msgid ""
 "# AND-Bus3 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
@@ -1209,15 +1221,15 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:306
+#: translation.js:310
 msgid "2bits constant value: 3"
 msgstr "Valor constante 3 de 2 bits"
 
-#: translation.js:307
+#: translation.js:311
 msgid "Generic: 2-bits generic constant (0,1,2,3)"
 msgstr "Generic: Constantes genéricas de 2 bits (0,1,2,3)"
 
-#: translation.js:308
+#: translation.js:312
 msgid ""
 "# AND-Bus4 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
@@ -1229,15 +1241,15 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:311
+#: translation.js:315
 msgid "Bus5-Join-2-3: Join the two buses of 2 and 3 bits into a 5-bits Bus"
 msgstr "Bus5-Join-2-3: Agrupar dos buses de 2 y 3 bits en un bus de 5 bits"
 
-#: translation.js:312
+#: translation.js:316
 msgid "Generic: 3-bits generic constant (0-7)"
 msgstr "Generic: Constantes genéricas de 3 bits (0-7)"
 
-#: translation.js:313
+#: translation.js:317
 msgid ""
 "# AND-Bus5 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
@@ -1249,11 +1261,11 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:316
+#: translation.js:320
 msgid "Bus6-Join-2-4: Join all the two buses into a 6-bits Bus"
 msgstr "Bus6-Join-2-4: Agrupar los dos buses en uno  de 6 bits"
 
-#: translation.js:317
+#: translation.js:321
 msgid ""
 "# AND-Bus6 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
@@ -1265,15 +1277,15 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:320
+#: translation.js:324
 msgid "Bus7-Join-2-5: Join the two buses into a 7-bits Bus"
 msgstr "Bus6-Join-2-5: Agrupar los dos buses en uno  de 7 bits"
 
-#: translation.js:321
+#: translation.js:325
 msgid "Generic: 5-bits generic constant (0-31)"
 msgstr "Generic: Constantes genéricas de 5 bits (0-31)"
 
-#: translation.js:322
+#: translation.js:326
 msgid ""
 "# AND-Bus7 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
@@ -1285,15 +1297,15 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:325
+#: translation.js:329
 msgid "Bus8-Join-2-6: Join the two buses into an 8-bits Bus"
 msgstr "Bus8-Join-2-6: Agrupar todos los cables en un bus de 8 bits"
 
-#: translation.js:326
+#: translation.js:330
 msgid "Generic: 6-bits generic constant (0-63)"
 msgstr "Generic: Constantes genéricas de 6 bits (0-63)"
 
-#: translation.js:327
+#: translation.js:331
 msgid ""
 "# AND-Bus8 gate: Manual testing with pushbuttons and an LED\n"
 "\n"
@@ -1305,40 +1317,40 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:328
+#: translation.js:332
 msgid "And-Busen-02"
 msgstr "And-Busen-02"
 
-#: translation.js:329
+#: translation.js:333
 msgid "And-Busen-03"
 msgstr "And-Busen-03"
 
-#: translation.js:330
+#: translation.js:334
 msgid "And-Busen-04"
 msgstr "And-Busen-04"
 
-#: translation.js:331
+#: translation.js:335
 msgid "And-Busen-05"
 msgstr "And-Busen-05"
 
-#: translation.js:332
+#: translation.js:336
 msgid "And-Busen-06"
 msgstr "And-Busen-06"
 
-#: translation.js:333
+#: translation.js:337
 msgid "And-Busen-07"
 msgstr "And-Busen-07"
 
-#: translation.js:334
+#: translation.js:338
 msgid "And-Busen-08"
 msgstr "And-Busen-08"
 
-#: translation.js:336 translation.js:339 translation.js:343 translation.js:346
-#: translation.js:349 translation.js:352 translation.js:356
+#: translation.js:340 translation.js:343 translation.js:347 translation.js:350
+#: translation.js:353 translation.js:356 translation.js:360
 msgid "01-manual-test-btn-leds"
 msgstr "01-manual-test-btn-leds"
 
-#: translation.js:337
+#: translation.js:341
 msgid ""
 "# AND-Busen2 gate: Manual testing with one pushbutton and two LEDs\n"
 "\n"
@@ -1348,11 +1360,11 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los dos LEDs se encienden"
 
-#: translation.js:340
+#: translation.js:344
 msgid "3bits constant value: 7"
 msgstr "Valor constante 7 de 3 bits"
 
-#: translation.js:341
+#: translation.js:345
 msgid ""
 "# AND-Busen3 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -1362,7 +1374,7 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
-#: translation.js:344
+#: translation.js:348
 msgid ""
 "# AND-Busen4 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -1372,7 +1384,7 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
-#: translation.js:347
+#: translation.js:351
 msgid ""
 "# AND-Busen5 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -1382,7 +1394,7 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
-#: translation.js:350
+#: translation.js:354
 msgid ""
 "# AND-Busen6 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -1392,11 +1404,11 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
-#: translation.js:353
+#: translation.js:357
 msgid "Generic: 7-bits generic constant (0-127)"
 msgstr "Generic: Constante genérica de 7 bits (0-127)"
 
-#: translation.js:354
+#: translation.js:358
 msgid ""
 "# AND-Busen7 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -1406,11 +1418,11 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
-#: translation.js:357
+#: translation.js:361
 msgid "Generic: 8-bits generic constant (0-255)"
 msgstr "Generic: Constante genérica de 8 bits (0-255)"
 
-#: translation.js:358
+#: translation.js:362
 msgid ""
 "# AND-Busen8 gate: Manual testing with one pushbutton and LEDs\n"
 "\n"
@@ -1420,15 +1432,15 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta, los LEDs se encienden"
 
-#: translation.js:367 translation.js:369 translation.js:373 translation.js:376
-#: translation.js:379 translation.js:382 translation.js:386 translation.js:506
-#: translation.js:509 translation.js:512 translation.js:515 translation.js:518
-#: translation.js:521 translation.js:524 translation.js:550 translation.js:562
-#: translation.js:565 translation.js:568
+#: translation.js:371 translation.js:373 translation.js:377 translation.js:380
+#: translation.js:383 translation.js:386 translation.js:390 translation.js:510
+#: translation.js:513 translation.js:516 translation.js:519 translation.js:522
+#: translation.js:525 translation.js:528 translation.js:554 translation.js:566
+#: translation.js:569 translation.js:572
 msgid "01-manual-test-btns-leds"
 msgstr "01-manual-test-btns-leds"
 
-#: translation.js:368
+#: translation.js:372
 msgid ""
 "# AND-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1450,11 +1462,11 @@ msgstr ""
 "los  \n"
 "pulsadores se muestre en los LEDs sin modificación"
 
-#: translation.js:370
+#: translation.js:374
 msgid "Bus3-Join-1-2: Join two buses of 2 and 1 bits into a 3-bits Bus"
 msgstr "Bus3-Join-1-2: Agrupar dos buses de 2 y 1 bits en un bus de 3 bits"
 
-#: translation.js:371
+#: translation.js:375
 msgid ""
 "# AND-Op3: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1467,7 +1479,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:374
+#: translation.js:378
 msgid ""
 "# AND-Op4: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1480,7 +1492,7 @@ msgstr ""
 "La operación AND se aplica entre los 4 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:377
+#: translation.js:381
 msgid ""
 "# AND-Op5: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1493,7 +1505,7 @@ msgstr ""
 "La operación AND se aplica entre los 5 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:380
+#: translation.js:384
 msgid ""
 "# AND-Op6: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1507,11 +1519,11 @@ msgstr ""
 "y un número constante. El resultado se muestra en los LEDs\n"
 "\n"
 
-#: translation.js:383
+#: translation.js:387
 msgid "Bus7-Join-5-2: Join the two buses into a 7-bits Bus"
 msgstr "Bus7-Join-5-2: Agrupar los dos buses en uno  de 7 bits"
 
-#: translation.js:384
+#: translation.js:388
 msgid ""
 "# AND-Op7: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1524,11 +1536,11 @@ msgstr ""
 "La operación AND se aplica entre los 7 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:387
+#: translation.js:391
 msgid "Bus8-Join-6-2: Join the two buses into an 8-bits Bus"
 msgstr "Bus8-Join-6-2: Agrupar todos los cables en un bus de 8 bits"
 
-#: translation.js:388
+#: translation.js:392
 msgid ""
 "# AND-Op8: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -1541,7 +1553,7 @@ msgstr ""
 "La operación AND se aplica entre los 8 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:391
+#: translation.js:395
 msgid ""
 "# AND gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1553,7 +1565,7 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:392
+#: translation.js:396
 msgid ""
 "## And Truth table\n"
 "\n"
@@ -1573,7 +1585,7 @@ msgstr ""
 "| 1   |  0  |   0    |\n"
 "| 1   |  1  |   1    |"
 
-#: translation.js:395
+#: translation.js:399
 msgid ""
 "# AND gate: Manual testing with three pushbuttons and one LED\n"
 "\n"
@@ -1585,7 +1597,7 @@ msgstr ""
 "El LED sólo se enciende cuando todos los están presionados  \n"
 "a la vez"
 
-#: translation.js:400
+#: translation.js:404
 msgid ""
 "# AND5 gate: Manual testing with pushbuttons and one LED\n"
 "\n"
@@ -1597,7 +1609,7 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:403
+#: translation.js:407
 msgid ""
 "# AND6 gate: Manual testing with pushbuttons and one LED\n"
 "\n"
@@ -1609,7 +1621,7 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:406
+#: translation.js:410
 msgid ""
 "# AND7 gate: Manual testing with pushbuttons and one LED\n"
 "\n"
@@ -1621,7 +1633,7 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:409
+#: translation.js:413
 msgid ""
 "# AND8 gate: Manual testing with pushbuttons and one LED\n"
 "\n"
@@ -1633,11 +1645,11 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:410
+#: translation.js:414
 msgid "Nand2"
 msgstr "Nand2"
 
-#: translation.js:413
+#: translation.js:417
 msgid ""
 "# NAND gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1649,7 +1661,7 @@ msgstr ""
 "El LED sólo se enciende cuando ambos botones están presionados  \n"
 "a la vez"
 
-#: translation.js:414
+#: translation.js:418
 msgid ""
 "## NAND Truth table\n"
 "\n"
@@ -1669,11 +1681,11 @@ msgstr ""
 "| 1   |  0  |   1    |\n"
 "| 1   |  1  |   0    |"
 
-#: translation.js:415
+#: translation.js:419
 msgid "Nor2"
 msgstr "Nor2"
 
-#: translation.js:418
+#: translation.js:422
 msgid ""
 "# NOR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -1683,7 +1695,7 @@ msgstr ""
 "\n"
 "El LED sólo se enciende cuando ninguno de los botones está apretado"
 
-#: translation.js:419
+#: translation.js:423
 msgid ""
 "## NOR Truth table\n"
 "\n"
@@ -1703,44 +1715,44 @@ msgstr ""
 "| 1   |  0  |   0    |\n"
 "| 1   |  1  |   0    |"
 
-#: translation.js:420
+#: translation.js:424
 msgid "01-bit"
 msgstr "01-bit"
 
-#: translation.js:421
+#: translation.js:425
 msgid "02-bits"
 msgstr "02-bits"
 
-#: translation.js:422
+#: translation.js:426
 msgid "03-bits"
 msgstr "03-bits"
 
-#: translation.js:423
+#: translation.js:427
 msgid "04-bits"
 msgstr "04-bits"
 
-#: translation.js:424
+#: translation.js:428
 msgid "05-bits"
 msgstr "05-bits"
 
-#: translation.js:425
+#: translation.js:429
 msgid "06-bits"
 msgstr "06-bits"
 
-#: translation.js:426
+#: translation.js:430
 msgid "07-bits"
 msgstr "07-bits"
 
-#: translation.js:427
+#: translation.js:431
 msgid "08-bits"
 msgstr "08-bits"
 
-#: translation.js:429 translation.js:432 translation.js:435 translation.js:439
-#: translation.js:443 translation.js:447 translation.js:451 translation.js:455
+#: translation.js:433 translation.js:436 translation.js:439 translation.js:443
+#: translation.js:447 translation.js:451 translation.js:455 translation.js:459
 msgid "01-manual-btn-led"
 msgstr "01-manual-btn-led"
 
-#: translation.js:430
+#: translation.js:434
 msgid ""
 "# Not gate: Manual testing with a pushbutton and an LED\n"
 "\n"
@@ -1756,7 +1768,7 @@ msgstr ""
 "Cuando se aprieta el botón SW1, la entrada es 1, la salida 0 y el  \n"
 "LED se apaga"
 
-#: translation.js:433
+#: translation.js:437
 msgid ""
 "# Not-x2 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -1766,11 +1778,11 @@ msgstr ""
 "\n"
 "Los dos pulsadores se invierten (logica negativa) y se muestran en los LEDs  "
 
-#: translation.js:436
+#: translation.js:440
 msgid "Constant bit 0"
 msgstr "Bit constante 0"
 
-#: translation.js:437
+#: translation.js:441
 msgid ""
 "# Not-x3 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -1780,11 +1792,11 @@ msgstr ""
 "\n"
 "Las tres entradas se invierten (logica negativa) y se muestran en los LEDs  "
 
-#: translation.js:440
+#: translation.js:444
 msgid "2bits constant value: 0"
 msgstr "Valor constante 0 de 2 bits"
 
-#: translation.js:441
+#: translation.js:445
 msgid ""
 "# Not-x4 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -1794,11 +1806,11 @@ msgstr ""
 "\n"
 "Las 4 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
-#: translation.js:444
+#: translation.js:448
 msgid "3bits constant value: 0"
 msgstr "Valor constante 0 de 3 bits"
 
-#: translation.js:445
+#: translation.js:449
 msgid ""
 "# Not-x5 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -1808,11 +1820,11 @@ msgstr ""
 "\n"
 "Las 5 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
-#: translation.js:448
+#: translation.js:452
 msgid "4bits constant value: 0"
 msgstr "Valor constante 0 de 4 bits"
 
-#: translation.js:449
+#: translation.js:453
 msgid ""
 "# Not-x6 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -1822,11 +1834,11 @@ msgstr ""
 "\n"
 "Las 6 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
-#: translation.js:452
+#: translation.js:456
 msgid "5bits constant value: 0"
 msgstr "Valor constante 0 de 5 bits"
 
-#: translation.js:453
+#: translation.js:457
 msgid ""
 "# Not-x7 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -1836,11 +1848,11 @@ msgstr ""
 "\n"
 "Las 7 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
-#: translation.js:456
+#: translation.js:460
 msgid "6bits constant value: 0"
 msgstr "Valor constante 0 de 6 bits"
 
-#: translation.js:457
+#: translation.js:461
 msgid ""
 "# Not-x8 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -1850,36 +1862,36 @@ msgstr ""
 "\n"
 "Las 8 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
-#: translation.js:459
+#: translation.js:463
 #, fuzzy
 msgid "Or-op"
 msgstr "Xor-op"
 
-#: translation.js:468
+#: translation.js:472
 msgid "Or-Bus3"
 msgstr "Or-Bus3"
 
-#: translation.js:469
+#: translation.js:473
 msgid "Or-Bus4"
 msgstr "Or-Bus4"
 
-#: translation.js:470
+#: translation.js:474
 msgid "Or-Bus5"
 msgstr "Or-Bus5"
 
-#: translation.js:471
+#: translation.js:475
 msgid "Or-Bus6"
 msgstr "Or-Bus6"
 
-#: translation.js:472
+#: translation.js:476
 msgid "Or-Bus7"
 msgstr "Or-Bus7"
 
-#: translation.js:473
+#: translation.js:477
 msgid "Or-Bus8"
 msgstr "Or-Bus8"
 
-#: translation.js:476
+#: translation.js:480
 msgid ""
 "# OR-Bus2 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1890,7 +1902,7 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:479
+#: translation.js:483
 msgid ""
 "# OR-Bus3 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1901,7 +1913,7 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:482
+#: translation.js:486
 msgid ""
 "# OR-Bus4 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1912,7 +1924,7 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:485
+#: translation.js:489
 msgid ""
 "# OR-Bus5 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1923,11 +1935,11 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:488
+#: translation.js:492
 msgid "Bus6-Join-all: Join all the wires into a 6-bits Bus"
 msgstr "Bus6-Join-all: Agrupar todos los cables en un bus de 6 bits"
 
-#: translation.js:489
+#: translation.js:493
 msgid ""
 "# OR-Bus6 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1938,11 +1950,11 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:492
+#: translation.js:496
 msgid "Bus7-Join-all: Join all the wires into a 7-bits Bus"
 msgstr "Bus7-Join-all: Agrupar todos los cables en un bus de 7-bits"
 
-#: translation.js:493
+#: translation.js:497
 msgid ""
 "# OR-Bus7 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1953,11 +1965,11 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:496
+#: translation.js:500
 msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
 msgstr "Bus8-Join-all: Agrupar todos los cables en un bus de 8 bits"
 
-#: translation.js:497
+#: translation.js:501
 msgid ""
 "# OR-Bus8 gate: Manual testing with two pushbutton and an LED\n"
 "\n"
@@ -1968,42 +1980,42 @@ msgstr ""
 "\n"
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
-#: translation.js:498
+#: translation.js:502
 #, fuzzy
 msgid "Or-op-2"
 msgstr "Xor-op2"
 
-#: translation.js:499
+#: translation.js:503
 #, fuzzy
 msgid "Or-op-3"
 msgstr "Xor-op2"
 
-#: translation.js:500
+#: translation.js:504
 #, fuzzy
 msgid "Or-op-4"
 msgstr "Xor-op2"
 
-#: translation.js:501
+#: translation.js:505
 #, fuzzy
 msgid "Or-op-5"
 msgstr "Xor-op2"
 
-#: translation.js:502
+#: translation.js:506
 #, fuzzy
 msgid "Or-op-6"
 msgstr "Xor-op2"
 
-#: translation.js:503
+#: translation.js:507
 #, fuzzy
 msgid "Or-op-8"
 msgstr "Xor-op2"
 
-#: translation.js:504
+#: translation.js:508
 #, fuzzy
 msgid "or-op-7"
 msgstr "Xor-op"
 
-#: translation.js:507
+#: translation.js:511
 #, fuzzy
 msgid ""
 "# OR-Op2: Manual testing with two pushbuttons and two LEDs\n"
@@ -2020,7 +2032,7 @@ msgstr ""
 "pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
-#: translation.js:510
+#: translation.js:514
 #, fuzzy
 msgid ""
 "# OR-Op3: Manual testing with two pushbuttons and two LEDs\n"
@@ -2034,7 +2046,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:513
+#: translation.js:517
 #, fuzzy
 msgid ""
 "# OR-Op4: Manual testing with two pushbuttons and two LEDs\n"
@@ -2048,7 +2060,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:516
+#: translation.js:520
 #, fuzzy
 msgid ""
 "# OR-Op5: Manual testing with two pushbuttons and two LEDs\n"
@@ -2062,7 +2074,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:519
+#: translation.js:523
 #, fuzzy
 msgid ""
 "# OR-Op6: Manual testing with two pushbuttons and LEDs\n"
@@ -2076,7 +2088,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:522
+#: translation.js:526
 #, fuzzy
 msgid ""
 "# OR-Op8: Manual testing with two pushbuttons and two LEDs\n"
@@ -2090,7 +2102,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:525
+#: translation.js:529
 #, fuzzy
 msgid ""
 "# OR-Op7: Manual testing with two pushbuttons and LEDs\n"
@@ -2104,7 +2116,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:528
+#: translation.js:532
 msgid ""
 "# OR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -2118,7 +2130,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:529
+#: translation.js:533
 msgid ""
 "## OR Truth table\n"
 "\n"
@@ -2138,7 +2150,7 @@ msgstr ""
 "| 1   |  0  |   1    |\n"
 "| 1   |  1  |   1    |"
 
-#: translation.js:534
+#: translation.js:538
 msgid ""
 "# OR4 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -2152,7 +2164,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:537
+#: translation.js:541
 msgid ""
 "# OR5 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -2166,7 +2178,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:540
+#: translation.js:544
 msgid ""
 "# OR6 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -2180,7 +2192,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:543
+#: translation.js:547
 msgid ""
 "# OR7 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -2194,7 +2206,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:546
+#: translation.js:550
 msgid ""
 "# OR8 gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -2208,7 +2220,7 @@ msgstr ""
 "otro caso  \n"
 "el LED0 está apagado"
 
-#: translation.js:551
+#: translation.js:555
 msgid ""
 "# XNOR-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2222,11 +2234,11 @@ msgstr ""
 "pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
-#: translation.js:554
+#: translation.js:558
 msgid "# XNOR gate: Manual testing with two pushbuttons and one LED\n"
 msgstr "# Puerta XNOR: Comprobación manual con dos pulsadores y un LED\n"
 
-#: translation.js:555
+#: translation.js:559
 msgid ""
 "## XNOR Truth table\n"
 "\n"
@@ -2246,11 +2258,11 @@ msgstr ""
 "| 1   |  0  |   0    |\n"
 "| 1   |  1  |   1    |"
 
-#: translation.js:556
+#: translation.js:560
 msgid "Xor-op"
 msgstr "Xor-op"
 
-#: translation.js:563
+#: translation.js:567
 msgid ""
 "# XOR-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2264,7 +2276,7 @@ msgstr ""
 "pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
-#: translation.js:566
+#: translation.js:570
 #, fuzzy
 msgid ""
 "# XOR-Op3: Manual testing with two pushbuttons and two LEDs\n"
@@ -2278,7 +2290,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:569
+#: translation.js:573
 #, fuzzy
 msgid ""
 "# XOR-Op4: Manual testing with two pushbuttons and two LEDs\n"
@@ -2292,7 +2304,7 @@ msgstr ""
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
-#: translation.js:572
+#: translation.js:576
 msgid ""
 "# XOR gate: Manual testing with two pushbuttons and one LED\n"
 "\n"
@@ -2306,7 +2318,7 @@ msgstr ""
 "pero  \n"
 "no ambos a la vez"
 
-#: translation.js:573
+#: translation.js:577
 msgid ""
 "## XOR Truth table\n"
 "\n"

@@ -83,16 +83,16 @@
           "id": "7136c06e-45e3-4286-8ddb-97d96289a73c",
           "type": "basic.info",
           "data": {
-            "info": "## Example: Manual testing of the NOT-4 gate\n\nA 4-bit number is entered as the input of the NOT-4 gate and its output is  \nshown on the LED. If te buton is not pressed, the number is 0, so that all  \nthe LEDs are ON. When the button is pressed the number the NOT operation is  \napplied to the `0101` number, so that the number `1010` can be seen on the  \nLED",
+            "info": "## Example: Manual testing of the NOT-4 gate\n\nA 4-bit number is entered as the input of the NOT-4 gate and its output is  \nshown on the LED. If the buton is not pressed, the number is 0, so that all  \nthe LEDs are ON. When the button is pressed the number used in the NOT  \noperation is `0101`. The result is the number `1010` that can be seen on the  \nLED",
             "readonly": true
           },
           "position": {
-            "x": -352,
+            "x": -328,
             "y": -24
           },
           "size": {
-            "width": 576,
-            "height": 128
+            "width": 600,
+            "height": 120
           }
         },
         {

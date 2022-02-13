@@ -251,7 +251,7 @@ gettext('## Example: Manual testing of the NOT gate\n\nThe NOT gate performs the
 gettext('## INPUT');
 gettext('Alhambra-II');
 gettext('09-NOT-op-LEDs');
-gettext('## Example: Manual testing of the NOT-4 gate\n\nA 4-bit number is entered as the input of the NOT-4 gate and its output is  \nshown on the LED. If te buton is not pressed, the number is 0, so that all  \nthe LEDs are ON. When the button is pressed the number the NOT operation is  \napplied to the `0101` number, so that the number `1010` can be seen on the  \nLED');
+gettext('## Example: Manual testing of the NOT-4 gate\n\nA 4-bit number is entered as the input of the NOT-4 gate and its output is  \nshown on the LED. If the buton is not pressed, the number is 0, so that all  \nthe LEDs are ON. When the button is pressed the number used in the NOT  \noperation is `0101`. The result is the number `1010` that can be seen on the  \nLED');
 gettext('Operand a');
 gettext('`NOT a`');
 gettext('And');

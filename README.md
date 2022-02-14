@@ -105,6 +105,7 @@ For installing and using this colection in Icestudio follow these steps:
   * **Xnor-OP**
     * Xnor-op2
     * Xnor-op3
+    * Xnor-op4
 * **Xor**
   * Xor2
   * **Xor-OP**
@@ -339,12 +340,15 @@ For installing and using this colection in Icestudio follow these steps:
         * 01-manual-btns-led
   * **Xnor**
     * **Xnor-op**
+      * **Xnor-op2**
+        * **Alhambra-II**
+          * 01-manual-test-btns-leds
       * **Xnor-op3**
         * **Alhambra-II**
           * 01-manual-test-btns-leds
-    * **Xnor-op2**
-      * **Alhambra-II**
-        * 01-manual-test-btns-leds
+      * **Xnor-op4**
+        * **Alhambra-II**
+          * 01-manual-test-btns-leds
     * **Xnor2**
       * **Alhambra-II**
         * 01-manual-btns-led

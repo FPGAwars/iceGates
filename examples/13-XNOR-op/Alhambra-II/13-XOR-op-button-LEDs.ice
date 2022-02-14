@@ -96,11 +96,11 @@
           "id": "0649f48e-5988-4738-bde7-0f8bd443ef75",
           "type": "basic.info",
           "data": {
-            "info": "**XOR-Op4**",
+            "info": "**XNOR-Op4**",
             "readonly": true
           },
           "position": {
-            "x": 104,
+            "x": 96,
             "y": 232
           },
           "size": {
@@ -228,7 +228,7 @@
           "id": "01897cbd-3721-444f-9f82-ebcd7b05c58a",
           "type": "basic.info",
           "data": {
-            "info": "`a XOR b`",
+            "info": "`a XNOR b`",
             "readonly": true
           },
           "position": {

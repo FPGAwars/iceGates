@@ -157,6 +157,9 @@ For installing and using this colection in Icestudio follow these steps:
 * **14-NAND-gate**
   * **Alhambra-II**
     * 14-NAND-gate-buttons-LED
+* **15-NOR-gate**
+  * **Alhambra-II**
+    * 15-NOR-gate-buttons-LED
 * **TESTs**
   * **And**
     * **And-Bus**

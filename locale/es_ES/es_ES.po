@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-15 18:12+0000\n"
+"POT-Creation-Date: 2022-02-15 19:38+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -957,7 +957,7 @@ msgstr ""
 
 #: translation.js:229
 msgid "**AND Gate**"
-msgstr ""
+msgstr "** Puerta AND**"
 
 #: translation.js:230
 #, fuzzy
@@ -980,18 +980,17 @@ msgstr ""
 
 #: translation.js:234
 msgid "**AND-BUS2 Gate**"
-msgstr ""
+msgstr "**Puerta AND-BUS2**"
 
 #: translation.js:235
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the AND-BUS2 gate\n"
 "\n"
 "The LED is only ON when the two buttons SW1 and SW2 are pressed"
 msgstr ""
-"# Puerta NOR: Comprobación manual con dos pulsadores y un LED\n"
+"# Ejemplo: Comprobación manual de la puerta AND-BUS2\n"
 "\n"
-"El LED sólo se enciende cuando ninguno de los botones está apretado"
+"El LED sólo se enciende cuando los dos botones SW1 y SW2 están apretados"
 
 #: translation.js:237
 msgid "03-And-enable-buttons-LED"
@@ -1007,12 +1006,10 @@ msgid "Generic: 4-bits generic constant (0-15)"
 msgstr "Generic: Constante genérica de 4 bits (0-15)"
 
 #: translation.js:240
-#, fuzzy
 msgid "**AND-Busen4**"
-msgstr "And-Busen4"
+msgstr "**Puerta AND-Busen4**"
 
 #: translation.js:241
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the AND-Busen4 gate\n"
 "\n"
@@ -1020,9 +1017,11 @@ msgid ""
 "the  \n"
 "LEDs when the button is pressed"
 msgstr ""
-"# Puerta NOR: Comprobación manual con dos pulsadores y un LED\n"
+"# Ejemplo: Comprobación manual de la puerta AND-Busen4\n"
 "\n"
-"El LED sólo se enciende cuando ninguno de los botones está apretado"
+"El número dado por los 4-bits constantes (0xF por defecto) se muestra en "
+"los  \n"
+"LEDs cuando se aprieta el botón"
 
 #: translation.js:242
 #, fuzzy
@@ -1034,9 +1033,8 @@ msgid "04-And-op-button-LEDs"
 msgstr ""
 
 #: translation.js:245
-#, fuzzy
 msgid "**AND-Op4**"
-msgstr "And-Busen4"
+msgstr "**AND-Op4**"
 
 #: translation.js:246
 msgid ""
@@ -1046,6 +1044,12 @@ msgid ""
 "When the button is pressed the operand b has a value (`0011` by default)  \n"
 "otherwise operand b is 0"
 msgstr ""
+"# Ejemplo: Comprobación manual de la puerta AND-Op4\n"
+"\n"
+"La puerta AND-Op4 realiza la operación AND entre los operandos a y b.  \n"
+"Cuando el botón se aprieta el operando b tiene un valor (`0011` por "
+"defecto)  \n"
+"de lo contrario el operando b es 0"
 
 #: translation.js:247
 #, fuzzy
@@ -1067,7 +1071,7 @@ msgstr ""
 
 #: translation.js:252
 msgid "**OR Gate**"
-msgstr ""
+msgstr "**Puerta OR**"
 
 #: translation.js:253
 #, fuzzy
@@ -1086,7 +1090,7 @@ msgstr ""
 
 #: translation.js:256
 msgid "**OR-BUS2 Gate**"
-msgstr ""
+msgstr "**Puerta OR-BUS2**"
 
 #: translation.js:257
 #, fuzzy
@@ -1104,9 +1108,8 @@ msgid "07-Or-op-button-LEDs"
 msgstr ""
 
 #: translation.js:260
-#, fuzzy
 msgid "**OR-Op4**"
-msgstr "And-Busen4"
+msgstr "**OR-Op4**"
 
 #: translation.js:261
 msgid ""
@@ -1127,7 +1130,7 @@ msgstr ""
 
 #: translation.js:265
 msgid "**NOT gate**"
-msgstr ""
+msgstr "**Puerta NOT**"
 
 #: translation.js:266
 #, fuzzy
@@ -1186,9 +1189,8 @@ msgid "11-XOR-op-button-LEDs"
 msgstr ""
 
 #: translation.js:278
-#, fuzzy
 msgid "**XOR-Op4**"
-msgstr "And-Busen4"
+msgstr "**XOR-Op4**"
 
 #: translation.js:279
 #, fuzzy
@@ -1221,9 +1223,8 @@ msgid "13-XOR-op-button-LEDs"
 msgstr ""
 
 #: translation.js:286
-#, fuzzy
 msgid "**XNOR-Op4**"
-msgstr "And-Busen4"
+msgstr "**XNOR-Op4**"
 
 #: translation.js:287
 #, fuzzy
@@ -1257,7 +1258,7 @@ msgstr ""
 
 #: translation.js:294
 msgid "**NOR Gate**"
-msgstr ""
+msgstr "**Puerta NOR**"
 
 #: translation.js:295
 msgid "## Example: Manual testing of the NOR gate\n"
@@ -2097,7 +2098,6 @@ msgid "or-op-7"
 msgstr "Xor-op"
 
 #: translation.js:530
-#, fuzzy
 msgid ""
 "# OR-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2107,14 +2107,14 @@ msgid ""
 "\n"
 "The number 0 is used by default"
 msgstr ""
-"# XOR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# OR-OP2: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación XOR se aplica entre los dos bits que llegan de los "
-"pulsadores  \n"
+"La operación OR se aplica entre los dos bits que llegan de los pulsadores  \n"
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
+"\n"
+"El número 0 se usa por defecto"
 
 #: translation.js:533
-#, fuzzy
 msgid ""
 "# OR-Op3: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2122,13 +2122,12 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# OR-Op3: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación OR se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:536
-#, fuzzy
 msgid ""
 "# OR-Op4: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2136,13 +2135,12 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# OR-Op4: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación OR se aplica entre los 4 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:539
-#, fuzzy
 msgid ""
 "# OR-Op5: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2150,13 +2148,12 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# OR-Op5: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación OR se aplica entre los 5 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:542
-#, fuzzy
 msgid ""
 "# OR-Op6: Manual testing with two pushbuttons and LEDs\n"
 "\n"
@@ -2164,13 +2161,12 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# OR-Op6: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación OR se aplica entre los 6 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:545
-#, fuzzy
 msgid ""
 "# OR-Op8: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2178,13 +2174,13 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# OR-Op8: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación OR se aplica entre los 8 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
+"\n"
 
 #: translation.js:548
-#, fuzzy
 msgid ""
 "# OR-Op7: Manual testing with two pushbuttons and LEDs\n"
 "\n"
@@ -2192,9 +2188,9 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# OR-Op7: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación OR se aplica entre los 7 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:551
@@ -2321,7 +2317,6 @@ msgstr ""
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
 #: translation.js:580
-#, fuzzy
 msgid ""
 "# XNOR-Op3: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2329,13 +2324,12 @@ msgid ""
 "a constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# XNOR-Op3: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación XNOR se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:583
-#, fuzzy
 msgid ""
 "# XNOR-Op4: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2343,9 +2337,9 @@ msgid ""
 "a constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# XNOR-Op4: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación XNOR se aplica entre los 4 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:586
@@ -2391,7 +2385,6 @@ msgstr ""
 "y un número constante (0-3). El resultado se muestra en los LEDs 0 y 1\n"
 
 #: translation.js:598
-#, fuzzy
 msgid ""
 "# XOR-Op3: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2399,13 +2392,12 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# XOR-Op3: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación XOR se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:601
-#, fuzzy
 msgid ""
 "# XOR-Op4: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2413,9 +2405,9 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# XOR-Op4: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
+"La operación XOR se aplica entre los 4 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 
 #: translation.js:604

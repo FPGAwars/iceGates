@@ -163,20 +163,32 @@ For installing and using this colection in Icestudio follow these steps:
 * **10-XOR-gate**
   * **Alhambra-II**
     * 10-XOR-gate-buttons-LED
+  * **Nandland-go-board**
+    * 10-XOR-gate-buttons-LED
 * **11-XOR-op**
   * **Alhambra-II**
+    * 11-XOR-op-button-LEDs
+  * **Nandland-go-board**
     * 11-XOR-op-button-LEDs
 * **12-XNOR-gate**
   * **Alhambra-II**
     * 12-XNOR-gate-buttons-LED
+  * **Nandland-go-board**
+    * 12-XNOR-gate-buttons-LED
 * **13-XNOR-op**
   * **Alhambra-II**
+    * 13-XOR-op-button-LEDs
+  * **Nandland-go-board**
     * 13-XOR-op-button-LEDs
 * **14-NAND-gate**
   * **Alhambra-II**
     * 14-NAND-gate-buttons-LED
+  * **Nandland-go-board**
+    * 14-NAND-gate-buttons-LED
 * **15-NOR-gate**
   * **Alhambra-II**
+    * 15-NOR-gate-buttons-LED
+  * **Nandland-go-board**
     * 15-NOR-gate-buttons-LED
 * **TESTs**
   * **And**

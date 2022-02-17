@@ -237,12 +237,16 @@ For installing and using this colection in Icestudio follow these steps:
     * 14-NAND-gate-buttons-LED
   * **Nandland-go-board**
     * 14-NAND-gate-buttons-LED
+  * **ULX3S-12F**
+    * 14-NAND-gate-buttons-LED
   * **iCESugar-1.5**
     * 14-NAND-gate-buttons-LED
 * **15-NOR-gate**
   * **Alhambra-II**
     * 15-NOR-gate-buttons-LED
   * **Nandland-go-board**
+    * 15-NOR-gate-buttons-LED
+  * **ULX3S-12F**
     * 15-NOR-gate-buttons-LED
   * **iCESugar-1.5**
     * 15-NOR-gate-buttons-LED

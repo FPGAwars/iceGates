@@ -153,8 +153,12 @@ For installing and using this colection in Icestudio follow these steps:
 * **08-NOT-gate**
   * **Alhambra-II**
     * 08-NOT-button-LED
+  * **Nandland-go-board**
+    * 08-NOT-button-LED
 * **09-NOT-op**
   * **Alhambra-II**
+    * 09-NOT-op-LEDs
+  * **Nandland-go-board**
     * 09-NOT-op-LEDs
 * **10-XOR-gate**
   * **Alhambra-II**

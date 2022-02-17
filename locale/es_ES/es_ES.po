@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-15 18:58+0000\n"
+"POT-Creation-Date: 2022-02-17 08:41+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -241,13 +241,12 @@ msgid "And-Busen4"
 msgstr "And-Busen4"
 
 #: translation.js:64
-#, fuzzy
 msgid ""
 "AND-Busen-4: Enable a 4-bits bus. When the enable signal is 0, the output is "
 "0"
 msgstr ""
-"AND-Busen-2: Habilitar un bus de dos bits. Cuando la señal de enable es 0, "
-"la salida es 0"
+"AND-Busen-4: Habilitar un bus de 4 bits. Cuando la señal de enable es 0, la "
+"salida es 0"
 
 #: translation.js:65
 msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
@@ -516,7 +515,7 @@ msgstr "Or-Bus"
 
 #: translation.js:130
 msgid "Or-Op"
-msgstr ""
+msgstr "Or-Op"
 
 #: translation.js:131 translation.js:483
 msgid "Or2"
@@ -635,79 +634,64 @@ msgid "Bus8-Split-all: Split the 8-bits bus into its wires"
 msgstr "Bus8-Split-all: Separar el bus de 8 bits en sus cables"
 
 #: translation.js:160
-#, fuzzy
 msgid "Or-Op-2"
-msgstr "And-Op-2"
+msgstr "Or-Op-2"
 
 #: translation.js:161
-#, fuzzy
 msgid "OR-Op2: Or operation between two numbers of 2 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "OR-Op2: Operación OR entre dos números de 2 bits"
 
 #: translation.js:162
-#, fuzzy
 msgid "Or-Op-3"
-msgstr "And-Op-2"
+msgstr "Or-Op-3"
 
 #: translation.js:163
-#, fuzzy
 msgid "OR-Op3: Or operation between two numbers of 3 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "OR-Op2: Operación OR entre dos números de 3 bits"
 
 #: translation.js:164
-#, fuzzy
 msgid "Or-Op-4"
-msgstr "And-Op-2"
+msgstr "Or-Op-4"
 
 #: translation.js:165
-#, fuzzy
 msgid "Or-Op4: Or operation between two numbers of 4 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "OR-Op4: Operación OR entre dos números de 4 bits"
 
 #: translation.js:166
-#, fuzzy
 msgid "Or-Op-5"
-msgstr "And-Op-2"
+msgstr "Or-Op-5"
 
 #: translation.js:167
-#, fuzzy
 msgid "OR-Op5: And operation between two numbers of 5 bits"
-msgstr "AND-Op5: Operación AND entre dos números de 5 bits"
+msgstr "OR-Op5: Operación OR entre dos números de 5 bits"
 
 #: translation.js:168
-#, fuzzy
 msgid "Or-Op-6"
-msgstr "And-Op-2"
+msgstr "Or-Op-6"
 
 #: translation.js:169
-#, fuzzy
 msgid "OR-Op6: Or operation between two numbers of 6 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "OR-Op6: Operación OR entre dos números de 6 bits"
 
 #: translation.js:170
-#, fuzzy
 msgid "Or-Op-7"
-msgstr "And-Op-2"
+msgstr "Or-Op-7"
 
 #: translation.js:171
-#, fuzzy
 msgid "OR-Op7: OR operation between two numbers of 7 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "OR-Op7: Operación OR entre dos números de 7 bits"
 
 #: translation.js:172
-#, fuzzy
 msgid "Or-Op-8"
-msgstr "And-Op-2"
+msgstr "Or-Op-8"
 
 #: translation.js:173
-#, fuzzy
 msgid "OR-Op8: Or operation between two numbers of 8 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "OR-Op8: Operación OR entre dos números de 8 bits"
 
 #: translation.js:174
-#, fuzzy
 msgid "Xnor-OP"
-msgstr "Xor-op"
+msgstr "Xnor-OP"
 
 #: translation.js:175 translation.js:571
 msgid "Xnor2"
@@ -730,29 +714,24 @@ msgid "XNOR gate: two bits input xnor gate"
 msgstr "Puerta XNOR de 2 entradas de un bit"
 
 #: translation.js:180 translation.js:573
-#, fuzzy
 msgid "Xnor-op3"
-msgstr "Xor-op"
+msgstr "Xnor-op3"
 
 #: translation.js:181
-#, fuzzy
 msgid "XNOR-Op3: Xnor operation between two numbers of 3 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "Xnor-op3"
 
 #: translation.js:182 translation.js:574
-#, fuzzy
 msgid "Xnor-op4"
-msgstr "Xnor-op2"
+msgstr "Xnor-op4"
 
 #: translation.js:183
-#, fuzzy
 msgid "XNOR-Op4: Xnor operation between two numbers of 4 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "XNOR-Op4: operación XNOR entre dos números de 4 bits"
 
 #: translation.js:184
-#, fuzzy
 msgid "Xor-OP"
-msgstr "Xor-op"
+msgstr "Xor-OP"
 
 #: translation.js:185 translation.js:589
 msgid "Xor2"
@@ -763,84 +742,80 @@ msgid "Xor-op2"
 msgstr "Xor-op2"
 
 #: translation.js:187 translation.js:591
-#, fuzzy
 msgid "Xor-op3"
-msgstr "Xor-op"
+msgstr "Xor-op3"
 
 #: translation.js:188
-#, fuzzy
 msgid "XOR-Op3: Xor operation between two numbers of 3 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "XOR-Op3: operación XOR entre dos números de 3 bits"
 
 #: translation.js:189 translation.js:592
-#, fuzzy
 msgid "Xor-op4"
-msgstr "Xor-op"
+msgstr "Xor-op4"
 
 #: translation.js:190
-#, fuzzy
 msgid "XOR-Op4: Xor operation between two numbers of 4 bits"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr "XOR-Op4: operación XOR entre dos números de 4 bits"
 
 #: translation.js:191
 msgid "01-AND-gate"
-msgstr ""
+msgstr "01-AND-gate"
 
 #: translation.js:192
 msgid "02-AND-gate-BUS"
-msgstr ""
+msgstr "02-AND-gate-BUS"
 
 #: translation.js:193
 msgid "03-AND-enable"
-msgstr ""
+msgstr "03-AND-enable"
 
 #: translation.js:194
 msgid "04-AND-op"
-msgstr ""
+msgstr "04-AND-op"
 
 #: translation.js:195
 msgid "05-OR-gate"
-msgstr ""
+msgstr "05-OR-gate"
 
 #: translation.js:196
 msgid "06-OR-gate-BUS"
-msgstr ""
+msgstr "06-OR-gate-BUS"
 
 #: translation.js:197
 msgid "07-OR-op"
-msgstr ""
+msgstr "07-OR-op"
 
 #: translation.js:198
 msgid "08-NOT-gate"
-msgstr ""
+msgstr "08-NOT-gate"
 
 #: translation.js:199
 msgid "09-NOT-op"
-msgstr ""
+msgstr "09-NOT-op"
 
 #: translation.js:200
 msgid "10-XOR-gate"
-msgstr ""
+msgstr "10-XOR-gate"
 
 #: translation.js:201
 msgid "11-XOR-op"
-msgstr ""
+msgstr "11-XOR-op"
 
 #: translation.js:202
 msgid "12-XNOR-gate"
-msgstr ""
+msgstr "12-XNOR-gate"
 
 #: translation.js:203
 msgid "13-XNOR-op"
-msgstr ""
+msgstr "13-XNOR-op"
 
 #: translation.js:204
 msgid "14-NAND-gate"
-msgstr ""
+msgstr "14-NAND-gate"
 
 #: translation.js:205
 msgid "15-NOR-gate"
-msgstr ""
+msgstr "15-NOR-gate"
 
 #: translation.js:206
 msgid "TESTs"
@@ -919,9 +894,8 @@ msgid "Or-Bus2"
 msgstr "Or-Bus2"
 
 #: translation.js:225
-#, fuzzy
 msgid "Or-Op2"
-msgstr "And-Op2"
+msgstr "Or-Op2"
 
 #: translation.js:226 translation.js:232 translation.js:236 translation.js:243
 #: translation.js:250 translation.js:254 translation.js:258 translation.js:263
@@ -949,34 +923,33 @@ msgstr "Alhambra-II"
 
 #: translation.js:227
 msgid "01-And-gate-buttons-LED"
-msgstr ""
+msgstr "01-And-gate-buttons-LED"
 
 #: translation.js:228
 msgid "## INPUTS"
-msgstr ""
+msgstr "## ENTRADAS"
 
 #: translation.js:229
 msgid "**AND Gate**"
 msgstr "** Puerta AND**"
 
 #: translation.js:230
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the AND2 gate\n"
 "\n"
 "The LED is only ON when the two buttons SW1 and SW2 are pressed"
 msgstr ""
-"# Puerta NOR: Comprobación manual con dos pulsadores y un LED\n"
+"# Ejemplo: Comprobación manual de la puerta AND2\n"
 "\n"
-"El LED sólo se enciende cuando ninguno de los botones está apretado"
+"El LED sólo se enciende cuando los dos botones SW1 y SW2 se pulsan"
 
 #: translation.js:231
 msgid "## OUTPUT"
-msgstr ""
+msgstr "## SALIDA"
 
 #: translation.js:233
 msgid "02-And-gate-BUS-buttons-LED"
-msgstr ""
+msgstr "02-And-gate-BUS-buttons-LED"
 
 #: translation.js:234
 msgid "**AND-BUS2 Gate**"
@@ -994,12 +967,11 @@ msgstr ""
 
 #: translation.js:237
 msgid "03-And-enable-buttons-LED"
-msgstr ""
+msgstr "03-And-enable-buttons-LED"
 
 #: translation.js:238
-#, fuzzy
 msgid "4bits constant value: 15 (0xF in hexadecimal)"
-msgstr "Valor constante 0 de 4 bits"
+msgstr "Valor constante de 4 bits: 15 (0xF en hexadecimal)"
 
 #: translation.js:239
 msgid "Generic: 4-bits generic constant (0-15)"
@@ -1024,13 +996,12 @@ msgstr ""
 "LEDs cuando se aprieta el botón"
 
 #: translation.js:242
-#, fuzzy
 msgid "Enable button"
-msgstr "Habilitar la entrada"
+msgstr "Habilitar botón"
 
 #: translation.js:244
 msgid "04-And-op-button-LEDs"
-msgstr ""
+msgstr "04-And-op-button-LEDs"
 
 #: translation.js:245
 msgid "**AND-Op4**"
@@ -1052,60 +1023,56 @@ msgstr ""
 "de lo contrario el operando b es 0"
 
 #: translation.js:247
-#, fuzzy
 msgid "Operand b or 0"
-msgstr "Operando 1"
+msgstr "Operando b ó 0"
 
 #: translation.js:248
-#, fuzzy
 msgid "Enable the operand b"
-msgstr "Habilitar la entrada"
+msgstr "Habilitar el operando b"
 
 #: translation.js:249
 msgid "`a AND b`"
-msgstr ""
+msgstr "`a AND b`"
 
 #: translation.js:251
 msgid "05-Or-gate-buttons-LED"
-msgstr ""
+msgstr "05-Or-gate-buttons-LED"
 
 #: translation.js:252
 msgid "**OR Gate**"
 msgstr "**Puerta OR**"
 
 #: translation.js:253
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the OR2 gate\n"
 "\n"
 "The LED is turned on when any button (or both) are pressed"
 msgstr ""
-"# Puerta NOR: Comprobación manual con dos pulsadores y un LED\n"
+"# Ejemplo: Comprobación manual de la puerta OR2\n"
 "\n"
-"El LED sólo se enciende cuando ninguno de los botones está apretado"
+"El LED se enciende cuando algún botón (o ambos) se aprietan"
 
 #: translation.js:255
 msgid "06-Or-gate-BUS-buttons-LED"
-msgstr ""
+msgstr "06-Or-gate-BUS-buttons-LED"
 
 #: translation.js:256
 msgid "**OR-BUS2 Gate**"
 msgstr "**Puerta OR-BUS2**"
 
 #: translation.js:257
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the OR-BUS2 gate\n"
 "\n"
 "The LED is ON when any of the buttons (or both) are pressed"
 msgstr ""
-"# Puerta NOR: Comprobación manual con dos pulsadores y un LED\n"
+"# Ejemplo: Comprobación manual de la puerta OR-BUS2\n"
 "\n"
-"El LED sólo se enciende cuando ninguno de los botones está apretado"
+"El LED se enciende cuando alguno de los botones (or ambos) se aprietan"
 
 #: translation.js:259
 msgid "07-Or-op-button-LEDs"
-msgstr ""
+msgstr "07-Or-op-button-LEDs"
 
 #: translation.js:260
 msgid "**OR-Op4**"
@@ -1119,39 +1086,44 @@ msgid ""
 "When the button is pressed the operand b has a value (`0011` by default)  \n"
 "otherwise operand b is 0"
 msgstr ""
+"# Ejemplo: Comprobación manual de la puerta OR-Op4\n"
+"\n"
+"La puerta OR-Op4 realiza la operación OR entre los operandos a y b.  \n"
+"Cuando el botón se aprieta, el operando b tiene un valor (`0011`por "
+"defecto)  \n"
+"En cualquier otro caso el operando b es 0"
 
 #: translation.js:262
 msgid "`a OR b`"
-msgstr ""
+msgstr "`a OR b`"
 
 #: translation.js:264
 msgid "08-NOT-button-LED"
-msgstr ""
+msgstr "08-NOT-button-LED"
 
 #: translation.js:265
 msgid "**NOT gate**"
 msgstr "**Puerta NOT**"
 
 #: translation.js:266
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the NOT gate\n"
 "\n"
 "The NOT gate performs the NOT operation on the input comming from  \n"
 "the button. The output is shown on the LEDs  \n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# Ejemplo: Comprobación manual de la puerta NOT\n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
-"y un número constante. El resultado se muestra en los LEDs\n"
+"La puerta NOT realiza la operación NOT en la entrada que viene del  \n"
+"botón. La salida se muestra en los LEDs  \n"
 
 #: translation.js:267
 msgid "## INPUT"
-msgstr ""
+msgstr "## ENTRADA"
 
 #: translation.js:269
 msgid "09-NOT-op-LEDs"
-msgstr ""
+msgstr "09-NOT-op-LEDs"
 
 #: translation.js:270
 msgid ""
@@ -1166,34 +1138,43 @@ msgid ""
 "the  \n"
 "LED"
 msgstr ""
+"# Ejemplo: Comprobación manual de la puerta NOT-4\n"
+"\n"
+"Se introduce un número de 4-bits por la entrada de la puerta NOT-4 y su "
+"salida  \n"
+"se muestra en el LED. Si el botón no está apretado, el número es 0, por lo "
+"que  \n"
+"los LEDs están encendidos. Cuando el botón se aprieta, el número usado en "
+"la  \n"
+"operación NOT es `0101`. El resultado es el número `1010` que se puede "
+"ver  \n"
+"en el LED"
 
 #: translation.js:271
-#, fuzzy
 msgid "Operand a"
-msgstr "Operando 1"
+msgstr "Operando a"
 
 #: translation.js:272
 msgid "`NOT a`"
-msgstr ""
+msgstr "`NOT a`"
 
 #: translation.js:274
 msgid "10-XOR-gate-buttons-LED"
-msgstr ""
+msgstr "10-XOR-gate-buttons-LED"
 
 #: translation.js:275
 msgid "## Example: Manual testing of the XOR gate\n"
-msgstr ""
+msgstr "# Ejemplo: Comprobación manual de la puerta XOR\n"
 
 #: translation.js:277
 msgid "11-XOR-op-button-LEDs"
-msgstr ""
+msgstr "11-XOR-op-button-LEDs"
 
 #: translation.js:278
 msgid "**XOR-Op4**"
 msgstr "**XOR-Op4**"
 
 #: translation.js:279
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the XOR-Op4 gate\n"
 "\n"
@@ -1201,33 +1182,34 @@ msgid ""
 "When the button is pressed the operand b has a value (`0011` by default)  \n"
 "otherwise operand b is 0"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# Ejemplo: Comprobación manual de la puerta XOR-Op4\n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
-"y un número constante. El resultado se muestra en los LEDs\n"
+"La puerta XOR-Op4 realiza la operación XOR entre los operandos a y b.  \n"
+"Cuando el botón se aprieta, el operando b tiene el valor (`0011` por "
+"defecto)  \n"
+"En cualquier otro caso el operando b es 0"
 
 #: translation.js:280
 msgid "`a XOR b`"
-msgstr ""
+msgstr "`a XOR b`"
 
 #: translation.js:282
 msgid "12-XNOR-gate-buttons-LED"
-msgstr ""
+msgstr "12-XNOR-gate-buttons-LED"
 
 #: translation.js:283
 msgid "## Example: Manual testing of the XNOR gate\n"
-msgstr ""
+msgstr "# Ejemplo: Comprobación manual de la puerta XNOR\n"
 
 #: translation.js:285
 msgid "13-XOR-op-button-LEDs"
-msgstr ""
+msgstr "13-XOR-op-button-LEDs"
 
 #: translation.js:286
 msgid "**XNOR-Op4**"
 msgstr "**XNOR-Op4**"
 
 #: translation.js:287
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the XNOR-Op4 gate\n"
 "\n"
@@ -1235,26 +1217,28 @@ msgid ""
 "When the button is pressed the operand b has a value (`0011` by default)  \n"
 "otherwise operand b is 0"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# Ejemplo: Comprobación manual de la puerta XNOR-Op4\n"
 "\n"
-"La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
-"y un número constante. El resultado se muestra en los LEDs\n"
+"La puerta XNOR-Op4 realiza la operacion XNOR entre los operandos a y b.  \n"
+"Cuando el botón se aprieta el operando b tiene el valor (`0011` por "
+"defecto)  \n"
+"En cualquier otro caso el operando b es 0"
 
 #: translation.js:288
 msgid "`a XNOR b`"
-msgstr ""
+msgstr "`a XNOR b`"
 
 #: translation.js:290
 msgid "14-NAND-gate-buttons-LED"
-msgstr ""
+msgstr "14-NAND-gate-buttons-LED"
 
 #: translation.js:291
 msgid "## Example: Manual testing of the NAND gate\n"
-msgstr ""
+msgstr "# Ejemplo: Comprobación manual de la puerta NAND\n"
 
 #: translation.js:293
 msgid "15-NOR-gate-buttons-LED"
-msgstr ""
+msgstr "15-NOR-gate-buttons-LED"
 
 #: translation.js:294
 msgid "**NOR Gate**"
@@ -1262,7 +1246,7 @@ msgstr "**Puerta NOR**"
 
 #: translation.js:295
 msgid "## Example: Manual testing of the NOR gate\n"
-msgstr ""
+msgstr "# Ejemplo: Comprobación manual de la puerta NOR\n"
 
 #: translation.js:321 translation.js:324 translation.js:328 translation.js:333
 #: translation.js:338 translation.js:342 translation.js:347 translation.js:413
@@ -1945,9 +1929,8 @@ msgstr ""
 "Las 8 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:482
-#, fuzzy
 msgid "Or-op"
-msgstr "Xor-op"
+msgstr "Or-op"
 
 #: translation.js:491
 msgid "Or-Bus3"
@@ -2063,39 +2046,32 @@ msgstr ""
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
 #: translation.js:521
-#, fuzzy
 msgid "Or-op-2"
-msgstr "Xor-op2"
+msgstr "Or-op-2"
 
 #: translation.js:522
-#, fuzzy
 msgid "Or-op-3"
-msgstr "Xor-op2"
+msgstr "Or-op-3"
 
 #: translation.js:523
-#, fuzzy
 msgid "Or-op-4"
-msgstr "Xor-op2"
+msgstr "Or-op-4"
 
 #: translation.js:524
-#, fuzzy
 msgid "Or-op-5"
-msgstr "Xor-op2"
+msgstr "Or-op-5"
 
 #: translation.js:525
-#, fuzzy
 msgid "Or-op-6"
-msgstr "Xor-op2"
+msgstr "Or-op-6"
 
 #: translation.js:526
-#, fuzzy
 msgid "Or-op-8"
-msgstr "Xor-op2"
+msgstr "Or-op-8"
 
 #: translation.js:527
-#, fuzzy
 msgid "or-op-7"
-msgstr "Xor-op"
+msgstr "or-op-7"
 
 #: translation.js:530
 msgid ""
@@ -2298,9 +2274,8 @@ msgstr ""
 "el LED0 está apagado"
 
 #: translation.js:570
-#, fuzzy
 msgid "Xnor-op"
-msgstr "Xnor-op2"
+msgstr "Xnor-op"
 
 #: translation.js:577
 msgid ""

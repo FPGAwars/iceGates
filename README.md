@@ -148,15 +148,21 @@ For installing and using this colection in Icestudio follow these steps:
     * 05-Or-gate-buttons-LED
   * **Nandland-go-board**
     * 05-Or-gate-buttons-LED
+  * **iCESugar-1.5**
+    * 05-Or-gate-buttons-LED
 * **06-OR-gate-BUS**
   * **Alhambra-II**
     * 06-Or-gate-BUS-buttons-LED
   * **Nandland-go-board**
     * 06-Or-gate-BUS-buttons-LED
+  * **iCESugar-1.5**
+    * 06-Or-gate-BUS-buttons-LED
 * **07-OR-op**
   * **Alhambra-II**
     * 07-Or-op-button-LEDs
   * **Nandland-go-board**
+    * 07-Or-op-button-LEDs
+  * **iCESugar-1.5**
     * 07-Or-op-button-LEDs
 * **08-NOT-gate**
   * **Alhambra-II**

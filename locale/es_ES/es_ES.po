@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 18:00+0000\n"
+"POT-Creation-Date: 2022-02-17 19:17+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -923,26 +923,26 @@ msgstr "Alhambra-II"
 
 #: translation.js:227
 msgid "NandLand-go-board"
-msgstr ""
+msgstr "NandLand-go-board"
 
 #: translation.js:228 translation.js:251 translation.js:264 translation.js:284
 #: translation.js:301 translation.js:314 translation.js:327 translation.js:341
 #: translation.js:353 translation.js:367 translation.js:377 translation.js:390
 #: translation.js:400 translation.js:413 translation.js:424
 msgid "ULX3S-12F"
-msgstr ""
+msgstr "ULX3S-12F"
 
 #: translation.js:229 translation.js:252 translation.js:265 translation.js:285
 #: translation.js:302 translation.js:315 translation.js:328
 msgid "iCEBreaker"
-msgstr ""
+msgstr "iCEBreaker"
 
 #: translation.js:230 translation.js:253 translation.js:266 translation.js:286
 #: translation.js:303 translation.js:316 translation.js:329 translation.js:342
 #: translation.js:354 translation.js:368 translation.js:378 translation.js:391
 #: translation.js:401 translation.js:414 translation.js:425
 msgid "iCESugar-1.5"
-msgstr ""
+msgstr "iCESugar-1.5"
 
 #: translation.js:231 translation.js:236 translation.js:237 translation.js:238
 #: translation.js:239
@@ -980,7 +980,6 @@ msgid "Generic: 2-bits generic constant (0,1,2,3)"
 msgstr "Generic: Constantes genéricas de 2 bits (0,1,2,3)"
 
 #: translation.js:242
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the AND2 gate\n"
 "\n"
@@ -988,40 +987,43 @@ msgid ""
 msgstr ""
 "# Ejemplo: Comprobación manual de la puerta AND2\n"
 "\n"
-"El LED sólo se enciende cuando los dos botones SW1 y SW2 se pulsan"
+"El LED RBG se pone VERDE sólo cuando los dos botones SW1 y SW2 están "
+"activados"
 
 #: translation.js:243
 msgid "## RGB LED"
-msgstr ""
+msgstr "## LED RGB"
 
 #: translation.js:244
 msgid "Red and blue disabled"
-msgstr ""
+msgstr "Rojo y azul apagados"
 
 #: translation.js:245
 msgid "Negative logic"
-msgstr ""
+msgstr "Lógica negativa"
 
 #: translation.js:246
 msgid "Green component"
-msgstr ""
+msgstr "Componente verde"
 
 #: translation.js:247
 msgid ""
 "Switches are in  \n"
 "negative logic"
 msgstr ""
+"Los interruptores van  \n"
+"con lógica negativa"
 
 #: translation.js:248
 msgid "Positive logic here"
-msgstr ""
+msgstr "Lógica positiva aquí"
 
 #: translation.js:250 translation.js:263 translation.js:283 translation.js:300
 #: translation.js:313 translation.js:326 translation.js:340 translation.js:352
 #: translation.js:366 translation.js:376 translation.js:389 translation.js:399
 #: translation.js:412 translation.js:423
 msgid "Nandland-go-board"
-msgstr ""
+msgstr "Nandland-go-board"
 
 #: translation.js:254 translation.js:257 translation.js:258 translation.js:259
 #: translation.js:260
@@ -1043,7 +1045,6 @@ msgstr ""
 "El LED sólo se enciende cuando los dos botones SW1 y SW2 están apretados"
 
 #: translation.js:261
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the AND-BUS2 gate\n"
 "\n"
@@ -1051,7 +1052,8 @@ msgid ""
 msgstr ""
 "# Ejemplo: Comprobación manual de la puerta AND-BUS2\n"
 "\n"
-"El LED sólo se enciende cuando los dos botones SW1 y SW2 están apretados"
+"El LED RGB se poner VERDE sólo cuando los dos botones sw1 y sw2 están "
+"activados"
 
 #: translation.js:267 translation.js:273 translation.js:274 translation.js:275
 #: translation.js:276
@@ -1093,12 +1095,10 @@ msgid "Generic: 3-bits generic constant (0-7)"
 msgstr "Generic: Constantes genéricas de 3 bits (0-7)"
 
 #: translation.js:278
-#, fuzzy
 msgid "**AND-Busen3**"
-msgstr "**Puerta AND-Busen4**"
+msgstr "**AND-Busen3**"
 
 #: translation.js:279
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the AND-Busen4 gate\n"
 "\n"
@@ -1108,15 +1108,17 @@ msgid ""
 msgstr ""
 "# Ejemplo: Comprobación manual de la puerta AND-Busen4\n"
 "\n"
-"El número dado por los 4-bits constantes (0xF por defecto) se muestra en "
-"los  \n"
-"LEDs cuando se aprieta el botón"
+"El número dado por los 3-bits constantes se usa para activar el LED RGB   \n"
+"Cambiando este calor se modificará el color mostrado en el LED  \n"
+"Sólo funciona si el switch s1 está activado "
 
 #: translation.js:280
 msgid ""
 "Enable button  \n"
 "(Negative logic)"
 msgstr ""
+"Botón de habilitación  \n"
+"(Lógica negativa)"
 
 #: translation.js:281
 msgid ""
@@ -1124,6 +1126,9 @@ msgid ""
 "\n"
 "Negative logic"
 msgstr ""
+"## LED RGB  \n"
+"\n"
+"Lógica negativa"
 
 #: translation.js:287 translation.js:293 translation.js:294 translation.js:295
 #: translation.js:296
@@ -1162,12 +1167,10 @@ msgid "`a AND b`"
 msgstr "`a AND b`"
 
 #: translation.js:297
-#, fuzzy
 msgid "**AND-Op3**"
-msgstr "**AND-Op4**"
+msgstr "**AND-Op3**"
 
 #: translation.js:298
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the AND-Op3 gate\n"
 "\n"
@@ -1176,12 +1179,13 @@ msgid ""
 "otherwise operand b is 0\n"
 "The result of the AND operation is shown on the RGB LED"
 msgstr ""
-"# Ejemplo: Comprobación manual de la puerta AND-Op4\n"
+"# Ejemplo: Comprobación manual de la puerta AND-Op3\n"
 "\n"
-"La puerta AND-Op4 realiza la operación AND entre los operandos a y b.  \n"
-"Cuando el botón se aprieta el operando b tiene un valor (`0011` por "
+"La puerta AND-Op3 realiza la operación AND entre los operandos a y b.  \n"
+"Cuando el interruptor está activado el operando b tiene un valor (`111` por "
 "defecto)  \n"
-"de lo contrario el operando b es 0"
+"de lo contrario el operando b es 0\n"
+"El resultado de la operación AND se muestra en el LED RGB"
 
 #: translation.js:304 translation.js:307 translation.js:308 translation.js:309
 #: translation.js:310
@@ -1203,15 +1207,15 @@ msgstr ""
 "El LED se enciende cuando algún botón (o ambos) se aprietan"
 
 #: translation.js:311
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the OR2 gate\n"
 "\n"
 "The RGB LED is turned GREEN if either switches s1 or s2 (or both) are ON"
 msgstr ""
-"# Ejemplo: Comprobación manual de la puerta AND2\n"
+"# Ejemplo: Comprobación manual de la puerta OR2\n"
 "\n"
-"El LED sólo se enciende cuando los dos botones SW1 y SW2 se pulsan"
+"El LED RGB se pone VERDE si bien el interruptor s1 o el s2 (o ambos) están "
+"activados"
 
 #: translation.js:317 translation.js:320 translation.js:321 translation.js:322
 #: translation.js:323
@@ -1233,7 +1237,6 @@ msgstr ""
 "El LED se enciende cuando alguno de los botones (or ambos) se aprietan"
 
 #: translation.js:324
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the OR-BUS2 gate\n"
 "\n"
@@ -1241,7 +1244,8 @@ msgid ""
 msgstr ""
 "# Ejemplo: Comprobación manual de la puerta OR-BUS2\n"
 "\n"
-"El LED se enciende cuando alguno de los botones (or ambos) se aprietan"
+"El LED RGB se pone a VERDE cuando alguno de los interruptores (o ambos) "
+"están activados"
 
 #: translation.js:330 translation.js:334 translation.js:335 translation.js:336
 #: translation.js:337
@@ -1272,7 +1276,6 @@ msgid "`a OR b`"
 msgstr "`a OR b`"
 
 #: translation.js:338
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the OR-Op3 gate\n"
 "\n"
@@ -1281,12 +1284,13 @@ msgid ""
 "otherwise operand b is 0\n"
 "The result of the OR operation is shown on the RGB LED"
 msgstr ""
-"# Ejemplo: Comprobación manual de la puerta AND-Op4\n"
+"# Ejemplo: Comprobación manual de la puerta OR-Op3\n"
 "\n"
-"La puerta AND-Op4 realiza la operación AND entre los operandos a y b.  \n"
-"Cuando el botón se aprieta el operando b tiene un valor (`0011` por "
+"La puerta OR-Op3 realiza la operación OR entre los operandos a y b.  \n"
+"Cuando el interruptor se activa el operando b tiene un valor (`001` por "
 "defecto)  \n"
-"de lo contrario el operando b es 0"
+"de lo contrario el operando b es 0\n"
+"El resultado de la operación OR se muestra en el LED RGB"
 
 #: translation.js:343 translation.js:347 translation.js:348 translation.js:349
 msgid "08-NOT-button-LED"
@@ -1313,7 +1317,6 @@ msgid "## INPUT"
 msgstr "## ENTRADA"
 
 #: translation.js:350
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the NOT gate\n"
 "\n"
@@ -1323,7 +1326,7 @@ msgstr ""
 "# Ejemplo: Comprobación manual de la puerta NOT\n"
 "\n"
 "La puerta NOT realiza la operación NOT en la entrada que viene del  \n"
-"botón. La salida se muestra en los LEDs  \n"
+"interruptor. La salida poner el LED RGB en VERDE  \n"
 
 #: translation.js:355 translation.js:359 translation.js:360 translation.js:361
 msgid "09-NOT-op-LEDs"
@@ -1363,26 +1366,25 @@ msgid "`NOT a`"
 msgstr "`NOT a`"
 
 #: translation.js:362
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the NOT-3 gate\n"
 "\n"
 "The 3-bit number introduced in the Swtiches is inverted using the  \n"
 "NOT-3 gate. The result is displayed on the RBG LED"
 msgstr ""
-"# Ejemplo: Comprobación manual de la puerta NOT\n"
+"# Ejemplo: Comprobación manual de la puerta NOT-3\n"
 "\n"
-"La puerta NOT realiza la operación NOT en la entrada que viene del  \n"
-"botón. La salida se muestra en los LEDs  \n"
+"El número de 3-bits introducido en los interruptores se invierte usando "
+"la  \n"
+"puerta NOT-3. El resultado se muestra en el LED RGB"
 
 #: translation.js:363
 msgid "## RGB LED  \n"
-msgstr ""
+msgstr "## LED RGB  \n"
 
 #: translation.js:364
-#, fuzzy
 msgid "**NOT-3**"
-msgstr "**Puerta NOT**"
+msgstr "**NOT-3**"
 
 #: translation.js:369 translation.js:371 translation.js:372 translation.js:373
 msgid "10-XOR-gate-buttons-LED"
@@ -1393,9 +1395,8 @@ msgid "## Example: Manual testing of the XOR gate\n"
 msgstr "# Ejemplo: Comprobación manual de la puerta XOR\n"
 
 #: translation.js:374
-#, fuzzy
 msgid "**XOR Gate**"
-msgstr "**Puerta OR**"
+msgstr "**XOR Gate**"
 
 #: translation.js:379 translation.js:383 translation.js:384 translation.js:385
 msgid "11-XOR-op-button-LEDs"
@@ -1425,12 +1426,10 @@ msgid "`a XOR b`"
 msgstr "`a XOR b`"
 
 #: translation.js:386
-#, fuzzy
 msgid "**XOR-Op3**"
-msgstr "**XOR-Op4**"
+msgstr "**XOR-Op3**"
 
 #: translation.js:387
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the XOR-Op3 gate\n"
 "\n"
@@ -1439,12 +1438,13 @@ msgid ""
 "otherwise operand b is 0\n"
 "The result of the XOR operation is shown on the RGB LED"
 msgstr ""
-"# Ejemplo: Comprobación manual de la puerta AND-Op4\n"
+"# Ejemplo: Comprobación manual de la puerta XOR-Op3\n"
 "\n"
-"La puerta AND-Op4 realiza la operación AND entre los operandos a y b.  \n"
-"Cuando el botón se aprieta el operando b tiene un valor (`0011` por "
+"La puerta XOR-Op3 realiza la operación XOR entre los operandos a y b.  \n"
+"Cuando el interruptor está activo, el operando b tiene un valor (`111` por "
 "defecto)  \n"
-"de lo contrario el operando b es 0"
+"de lo contrario el operando b es 0\n"
+"El resultado de la operación XOR se muestra en los LRD RGB"
 
 #: translation.js:392 translation.js:394 translation.js:395 translation.js:396
 msgid "12-XNOR-gate-buttons-LED"
@@ -1455,9 +1455,8 @@ msgid "## Example: Manual testing of the XNOR gate\n"
 msgstr "# Ejemplo: Comprobación manual de la puerta XNOR\n"
 
 #: translation.js:397
-#, fuzzy
 msgid "**XNOR Gate**"
-msgstr "**Puerta NOR**"
+msgstr "**XNOR Gate**"
 
 #: translation.js:402 translation.js:406 translation.js:407 translation.js:408
 msgid "13-XOR-op-button-LEDs"
@@ -1487,12 +1486,10 @@ msgid "`a XNOR b`"
 msgstr "`a XNOR b`"
 
 #: translation.js:409
-#, fuzzy
 msgid "**XNOR-Op3**"
-msgstr "**XNOR-Op4**"
+msgstr "**XNOR-Op3**"
 
 #: translation.js:410
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the XNOR-Op3 gate\n"
 "\n"
@@ -1501,12 +1498,13 @@ msgid ""
 "otherwise operand b is 0\n"
 "The result of the XNOR operation is shown on the RGB LED"
 msgstr ""
-"# Ejemplo: Comprobación manual de la puerta AND-Op4\n"
+"# Ejemplo: Comprobación manual de la puerta XNOR-Op3\n"
 "\n"
-"La puerta AND-Op4 realiza la operación AND entre los operandos a y b.  \n"
-"Cuando el botón se aprieta el operando b tiene un valor (`0011` por "
+"La puerta XNOR-Op3 realiza la operación XNOR entre los operandos a y b.  \n"
+"Cuando el interruptor está activo, el operando b tiene un valor (`111` por "
 "defecto)  \n"
-"de lo contrario el operando b es 0"
+"de lo contrario el operando b es 0\n"
+"El resultado de la operación XNOR se muestra en el LED RGB"
 
 #: translation.js:415 translation.js:417 translation.js:418 translation.js:419
 msgid "14-NAND-gate-buttons-LED"
@@ -1517,14 +1515,12 @@ msgid "## Example: Manual testing of the NAND gate\n"
 msgstr "# Ejemplo: Comprobación manual de la puerta NAND\n"
 
 #: translation.js:420
-#, fuzzy
 msgid "**NAND Gate**"
-msgstr "** Puerta AND**"
+msgstr "**NAND Gate**"
 
 #: translation.js:421
-#, fuzzy
 msgid "## Example: Manual testing of the NAND2 gate\n"
-msgstr "# Ejemplo: Comprobación manual de la puerta NAND\n"
+msgstr "# Ejemplo: Comprobación manual de la puerta NAND2\n"
 
 #: translation.js:426 translation.js:429 translation.js:430 translation.js:431
 msgid "15-NOR-gate-buttons-LED"

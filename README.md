@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/95) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/94) |
 
 ## Blocks
 * **And**
@@ -169,10 +169,14 @@ For installing and using this colection in Icestudio follow these steps:
     * 08-NOT-button-LED
   * **Nandland-go-board**
     * 08-NOT-button-LED
+  * **iCESugar-1.5**
+    * 08-NOT-button-LED
 * **09-NOT-op**
   * **Alhambra-II**
     * 09-NOT-op-LEDs
   * **Nandland-go-board**
+    * 09-NOT-op-LEDs
+  * **iCESugar-1.5**
     * 09-NOT-op-LEDs
 * **10-XOR-gate**
   * **Alhambra-II**

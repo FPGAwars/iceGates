@@ -166,6 +166,8 @@ For installing and using this colection in Icestudio follow these steps:
     * 05-Or-gate-buttons-LED
   * **ULX3S-12F**
     * 05-Or-gate-buttons-LED
+  * **iCEBreaker**
+    * 05-Or-gate-buttons-LED
   * **iCESugar-1.5**
     * 05-Or-gate-buttons-LED
 * **06-OR-gate-BUS**
@@ -175,6 +177,8 @@ For installing and using this colection in Icestudio follow these steps:
     * 06-Or-gate-BUS-buttons-LED
   * **ULX3S-12F**
     * 06-Or-gate-BUS-buttons-LED
+  * **iCEBreaker**
+    * 06-Or-gate-BUS-buttons-LED
   * **iCESugar-1.5**
     * 06-Or-gate-BUS-buttons-LED
 * **07-OR-op**
@@ -183,6 +187,8 @@ For installing and using this colection in Icestudio follow these steps:
   * **Nandland-go-board**
     * 07-Or-op-button-LEDs
   * **ULX3S-12F**
+    * 07-Or-op-button-LEDs
+  * **iCEBreaker**
     * 07-Or-op-button-LEDs
   * **iCESugar-1.5**
     * 07-Or-op-button-LEDs

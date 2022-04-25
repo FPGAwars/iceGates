@@ -56,6 +56,7 @@ For installing and using this colection in Icestudio follow these steps:
     * And-Busen7
     * And-Busen8
   * **And-Op**
+    * And-Op-16
     * And-Op-2
     * And-Op-3
     * And-Op-4
@@ -75,6 +76,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Not-x06
   * Not-x07
   * Not-x08
+  * Not-x16
   * Not
 * **Or**
   * Or2
@@ -93,6 +95,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Or-bus7
     * Or-bus8
   * **Or-Op**
+    * Or-Op-16
     * Or-Op-2
     * Or-Op-3
     * Or-Op-4
@@ -115,6 +118,7 @@ For installing and using this colection in Icestudio follow these steps:
 
 ## Examples
 * 00-Index
+* 001-Index
 * **01-AND-gate**
   * **Alhambra-II**
     * 01-And-gate-buttons-LED
@@ -327,6 +331,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-manual-test-btn-leds
     * **And-Op**
+      * **And-Op-16**
+        * **Alhambra-II**
+          * 01-manual-test-btns-leds
       * **And-Op-2**
         * **Alhambra-II**
           * 01-manual-test-btns-leds
@@ -401,6 +408,9 @@ For installing and using this colection in Icestudio follow these steps:
     * **08-bits**
       * **Alhambra-II**
         * 01-manual-btn-led
+    * **16-bits**
+      * **Alhambra-II**
+        * 01-manual-btn-led
   * **Or**
     * **Or-Bus**
       * **Or-Bus2**
@@ -425,6 +435,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-manual-btns-led
     * **Or-op**
+      * **Or-op-16**
+        * **Alhambra-II**
+          * 01-manual-test-btns-leds
       * **Or-op-2**
         * **Alhambra-II**
           * 01-manual-test-btns-leds

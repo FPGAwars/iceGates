@@ -41,6 +41,7 @@ For installing and using this colection in Icestudio follow these steps:
   * And8
   * **And-Bus**
     * And-Bus2
+    * And-Bus3
     * **Blocks**
       * And-Bus2
       * And-Bus3
@@ -71,15 +72,17 @@ For installing and using this colection in Icestudio follow these steps:
 * **Nor**
   * Nor
 * **Not**
-  * Not-x02
-  * Not-x03
-  * Not-x04
-  * Not-x05
-  * Not-x06
-  * Not-x07
-  * Not-x08
-  * Not-x16
+  * Not-x32
   * Not
+  * **Blocks**
+    * Not-x02
+    * Not-x03
+    * Not-x04
+    * Not-x05
+    * Not-x06
+    * Not-x07
+    * Not-x08
+    * Not-x16
 * **Or**
   * Or2
   * Or3
@@ -89,13 +92,14 @@ For installing and using this colection in Icestudio follow these steps:
   * Or7
   * Or8
   * **Or-Bus**
-    * Or-bus2
-    * Or-bus3
-    * Or-bus4
-    * Or-bus5
-    * Or-bus6
-    * Or-bus7
-    * Or-bus8
+    * **Blocks**
+      * Or-bus2
+      * Or-bus3
+      * Or-bus4
+      * Or-bus5
+      * Or-bus6
+      * Or-bus7
+      * Or-bus8
   * **Or-Op**
     * Or-Op-16
     * Or-Op-2

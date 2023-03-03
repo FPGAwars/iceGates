@@ -59,6 +59,7 @@ For installing and using this colection in Icestudio follow these steps:
     * And-Busen2
     * And-Busen3
     * And-Busen4
+    * And-Busen5
     * **Blocks**
       * And-Busen2
       * And-Busen3

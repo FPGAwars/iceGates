@@ -41,6 +41,8 @@ gettext('And-Bus5');
 gettext('AND-BUS5-verilog. And gate with 5-bits bus input. Verilog implementation');
 gettext('And-Bus6');
 gettext('AND-BUS6-verilog. And gate with 6-bits bus input. Verilog implementation');
+gettext('And-Bus7');
+gettext('AND-BUS7-verilog. And gate with 7-bits bus input. Verilog implementation');
 gettext('And-Bus2');
 gettext('AND-BUS2. And gate with 2-bits bus input');
 gettext('Bus2-Split-all: Split the 2-bits bus into two wires');

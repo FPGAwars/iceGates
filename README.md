@@ -45,6 +45,7 @@ For installing and using this colection in Icestudio follow these steps:
     * And-Bus4
     * And-Bus5
     * And-Bus6
+    * And-Bus7
     * **Blocks**
       * And-Bus2
       * And-Bus3

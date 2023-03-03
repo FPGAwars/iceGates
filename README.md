@@ -56,13 +56,14 @@ For installing and using this colection in Icestudio follow these steps:
       * And-Bus7
       * And-Bus8
   * **And-Busen**
-    * And-Busen2
-    * And-Busen3
-    * And-Busen4
-    * And-Busen5
-    * And-Busen6
-    * And-Busen7
-    * And-Busen8
+    * **Blocks**
+      * And-Busen2
+      * And-Busen3
+      * And-Busen4
+      * And-Busen5
+      * And-Busen6
+      * And-Busen7
+      * And-Busen8
   * **And-Op**
     * And-Op-16
     * And-Op-2

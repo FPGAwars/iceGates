@@ -35,6 +35,8 @@ gettext('And-Bus2');
 gettext('AND-BUS2-verilog. And gate with 2-bits bus input. Verilog implementation');
 gettext('And-Bus3');
 gettext('AND-BUS3-verilog. And gate with 3-bits bus input. Verilog implementation');
+gettext('And-Bus4');
+gettext('AND-BUS4-verilog. And gate with 4-bits bus input. Verilog implementation');
 gettext('And-Bus2');
 gettext('AND-BUS2. And gate with 2-bits bus input');
 gettext('Bus2-Split-all: Split the 2-bits bus into two wires');

@@ -78,6 +78,8 @@ gettext('And-Busen4');
 gettext('AND-Busen-4-verilog: Enable a 4-bits bus. When the enable signal is 0, the output is 0. Verilog implementation');
 gettext('And-Busen5');
 gettext('AND-Busen-5-verilog: Enable a 5-bits bus. When the enable signal is 0, the output is 0. Verilog implementation');
+gettext('And-Busen6');
+gettext('AND-Busen-6-verilog: Enable a 6-bits bus. When the enable signal is 0, the output is 0. Verilog implementation');
 gettext('And-Busen2');
 gettext('AND-Busen-2: Enable a 2-bits bus. When the enable signal is 0, the output is 0');
 gettext('Bus2-Join-all: Joint two wires into a 2-bits Bus');

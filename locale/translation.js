@@ -108,6 +108,7 @@ gettext('Bus7-Join-4-3: Join the two buses into a 7-bits Bus');
 gettext('And-Busen8');
 gettext('AND-Busen-8: Enable a 8-bits bus. When the enable signal is 0, the output is 0');
 gettext('Bus8-Join-half: Join the two same halves into an 8-bits Bus');
+gettext('Blocks');
 gettext('And-Op-16');
 gettext('AND-Op16: And operation between two numbers of 16 bits');
 gettext('AND-Op8: And operation between two numbers of 8 bits');

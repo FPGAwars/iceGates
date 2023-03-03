@@ -66,6 +66,7 @@ gettext('Bus7-Split-3-4: Split the 7-bits bus into two buses of 3 and 4 wires');
 gettext('And-Bus8');
 gettext('AND-BUS8. And gate with 8-bits bus input');
 gettext('Bus8-Split-half: Split the 8-bits bus into two buses of the same size');
+gettext('Blocks');
 gettext('And-Busen2');
 gettext('AND-Busen-2: Enable a 2-bits bus. When the enable signal is 0, the output is 0');
 gettext('Bus2-Join-all: Joint two wires into a 2-bits Bus');

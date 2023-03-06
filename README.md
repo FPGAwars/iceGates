@@ -77,6 +77,7 @@ For installing and using this colection in Icestudio follow these steps:
     * And-Op-4
     * And-Op-5
     * And-Op-6
+    * And-Op-7
     * **Blocks**
       * And-Op-16
       * And-Op-2

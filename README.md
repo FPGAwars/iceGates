@@ -33,6 +33,7 @@ For installing and using this colection in Icestudio follow these steps:
 ## Blocks
 * **And**
   * And2
+  * And3
   * **And-Bus**
     * And-Bus2
     * And-Bus3

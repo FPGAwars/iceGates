@@ -20,6 +20,8 @@ gettext('And-Op');
 gettext('Blocks');
 gettext('And2');
 gettext('Two bits input And gate');
+gettext('And3');
+gettext('AND3-verilog. 3- bits input And gate. Verilog implementation');
 gettext('Blocks');
 gettext('And-Bus2');
 gettext('AND-BUS2-verilog. And gate with 2-bits bus input. Verilog implementation');

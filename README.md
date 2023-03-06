@@ -97,7 +97,9 @@ For installing and using this colection in Icestudio follow these steps:
     * And7
     * And8
 * **Nand**
-  * Nand
+  * Nand2
+  * **Blocks**
+    * Nand
 * **Nor**
   * Nor
 * **Not**

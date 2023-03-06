@@ -117,6 +117,8 @@ gettext('And-Op-3');
 gettext('AND-Op3-verilog: And operation between two numbers of 3 bits. Verilog implementation');
 gettext('And-Op-4');
 gettext('AND-Op4-verilog: And operation between two numbers of 4 bits. Verilog implementation');
+gettext('And-Op-5');
+gettext('AND-Op5-verilog: And operation between two numbers of 5 bits. Verilog implementation');
 gettext('And-Op-16');
 gettext('AND-Op16: And operation between two numbers of 16 bits');
 gettext('AND-Op8: And operation between two numbers of 8 bits');

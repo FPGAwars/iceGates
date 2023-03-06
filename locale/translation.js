@@ -28,6 +28,8 @@ gettext('And5');
 gettext('AND5-verilog. 5-bits input And gate. Verilog implementation');
 gettext('And6');
 gettext('AND6-verilog. 6-bits input And gate. Verilog implementation');
+gettext('And7');
+gettext('AND7-verilog. 7-bits input And gate. Verilog implementation');
 gettext('Blocks');
 gettext('And-Bus2');
 gettext('AND-BUS2-verilog. And gate with 2-bits bus input. Verilog implementation');

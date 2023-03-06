@@ -33,12 +33,6 @@ For installing and using this colection in Icestudio follow these steps:
 ## Blocks
 * **And**
   * And2
-  * And3
-  * And4
-  * And5
-  * And6
-  * And7
-  * And8
   * **And-Bus**
     * And-Bus2
     * And-Bus3
@@ -89,6 +83,13 @@ For installing and using this colection in Icestudio follow these steps:
       * And-Op-6
       * And-Op-7
       * And-Op-8
+  * **Blocks**
+    * And3
+    * And4
+    * And5
+    * And6
+    * And7
+    * And8
 * **Nand**
   * Nand
 * **Nor**

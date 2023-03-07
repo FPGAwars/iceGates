@@ -276,6 +276,8 @@ gettext('Or-Op-6');
 gettext('OR-Op6-verilog: Or operation between two numbers of 6 bits. Verilog implementation');
 gettext('Or-Op-7');
 gettext('OR-Op7-verilog: Or operation between two numbers of 7 bits. Verilog implementation');
+gettext('Or-Op-8');
+gettext('OR-Op8-verilog: Or operation between two numbers of 8 bits. Verilog implementation');
 gettext('Or-Op-16');
 gettext('OR-Op16: Or operation between two numbers of 16 bits');
 gettext('OR-Op8: Or operation between two numbers of 8 bits');

@@ -155,6 +155,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Or-Op-5
     * Or-Op-6
     * Or-Op-7
+    * Or-Op-8
     * **Blocks**
       * Or-Op-16
       * Or-Op-2

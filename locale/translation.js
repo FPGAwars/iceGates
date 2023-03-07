@@ -263,6 +263,7 @@ gettext('Bus7-Split-all: Split the 7-bits bus into its wires');
 gettext('Or-bus8');
 gettext('OR-BUS8: OR gate with 8-bits bus input');
 gettext('Bus8-Split-all: Split the 8-bits bus into its wires');
+gettext('Blocks');
 gettext('Or-Op-16');
 gettext('OR-Op16: Or operation between two numbers of 16 bits');
 gettext('OR-Op8: Or operation between two numbers of 8 bits');

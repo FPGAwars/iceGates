@@ -149,14 +149,15 @@ For installing and using this colection in Icestudio follow these steps:
       * Or-bus7
       * Or-bus8
   * **Or-Op**
-    * Or-Op-16
-    * Or-Op-2
-    * Or-Op-3
-    * Or-Op-4
-    * Or-Op-5
-    * Or-Op-6
-    * Or-Op-7
-    * Or-Op-8
+    * **Blocks**
+      * Or-Op-16
+      * Or-Op-2
+      * Or-Op-3
+      * Or-Op-4
+      * Or-Op-5
+      * Or-Op-6
+      * Or-Op-7
+      * Or-Op-8
 * **Xnor**
   * Xnor2
   * **Xnor-OP**

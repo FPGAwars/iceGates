@@ -112,6 +112,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Not-x06
   * Not-x07
   * Not-x08
+  * Not-x16
   * Not-x32
   * Not
   * **Blocks**

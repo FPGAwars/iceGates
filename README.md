@@ -139,6 +139,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Or-bus5
     * Or-bus6
     * Or-bus7
+    * Or-bus8
     * **Blocks**
       * Or-bus2
       * Or-bus3

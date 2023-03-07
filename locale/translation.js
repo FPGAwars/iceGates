@@ -179,6 +179,8 @@ gettext('Nor-x02: two input NOR gate');
 gettext('OR2: Two bits input OR gate');
 gettext('Blocks');
 gettext('Not-x02');
+gettext('not-x2-verilog: 2-bits not gate. Verilog implementation');
+gettext('Not-x03');
 gettext('not-x3-verilog: 3-bits not gate. Verilog implementation');
 gettext('Not-x32');
 gettext('not-x32: 32-bits not gate');

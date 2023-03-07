@@ -264,6 +264,8 @@ gettext('Or-bus8');
 gettext('OR-BUS8: OR gate with 8-bits bus input');
 gettext('Bus8-Split-all: Split the 8-bits bus into its wires');
 gettext('Blocks');
+gettext('Or-Op-2');
+gettext('OR-Op2-verilog: Or operation between two numbers of 2 bits. Verilog implementation');
 gettext('Or-Op-16');
 gettext('OR-Op16: Or operation between two numbers of 16 bits');
 gettext('OR-Op8: Or operation between two numbers of 8 bits');

@@ -102,6 +102,8 @@ For installing and using this colection in Icestudio follow these steps:
     * Nand
 * **Nor**
   * Nor
+  * **Blocks**
+    * Nor
 * **Not**
   * Not-x32
   * Not

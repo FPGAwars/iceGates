@@ -106,6 +106,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Nor
 * **Not**
   * Not-x02
+  * Not-x03
   * Not-x32
   * Not
   * **Blocks**

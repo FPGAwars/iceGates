@@ -188,6 +188,8 @@ gettext('Not-x05');
 gettext('not-x5-verilog: 5-bits not gate. Verilog implementation');
 gettext('Not-x06');
 gettext('not-x6-verilog: 6-bits not gate. Verilog implementation');
+gettext('Not-x07');
+gettext('not-x7-verilog: 7-bits not gate. Verilog implementation');
 gettext('Not-x32');
 gettext('not-x32: 32-bits not gate');
 gettext('Not');

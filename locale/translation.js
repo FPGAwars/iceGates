@@ -237,6 +237,8 @@ gettext('Or-bus2');
 gettext('OR-BUS2-verilog: OR gate with 2-bits bus input. Verilog implementation');
 gettext('Or-bus3');
 gettext('OR-BUS3-verilog: OR gate with 3-bits bus input. Verilog implementation');
+gettext('Or-bus4');
+gettext('OR-BUS4-verilog: OR gate with 4-bits bus input. Verilog implementation');
 gettext('Or-bus2');
 gettext('OR-BUS2: OR gate with 2-bits bus input');
 gettext('Or-bus3');

@@ -127,11 +127,13 @@ For installing and using this colection in Icestudio follow these steps:
 * **Or**
   * Or2
   * Or3
-  * Or4
-  * Or5
-  * Or6
-  * Or7
-  * Or8
+  * **Blocks**
+    * Or3
+    * Or4
+    * Or5
+    * Or6
+    * Or7
+    * Or8
   * **Or-Bus**
     * Or-bus2
     * Or-bus3

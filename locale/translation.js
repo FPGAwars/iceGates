@@ -223,6 +223,8 @@ gettext('Or-Op');
 gettext('Or2');
 gettext('Or3');
 gettext('OR3-verilog: 3-bits input OR gate. Verilog implementation');
+gettext('Or4');
+gettext('OR4-verilog: 4-bits input OR gate. Verilog implementation');
 gettext('Or3');
 gettext('OR3: Three bits input OR gate');
 gettext('Or4');

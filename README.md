@@ -128,6 +128,8 @@ For installing and using this colection in Icestudio follow these steps:
   * Or2
   * Or3
   * Or4
+  * Or5
+  * Or6
   * **Blocks**
     * Or3
     * Or4

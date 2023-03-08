@@ -229,6 +229,8 @@ gettext('Or5');
 gettext('OR5-verilog: 5-bits input OR gate. Verilog implementation');
 gettext('Or6');
 gettext('OR6-verilog: 6-bits input OR gate. Verilog implementation');
+gettext('Or7');
+gettext('OR7-verilog: 7-bits input OR gate. Verilog implementation');
 gettext('Or3');
 gettext('OR3: Three bits input OR gate');
 gettext('Or4');

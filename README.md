@@ -188,6 +188,7 @@ For installing and using this colection in Icestudio follow these steps:
 * **Xor**
   * Xor2
   * **Xor-OP**
+    * Xor-op2
     * **Blocks**
       * Xor-op2
       * Xor-op3

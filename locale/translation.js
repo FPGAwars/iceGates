@@ -316,6 +316,8 @@ gettext('XOR gate: two bits input xor gate');
 gettext('Blocks');
 gettext('Xnor-op2');
 gettext('XNOR gate-verilog: 2 bits input xnor gate. Verilog implementation');
+gettext('Xnor-op3');
+gettext('XNOR gate-verilog: 3 bits input xnor gate. Verilog implementation');
 gettext('Xnor-op2');
 gettext('XNOR gate: two bits input xnor gate');
 gettext('Xnor-op3');

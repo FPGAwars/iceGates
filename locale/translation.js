@@ -85,7 +85,8 @@ gettext('AND-Busen-6-verilog: Enable a 6-bits bus. When the enable signal is 0, 
 gettext('And-Busen7');
 gettext('AND-Busen-7-verilog: Enable a 7-bits bus. When the enable signal is 0, the output is 0. Verilog implementation');
 gettext('And-Busen8');
-gettext('AND-Busen-8-verilog: Enable a 8-bits bus. When the enable signal is 0, the output is 0. Verilog implementation');
+gettext('AND-Busen-8: Enable a 8-bits bus. When the enable signal is 0, the output is 0');
+gettext('Bus8-Join-half: Join the two same halves into an 8-bits Bus');
 gettext('And-Busen2');
 gettext('AND-Busen-2: Enable a 2-bits bus. When the enable signal is 0, the output is 0');
 gettext('Bus2-Join-all: Joint two wires into a 2-bits Bus');
@@ -108,8 +109,6 @@ gettext('AND-Busen-7: Enable a 7-bits bus. When the enable signal is 0, the outp
 gettext('Bus7-Split-4-3: Split the 7-bits bus into two buses of 4 and 3 wires');
 gettext('Bus7-Join-4-3: Join the two buses into a 7-bits Bus');
 gettext('And-Busen8');
-gettext('AND-Busen-8: Enable a 8-bits bus. When the enable signal is 0, the output is 0');
-gettext('Bus8-Join-half: Join the two same halves into an 8-bits Bus');
 gettext('Blocks');
 gettext('And-Op-16');
 gettext('AND-Op16-verilog: And operation between two numbers of 16 bits. Verilog implementation');
@@ -362,6 +361,7 @@ gettext('14-NAND-gate');
 gettext('15-NOR-gate');
 gettext('TESTs');
 gettext('00-Index');
+gettext('AND-Busen-8-verilog: Enable a 8-bits bus. When the enable signal is 0, the output is 0. Verilog implementation');
 gettext('# INDEX: IceGate Collection');
 gettext('## AND');
 gettext('## Not ');

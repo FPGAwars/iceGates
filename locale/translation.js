@@ -331,6 +331,7 @@ gettext('Xnor-op4');
 gettext('XNOR-Op4: Xnor operation between two numbers of 4 bits');
 gettext('Xor-OP');
 gettext('Xor2');
+gettext('Blocks');
 gettext('Xor-op2');
 gettext('Xor-op3');
 gettext('XOR-Op3: Xor operation between two numbers of 3 bits');

@@ -2,7 +2,7 @@
   "version": "1.2",
   "package": {
     "name": "OR-BUS4",
-    "version": "1.0.2",
+    "version": "1.1",
     "description": "OR-BUS4: OR gate with 4-bits bus input",
     "author": "Jesús Arroyo, Juan González",
     "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20height=%22192.718%22%20width=%22383.697%22%20version=%221%22%3E%3Cpath%20d=%22M175.56%20188.718H84.527s30.345-42.538%2031.086-94.03c.743-51.49-31.821-90.294-31.821-90.294L176.109%204c46.445%201.948%20103.899%2053.44%20123.047%2093.678-32.601%2067.503-92.158%2089.79-123.596%2091.04z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2047.292h99.605M4.883%20145.168h100.981M298.57%2098.89h81.07%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20font-weight=%22400%22%20font-size=%2266.317%22%20y=%22121.28%22%20x=%22131.572%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20font-weight=%22700%22%20y=%22121.28%22%20x=%22131.572%22%3EOR%3C/tspan%3E%3C/text%3E%3C/svg%3E"
@@ -28,30 +28,8 @@
           "data": {
             "name": "",
             "range": "[3:0]",
-            "pins": [
-              {
-                "index": "3",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "2",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": false,
-            "clock": false
+            "clock": false,
+            "size": 4
           },
           "position": {
             "x": 88,
@@ -71,8 +49,8 @@
           }
         },
         {
-          "id": "1093bd5f-96e7-47f8-a726-6a1f611ef432",
-          "type": "f493210a5e75bbae25a3a31acce0d182c13c2410",
+          "id": "ce950963-f612-473e-b375-d234d6c08f2a",
+          "type": "0736594f3071d898939255086dedf70659f80bed",
           "position": {
             "x": 440,
             "y": -8
@@ -86,7 +64,7 @@
       "wires": [
         {
           "source": {
-            "block": "1093bd5f-96e7-47f8-a726-6a1f611ef432",
+            "block": "ce950963-f612-473e-b375-d234d6c08f2a",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -111,7 +89,7 @@
             "port": "bbe1895b-be8b-4237-b0d1-ae592e3e6208"
           },
           "target": {
-            "block": "1093bd5f-96e7-47f8-a726-6a1f611ef432",
+            "block": "ce950963-f612-473e-b375-d234d6c08f2a",
             "port": "aad69f2f-a80a-434b-ab58-1ec5d075ddd3"
           }
         },
@@ -121,7 +99,7 @@
             "port": "33072210-9ba0-4659-8339-95952b939e6e"
           },
           "target": {
-            "block": "1093bd5f-96e7-47f8-a726-6a1f611ef432",
+            "block": "ce950963-f612-473e-b375-d234d6c08f2a",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
@@ -131,7 +109,7 @@
             "port": "f5a71d7b-de20-4527-80c8-0eb20de0dc77"
           },
           "target": {
-            "block": "1093bd5f-96e7-47f8-a726-6a1f611ef432",
+            "block": "ce950963-f612-473e-b375-d234d6c08f2a",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
@@ -141,8 +119,8 @@
             "port": "0f7487e5-b070-4277-bba6-acf69934afca"
           },
           "target": {
-            "block": "1093bd5f-96e7-47f8-a726-6a1f611ef432",
-            "port": "43f513f6-af61-44b1-8d84-7544a993cc52"
+            "block": "ce950963-f612-473e-b375-d234d6c08f2a",
+            "port": "45020f38-b918-4039-9b04-5e3f3fc95d75"
           }
         }
       ]
@@ -314,11 +292,11 @@
         }
       }
     },
-    "f493210a5e75bbae25a3a31acce0d182c13c2410": {
+    "0736594f3071d898939255086dedf70659f80bed": {
       "package": {
-        "name": "OR4",
+        "name": "OR4-verilog",
         "version": "1.0.2",
-        "description": "OR4: Four bits input OR gate",
+        "description": "OR4-verilog: 4-bits input OR gate. Verilog implementation",
         "author": "Jesús Arroyo, Juan González",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20height=%22192.718%22%20width=%22383.697%22%20version=%221%22%3E%3Cpath%20d=%22M175.56%20188.718H84.527s30.345-42.538%2031.086-94.03c.743-51.49-31.821-90.294-31.821-90.294L176.109%204c46.445%201.948%20103.899%2053.44%20123.047%2093.678-32.601%2067.503-92.158%2089.79-123.596%2091.04z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2047.292h99.605M4.883%20145.168h100.981M298.57%2098.89h81.07%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20font-weight=%22400%22%20font-size=%2266.317%22%20y=%22121.28%22%20x=%22131.572%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20font-weight=%22700%22%20y=%22121.28%22%20x=%22131.572%22%3EOR%3C/tspan%3E%3C/text%3E%3C/svg%3E"
       },
@@ -333,18 +311,7 @@
               },
               "position": {
                 "x": 112,
-                "y": -24
-              }
-            },
-            {
-              "id": "664caf9e-5f40-4df4-800a-b626af702e62",
-              "type": "basic.output",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 840,
-                "y": 24
+                "y": -64
               }
             },
             {
@@ -354,164 +321,8 @@
                 "name": ""
               },
               "position": {
-                "x": 112,
-                "y": 40
-              }
-            },
-            {
-              "id": "97b51945-d716-4b6c-9db9-970d08541249",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 112,
-                "y": 96
-              }
-            },
-            {
-              "id": "43f513f6-af61-44b1-8d84-7544a993cc52",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 112,
-                "y": 160
-              }
-            },
-            {
-              "id": "bcfdb574-deb0-4936-a07a-1cf021bf2e77",
-              "type": "873425949b2a80f1a7f66f320796bcd068a59889",
-              "position": {
-                "x": 296,
-                "y": -8
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            },
-            {
-              "id": "2c02ad6e-f08b-4512-b2d4-21f66e4caba5",
-              "type": "873425949b2a80f1a7f66f320796bcd068a59889",
-              "position": {
-                "x": 504,
-                "y": 8
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            },
-            {
-              "id": "d2aa9244-4f2f-491e-a5b1-33ed2b26455a",
-              "type": "873425949b2a80f1a7f66f320796bcd068a59889",
-              "position": {
-                "x": 680,
-                "y": 24
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "aad69f2f-a80a-434b-ab58-1ec5d075ddd3",
-                "port": "out"
-              },
-              "target": {
-                "block": "bcfdb574-deb0-4936-a07a-1cf021bf2e77",
-                "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-              }
-            },
-            {
-              "source": {
-                "block": "18c2ebc7-5152-439c-9b3f-851c59bac834",
-                "port": "out"
-              },
-              "target": {
-                "block": "bcfdb574-deb0-4936-a07a-1cf021bf2e77",
-                "port": "97b51945-d716-4b6c-9db9-970d08541249"
-              }
-            },
-            {
-              "source": {
-                "block": "bcfdb574-deb0-4936-a07a-1cf021bf2e77",
-                "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-              },
-              "target": {
-                "block": "2c02ad6e-f08b-4512-b2d4-21f66e4caba5",
-                "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-              }
-            },
-            {
-              "source": {
-                "block": "97b51945-d716-4b6c-9db9-970d08541249",
-                "port": "out"
-              },
-              "target": {
-                "block": "2c02ad6e-f08b-4512-b2d4-21f66e4caba5",
-                "port": "97b51945-d716-4b6c-9db9-970d08541249"
-              }
-            },
-            {
-              "source": {
-                "block": "2c02ad6e-f08b-4512-b2d4-21f66e4caba5",
-                "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-              },
-              "target": {
-                "block": "d2aa9244-4f2f-491e-a5b1-33ed2b26455a",
-                "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-              }
-            },
-            {
-              "source": {
-                "block": "d2aa9244-4f2f-491e-a5b1-33ed2b26455a",
-                "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-              },
-              "target": {
-                "block": "664caf9e-5f40-4df4-800a-b626af702e62",
-                "port": "in"
-              }
-            },
-            {
-              "source": {
-                "block": "43f513f6-af61-44b1-8d84-7544a993cc52",
-                "port": "out"
-              },
-              "target": {
-                "block": "d2aa9244-4f2f-491e-a5b1-33ed2b26455a",
-                "port": "97b51945-d716-4b6c-9db9-970d08541249"
-              }
-            }
-          ]
-        }
-      }
-    },
-    "873425949b2a80f1a7f66f320796bcd068a59889": {
-      "package": {
-        "name": "OR2",
-        "version": "1.0.2",
-        "description": "OR2: Two bits input OR gate",
-        "author": "Jesús Arroyo, Juan González",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20height=%22192.718%22%20width=%22383.697%22%20version=%221%22%3E%3Cpath%20d=%22M175.56%20188.718H84.527s30.345-42.538%2031.086-94.03c.743-51.49-31.821-90.294-31.821-90.294L176.109%204c46.445%201.948%20103.899%2053.44%20123.047%2093.678-32.601%2067.503-92.158%2089.79-123.596%2091.04z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2047.292h99.605M4.883%20145.168h100.981M298.57%2098.89h81.07%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20font-weight=%22400%22%20font-size=%2266.317%22%20y=%22121.28%22%20x=%22131.572%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20font-weight=%22700%22%20y=%22121.28%22%20x=%22131.572%22%3EOR%3C/tspan%3E%3C/text%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "18c2ebc7-5152-439c-9b3f-851c59bac834",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 112,
-                "y": 40
+                "x": 104,
+                "y": 64
               }
             },
             {
@@ -521,8 +332,8 @@
                 "name": ""
               },
               "position": {
-                "x": 608,
-                "y": 72
+                "x": 736,
+                "y": 104
               }
             },
             {
@@ -532,16 +343,25 @@
                 "name": ""
               },
               "position": {
-                "x": 112,
-                "y": 96
+                "x": 104,
+                "y": 136
               }
             },
             {
-              "id": "00925b04-5004-4307-a737-fa4e97c8b6ab",
+              "id": "45020f38-b918-4039-9b04-5e3f3fc95d75",
+              "type": "basic.input",
+              "data": {
+                "name": ""
+              },
+              "position": {
+                "x": 104,
+                "y": 208
+              }
+            },
+            {
+              "id": "1cb13e14-176e-4857-8fb3-d49438643f25",
               "type": "basic.code",
               "data": {
-                "code": "//-- OR Gate\n//-- Verilog implementation\n\nassign c = a | b;\n\n",
-                "params": [],
                 "ports": {
                   "in": [
                     {
@@ -549,34 +369,62 @@
                     },
                     {
                       "name": "b"
+                    },
+                    {
+                      "name": "c"
+                    },
+                    {
+                      "name": "d"
                     }
                   ],
                   "out": [
                     {
-                      "name": "c"
+                      "name": "o"
                     }
                   ]
-                }
+                },
+                "params": [],
+                "code": "assign o = a | b | c | d;"
               },
               "position": {
-                "x": 256,
-                "y": 48
+                "x": 280,
+                "y": -16
               },
               "size": {
-                "width": 312,
-                "height": 104
+                "width": 368,
+                "height": 296
               }
             }
           ],
           "wires": [
             {
               "source": {
+                "block": "1cb13e14-176e-4857-8fb3-d49438643f25",
+                "port": "o"
+              },
+              "target": {
+                "block": "664caf9e-5f40-4df4-800a-b626af702e62",
+                "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "aad69f2f-a80a-434b-ab58-1ec5d075ddd3",
+                "port": "out"
+              },
+              "target": {
+                "block": "1cb13e14-176e-4857-8fb3-d49438643f25",
+                "port": "a"
+              }
+            },
+            {
+              "source": {
                 "block": "18c2ebc7-5152-439c-9b3f-851c59bac834",
                 "port": "out"
               },
               "target": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "a"
+                "block": "1cb13e14-176e-4857-8fb3-d49438643f25",
+                "port": "b"
               }
             },
             {
@@ -585,18 +433,18 @@
                 "port": "out"
               },
               "target": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "b"
+                "block": "1cb13e14-176e-4857-8fb3-d49438643f25",
+                "port": "c"
               }
             },
             {
               "source": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "c"
+                "block": "45020f38-b918-4039-9b04-5e3f3fc95d75",
+                "port": "out"
               },
               "target": {
-                "block": "664caf9e-5f40-4df4-800a-b626af702e62",
-                "port": "in"
+                "block": "1cb13e14-176e-4857-8fb3-d49438643f25",
+                "port": "d"
               }
             }
           ]

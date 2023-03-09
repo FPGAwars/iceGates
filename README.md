@@ -178,6 +178,7 @@ For installing and using this colection in Icestudio follow these steps:
   * **Xnor-OP**
     * Xnor-op2
     * Xnor-op3
+    * Xnor-op4
     * **Blocks**
       * Xnor-op2
       * Xnor-op3

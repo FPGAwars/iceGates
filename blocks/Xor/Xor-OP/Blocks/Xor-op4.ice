@@ -2,7 +2,7 @@
   "version": "1.2",
   "package": {
     "name": "XOR-Op-4",
-    "version": "1.0",
+    "version": "1.1",
     "description": "XOR-Op4: Xor operation between two numbers of 4 bits",
     "author": "Jesús Arroyo, Juan González",
     "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20height=%22193.047%22%20width=%22383.697%22%20version=%221%22%3E%3Cpath%20d=%22M175.56%20189.047H84.527s30.345-42.538%2031.086-94.03c.743-51.49-31.821-90.294-31.821-90.294l92.317-.394c46.445%201.948%20103.899%2053.44%20123.047%2093.678-32.601%2067.503-92.158%2089.79-123.596%2091.04z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2047.62h99.605M4.883%20145.497h100.981M298.57%2099.219h81.07%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20x=%22129.011%22%20y=%22115.285%22%20font-size=%2258.24%22%20font-weight=%22400%22%20style=%22line-height:125%25%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%20transform=%22translate(0%20.329)%22%3E%3Ctspan%20x=%22129.011%22%20y=%22115.285%22%20font-weight=%22700%22%3EXOR%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M54.321%20188.368s30.345-42.538%2031.086-94.03c.742-51.49-31.821-90.294-31.821-90.294%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
@@ -17,30 +17,8 @@
           "data": {
             "name": "",
             "range": "[3:0]",
-            "pins": [
-              {
-                "index": "3",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "2",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": false,
-            "clock": false
+            "clock": false,
+            "size": 4
           },
           "position": {
             "x": -272,
@@ -53,29 +31,7 @@
           "data": {
             "name": "",
             "range": "[3:0]",
-            "pins": [
-              {
-                "index": "3",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "2",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": false
+            "size": 4
           },
           "position": {
             "x": 584,
@@ -88,30 +44,8 @@
           "data": {
             "name": "",
             "range": "[3:0]",
-            "pins": [
-              {
-                "index": "3",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "2",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": false,
-            "clock": false
+            "clock": false,
+            "size": 4
           },
           "position": {
             "x": -272,
@@ -203,8 +137,8 @@
           }
         },
         {
-          "id": "cf48b114-6e51-47d7-ab66-32ccf99a972a",
-          "type": "72daf8528b574f814d28f3ec63df0b5552d4e8dc",
+          "id": "104254c2-e262-45ad-87ee-0f7714332db8",
+          "type": "c782f8aa5fe9f1f4dcf242b813de2da06b678548",
           "position": {
             "x": 192,
             "y": -8
@@ -215,8 +149,8 @@
           }
         },
         {
-          "id": "c50ecc3a-190c-405f-a27b-2b5f64af6c49",
-          "type": "72daf8528b574f814d28f3ec63df0b5552d4e8dc",
+          "id": "6c393722-44cd-495b-aba5-8d64150be60e",
+          "type": "c782f8aa5fe9f1f4dcf242b813de2da06b678548",
           "position": {
             "x": 192,
             "y": 160
@@ -230,7 +164,7 @@
       "wires": [
         {
           "source": {
-            "block": "cf48b114-6e51-47d7-ab66-32ccf99a972a",
+            "block": "104254c2-e262-45ad-87ee-0f7714332db8",
             "port": "6209c655-89ce-4aec-9db8-08b8ae8eda6c"
           },
           "target": {
@@ -274,7 +208,7 @@
         },
         {
           "source": {
-            "block": "c50ecc3a-190c-405f-a27b-2b5f64af6c49",
+            "block": "6c393722-44cd-495b-aba5-8d64150be60e",
             "port": "6209c655-89ce-4aec-9db8-08b8ae8eda6c"
           },
           "target": {
@@ -289,7 +223,7 @@
             "port": "80a2eb57-cca4-457c-8c37-1dd3f3174562"
           },
           "target": {
-            "block": "cf48b114-6e51-47d7-ab66-32ccf99a972a",
+            "block": "104254c2-e262-45ad-87ee-0f7714332db8",
             "port": "6cf503a1-105f-4898-a26b-699753d3f51f"
           },
           "size": 2
@@ -300,7 +234,7 @@
             "port": "c05bafda-1d38-4102-9f69-0fab860fdd38"
           },
           "target": {
-            "block": "c50ecc3a-190c-405f-a27b-2b5f64af6c49",
+            "block": "6c393722-44cd-495b-aba5-8d64150be60e",
             "port": "6cf503a1-105f-4898-a26b-699753d3f51f"
           },
           "vertices": [
@@ -317,7 +251,7 @@
             "port": "c05bafda-1d38-4102-9f69-0fab860fdd38"
           },
           "target": {
-            "block": "c50ecc3a-190c-405f-a27b-2b5f64af6c49",
+            "block": "6c393722-44cd-495b-aba5-8d64150be60e",
             "port": "4f18ea2e-4d07-40b1-83a9-a5e8bb46ef00"
           },
           "size": 2
@@ -328,7 +262,7 @@
             "port": "80a2eb57-cca4-457c-8c37-1dd3f3174562"
           },
           "target": {
-            "block": "cf48b114-6e51-47d7-ab66-32ccf99a972a",
+            "block": "104254c2-e262-45ad-87ee-0f7714332db8",
             "port": "4f18ea2e-4d07-40b1-83a9-a5e8bb46ef00"
           },
           "vertices": [
@@ -598,7 +532,7 @@
         }
       }
     },
-    "72daf8528b574f814d28f3ec63df0b5552d4e8dc": {
+    "c782f8aa5fe9f1f4dcf242b813de2da06b678548": {
       "package": {
         "name": "XOR-op2",
         "version": "1.0.2",
@@ -614,15 +548,7 @@
               "type": "basic.inputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "a1",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "a1"
               },
               "position": {
                 "x": 264,
@@ -660,15 +586,7 @@
               "type": "basic.inputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "a0",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "a0"
               },
               "position": {
                 "x": 264,
@@ -705,15 +623,7 @@
               "type": "basic.inputLabel",
               "data": {
                 "blockColor": "darkgreen",
-                "name": "b1",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "b1"
               },
               "position": {
                 "x": 264,
@@ -763,15 +673,7 @@
               "type": "basic.inputLabel",
               "data": {
                 "blockColor": "darkgreen",
-                "name": "b0",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "virtual": true
+                "name": "b0"
               },
               "position": {
                 "x": 264,

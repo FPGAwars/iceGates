@@ -461,93 +461,97 @@ msgid "And-Op-2"
 msgstr "And-Op-2"
 
 #: translation.js:118
-#, fuzzy
 msgid ""
 "AND-Op2-verilog: And operation between two numbers of 2 bits. Verilog "
 "implementation"
-msgstr "AND-Op2: Operación AND entre dos números de 2 bits"
+msgstr ""
+"AND-Op2-verilog: Operación AND entre dos números de 2 bits. Implementación "
+"en Verilog"
 
 #: translation.js:119 translation.js:137 translation.js:692
 msgid "And-Op-3"
 msgstr "And-Op-3"
 
 #: translation.js:120
-#, fuzzy
 msgid ""
 "AND-Op3-verilog: And operation between two numbers of 3 bits. Verilog "
 "implementation"
-msgstr "AND-Op3: Operación AND entre dos números de 3 bits"
+msgstr ""
+"AND-Op3-verilog: Operación AND entre dos números de 3 bits. Implementación "
+"en Verilog"
 
 #: translation.js:121 translation.js:141 translation.js:693
 msgid "And-Op-4"
 msgstr "And-Op-4"
 
 #: translation.js:122
-#, fuzzy
 msgid ""
 "AND-Op4-verilog: And operation between two numbers of 4 bits. Verilog "
 "implementation"
-msgstr "AND-Op4: Operación AND entre dos números de 4 bits"
+msgstr ""
+"AND-Op4-verilog: Operación AND entre dos números de 4 bits. Implementación "
+"en Verilog"
 
 #: translation.js:123 translation.js:145 translation.js:694
 msgid "And-Op-5"
 msgstr "And-Op-5"
 
 #: translation.js:124
-#, fuzzy
 msgid ""
 "AND-Op5-verilog: And operation between two numbers of 5 bits. Verilog "
 "implementation"
-msgstr "AND-Op5: Operación AND entre dos números de 5 bits"
+msgstr ""
+"AND-Op5-verilog: Operación AND entre dos números de 5 bits. Implementación "
+"en Verilog"
 
 #: translation.js:125 translation.js:148 translation.js:695
 msgid "And-Op-6"
 msgstr "And-Op-6"
 
 #: translation.js:126
-#, fuzzy
 msgid ""
 "AND-Op6-verilog: And operation between two numbers of 6 bits. Verilog "
 "implementation"
-msgstr "AND-Op6: Operación AND entre dos números de 6 bits"
+msgstr ""
+"AND-Op6-verilog: Operación AND entre dos números de 6 bits. Implementación "
+"en Verilog"
 
 #: translation.js:127 translation.js:150 translation.js:696
 msgid "And-Op-7"
 msgstr "And-Op-7"
 
 #: translation.js:128
-#, fuzzy
 msgid ""
 "AND-Op7-verilog: And operation between two numbers of 7 bits. Verilog "
 "implementation"
-msgstr "AND-Op7: Operación AND entre dos números de 7 bits"
+msgstr ""
+"AND-Op7-verilog: Operación AND entre dos números de 7 bits. Implementación "
+"en Verilog"
 
 #: translation.js:129 translation.js:152 translation.js:697
 msgid "And-Op-8"
 msgstr "And-Op-8"
 
 #: translation.js:130
-#, fuzzy
 msgid ""
 "AND-Op8-verilog: And operation between two numbers of 8 bits. Verilog "
 "implementation"
-msgstr "AND-Op8: Operación AND entre dos números de 8 bits"
+msgstr ""
+"AND-Op8-verilog: Operación AND entre dos números de 8 bits. Implementación "
+"en Verilog"
 
 #: translation.js:132
-#, fuzzy
 msgid "AND-Op16: And operation between two numbers of 16 bits"
-msgstr "AND-Op6: Operación AND entre dos números de 6 bits"
+msgstr "AND-Op16: Operación AND entre dos números de 16 bits"
 
 #: translation.js:133
-#, fuzzy
 msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
-msgstr "Bus8-Join-half: Agrupar los dos buses iguales en uno de 8 bits"
+msgstr "Bus16-Join-half: Agrupar los dos buses iguales en uno de 16 bits"
 
 #: translation.js:134
-#, fuzzy
 msgid "Bus16-Split-half: Split the 16-bits bus into two buses of the same size"
 msgstr ""
-"Bus8-Split-half: Separar el bus de 8 bits en dos mitades del mismo tamaño"
+"Bus16-Split-half: Separar el bus de 16 bits en dos mitades del mismo tamaño"
 
 #: translation.js:136
 msgid "AND-Op2: And operation between two numbers of 2 bits"
@@ -623,9 +627,9 @@ msgid "Nand2"
 msgstr "Nand2"
 
 #: translation.js:167
-#, fuzzy
 msgid "Nand-x02: two input NAND gate. Verilog implementation"
-msgstr "Nand-x02: Puerta NAND de dos entradas de un bit"
+msgstr ""
+"Nand-x02: Puerta NAND de dos entradas de un bit. Implementación en Verilog"
 
 #: translation.js:169
 msgid "Nand-x02: two input NAND gate"
@@ -644,9 +648,8 @@ msgid "Output"
 msgstr "Salida"
 
 #: translation.js:175
-#, fuzzy
 msgid "Nor-x02-verilog: 2 input NOR gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "Nor-x02-verilog: Puerta Nor de 2 entradas. Implementación en Verilog"
 
 #: translation.js:177
 msgid "Nor-x02: two input NOR gate"
@@ -661,83 +664,72 @@ msgid "Not-x02"
 msgstr "Not-x02"
 
 #: translation.js:181
-#, fuzzy
 msgid "not-x2-verilog: 2-bits not gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "not-x2-verilog: Puerta Not de 2 bits. Implementación en Verilog"
 
 #: translation.js:182 translation.js:201
 msgid "Not-x03"
 msgstr "Not-x03"
 
 #: translation.js:183
-#, fuzzy
 msgid "not-x3-verilog: 3-bits not gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "not-x3-verilog: Puerta Not de 3 bits. Implementación en Verilog"
 
 #: translation.js:184 translation.js:203
 msgid "Not-x04"
 msgstr "Not-x04"
 
 #: translation.js:185
-#, fuzzy
 msgid "not-x4-verilog: 4-bits not gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "not-x4-verilog: Puerta Not de 4 bits. Implementación en Verilog"
 
 #: translation.js:186 translation.js:205
 msgid "Not-x05"
 msgstr "Not-x05"
 
 #: translation.js:187
-#, fuzzy
 msgid "not-x5-verilog: 5-bits not gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "not-x5-verilog: Puerta Not de 5 bits. Implementación en Verilog"
 
 #: translation.js:188 translation.js:209
 msgid "Not-x06"
 msgstr "Not-x06"
 
 #: translation.js:189
-#, fuzzy
 msgid "not-x6-verilog: 6-bits not gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "not-x6-verilog: Puerta Not de 6 bits. Implementación en Verilog"
 
 #: translation.js:190 translation.js:213
 msgid "Not-x07"
 msgstr "Not-x07"
 
 #: translation.js:191
-#, fuzzy
 msgid "not-x7-verilog: 7-bits not gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "not-x7-verilog: Puerta Not de 7 bits. Implementación en Verilog"
 
 #: translation.js:192 translation.js:215
 msgid "Not-x08"
 msgstr "Not-x08"
 
 #: translation.js:193
-#, fuzzy
 msgid "not-x8-verilog: 8-bits not gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "not-x8-verilog: Puerta Not de 8 bits. Implementación en Verilog"
 
 #: translation.js:194 translation.js:217
-#, fuzzy
 msgid "Not-x16"
-msgstr "Not-x06"
+msgstr "Not-x16"
 
 #: translation.js:195
-#, fuzzy
 msgid "not-x16-verilog: 16-bits not gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "not-x16-verilog: Puerta Not de 16 bits. Implementación en Verilog"
 
 #: translation.js:196
-#, fuzzy
 msgid "Not-x32"
-msgstr "Not-x02"
+msgstr "Not-x32"
 
 #: translation.js:197
-#, fuzzy
 msgid "not-x32: 32-bits not gate"
-msgstr "not-x2: Puerta not de entrada de 2 bits"
+msgstr "not-x32: Puerta not de entrada de 32 bits"
 
 #: translation.js:200
 msgid "not-x2: 2-bits not gate"
@@ -784,9 +776,8 @@ msgid "not-x8: 8-bits not gate"
 msgstr "not-x8: Puerta not de entrada de 8 bits"
 
 #: translation.js:218
-#, fuzzy
 msgid "not-x16: 16-bits not gate"
-msgstr "not-x6: Puerta not de entrada de 6 bits"
+msgstr "not-x16: Puerta not de 6 bits"
 
 #: translation.js:220 translation.js:878
 msgid "Or-Bus"
@@ -805,54 +796,48 @@ msgid "Or3"
 msgstr "Or3"
 
 #: translation.js:224
-#, fuzzy
 msgid "OR3-verilog: 3-bits input OR gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "OR3-verilog: Puerta OR de 3bits. Implementación en Verilog"
 
 #: translation.js:225 translation.js:237 translation.js:882
 msgid "Or4"
 msgstr "Or4"
 
 #: translation.js:226
-#, fuzzy
 msgid "OR4-verilog: 4-bits input OR gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "OR4-verilog: Puerta OR de 4bits. Implementación en Verilog"
 
 #: translation.js:227 translation.js:239 translation.js:883
 msgid "Or5"
 msgstr "Or5"
 
 #: translation.js:228
-#, fuzzy
 msgid "OR5-verilog: 5-bits input OR gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "OR5-verilog: Puerta OR de 5bits. Implementación en Verilog"
 
 #: translation.js:229 translation.js:241 translation.js:884
 msgid "Or6"
 msgstr "Or6"
 
 #: translation.js:230
-#, fuzzy
 msgid "OR6-verilog: 6-bits input OR gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "OR6-verilog: Puerta OR de 6bits. Implementación en Verilog"
 
 #: translation.js:231 translation.js:243 translation.js:885
 msgid "Or7"
 msgstr "Or7"
 
 #: translation.js:232
-#, fuzzy
 msgid "OR7-verilog: 7-bits input OR gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "OR7-verilog: Puerta OR de 7bits. Implementación en Verilog"
 
 #: translation.js:233 translation.js:245 translation.js:886
 msgid "Or8"
 msgstr "Or8"
 
 #: translation.js:234
-#, fuzzy
 msgid "OR8-verilog: 8-bits input OR gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "OR8-verilog: Puerta OR de 8bits. Implementación en Verilog"
 
 #: translation.js:236
 msgid "OR3: Three bits input OR gate"
@@ -883,63 +868,56 @@ msgid "Or-bus2"
 msgstr "Or-bus2"
 
 #: translation.js:249
-#, fuzzy
 msgid "OR-BUS2-verilog: OR gate with 2-bits bus input. Verilog implementation"
-msgstr "OR-BUS2. Puerta OR con entrada de bus de 2 bits"
+msgstr "OR-BUS2-verilog: Puerta OR de 2bits. Implementación en Verilog"
 
 #: translation.js:250 translation.js:264
 msgid "Or-bus3"
 msgstr "Or-bus3"
 
 #: translation.js:251
-#, fuzzy
 msgid "OR-BUS3-verilog: OR gate with 3-bits bus input. Verilog implementation"
-msgstr "OR-BUS3. Puerta OR con entrada de bus de 3 bits"
+msgstr "OR-BUS3-verilog: Puerta OR de 3bits. Implementación en Verilog"
 
 #: translation.js:252 translation.js:266
 msgid "Or-bus4"
 msgstr "Or-bus4"
 
 #: translation.js:253
-#, fuzzy
 msgid "OR-BUS4-verilog: OR gate with 4-bits bus input. Verilog implementation"
-msgstr "OR-BUS4. Puerta OR con entrada de bus de 4 bits"
+msgstr "OR-BUS4-verilog: Puerta OR de 4bits. Implementación en Verilog"
 
 #: translation.js:254 translation.js:268
 msgid "Or-bus5"
 msgstr "Or-bus5"
 
 #: translation.js:255
-#, fuzzy
 msgid "OR-BUS5-verilog: OR gate with 5-bits bus input. Verilog implementation"
-msgstr "OR-BUS5. Puerta OR con entrada de bus de 5 bits"
+msgstr "OR-BUS5-verilog: Puerta OR de 5bits. Implementación en Verilog"
 
 #: translation.js:256 translation.js:270
 msgid "Or-bus6"
 msgstr "Or-bus6"
 
 #: translation.js:257
-#, fuzzy
 msgid "OR-BUS6-verilog: OR gate with 6-bits bus input. Verilog implementation"
-msgstr "OR-BUS6. Puerta OR con entrada de bus de 6 bits"
+msgstr "OR-BUS6-verilog: Puerta OR de 6-bits. Implementación en Verilog"
 
 #: translation.js:258 translation.js:272
 msgid "Or-bus7"
 msgstr "Or-bus7"
 
 #: translation.js:259
-#, fuzzy
 msgid "OR-BUS7-verilog: OR gate with 7-bits bus input. Verilog implementation"
-msgstr "OR-BUS7. Puerta OR con entrada de bus de 7 bits"
+msgstr "OR-BUS7-verilog: Puerta OR de 7-bits. Implementación en Verilog"
 
 #: translation.js:260 translation.js:275
 msgid "Or-bus8"
 msgstr "Or-bus8"
 
 #: translation.js:261
-#, fuzzy
 msgid "OR-BUS8-verilog: OR gate with 8-bits bus input. Verilog implementation"
-msgstr "OR-BUS8. Puerta OR con entrada de bus de 8 bits"
+msgstr "OR-BUS8-verilog: Puerta OR de 8bits. Implementación en Verilog"
 
 #: translation.js:263
 msgid "OR-BUS2: OR gate with 2-bits bus input"
@@ -978,98 +956,104 @@ msgid "Bus8-Split-all: Split the 8-bits bus into its wires"
 msgstr "Bus8-Split-all: Separar el bus de 8 bits en sus cables"
 
 #: translation.js:279 translation.js:295
-#, fuzzy
 msgid "Or-Op-16"
-msgstr "Or-Op-6"
+msgstr "Or-Op-16"
 
 #: translation.js:280
-#, fuzzy
 msgid ""
 "OR-Op16-verilog: Or operation between two numbers of 16 bits. Verilog "
 "implementation"
-msgstr "OR-Op6: Operación OR entre dos números de 6 bits"
+msgstr ""
+"OR-Op16-verilog: Operación OR entre dos números de 16 bits. Implementación "
+"en Verilog"
 
 #: translation.js:281 translation.js:297
 msgid "Or-Op-2"
 msgstr "Or-Op-2"
 
 #: translation.js:282
-#, fuzzy
 msgid ""
 "OR-Op2-verilog: Or operation between two numbers of 2 bits. Verilog "
 "implementation"
-msgstr "OR-Op2: Operación OR entre dos números de 2 bits"
+msgstr ""
+"OR-Op2-verilog: Operación OR entre dos números de 2 bits. Implementación en "
+"Verilog"
 
 #: translation.js:283 translation.js:299
 msgid "Or-Op-3"
 msgstr "Or-Op-3"
 
 #: translation.js:284
-#, fuzzy
 msgid ""
 "OR-Op3-verilog: Or operation between two numbers of 3 bits. Verilog "
 "implementation"
-msgstr "OR-Op2: Operación OR entre dos números de 3 bits"
+msgstr ""
+"OR-Op3-verilog: Operación OR entre dos números de 3 bits. Implementación en "
+"Verilog"
 
 #: translation.js:285 translation.js:301
 msgid "Or-Op-4"
 msgstr "Or-Op-4"
 
 #: translation.js:286
-#, fuzzy
 msgid ""
 "OR-Op4-verilog: Or operation between two numbers of 4 bits. Verilog "
 "implementation"
-msgstr "OR-Op4: Operación OR entre dos números de 4 bits"
+msgstr ""
+"OR-Op4-verilog: Operación OR entre dos números de 4 bits. Implementación en "
+"Verilog"
 
 #: translation.js:287 translation.js:303
 msgid "Or-Op-5"
 msgstr "Or-Op-5"
 
 #: translation.js:288
-#, fuzzy
 msgid ""
 "OR-Op5-verilog: Or operation between two numbers of 5 bits. Verilog "
 "implementation"
-msgstr "OR-Op2: Operación OR entre dos números de 2 bits"
+msgstr ""
+"OR-Op5-verilog: Operación OR entre dos números de 5 bits. Implementación en "
+"Verilog"
 
 #: translation.js:289 translation.js:305
 msgid "Or-Op-6"
 msgstr "Or-Op-6"
 
 #: translation.js:290
-#, fuzzy
 msgid ""
 "OR-Op6-verilog: Or operation between two numbers of 6 bits. Verilog "
 "implementation"
-msgstr "OR-Op6: Operación OR entre dos números de 6 bits"
+msgstr ""
+"OR-Op6-verilog: Operación OR entre dos números de 6 bits. Implementación en "
+"Verilog"
 
 #: translation.js:291 translation.js:307
 msgid "Or-Op-7"
 msgstr "Or-Op-7"
 
 #: translation.js:292
-#, fuzzy
 msgid ""
 "OR-Op7-verilog: Or operation between two numbers of 7 bits. Verilog "
 "implementation"
-msgstr "OR-Op7: Operación OR entre dos números de 7 bits"
+msgstr ""
+"OR-Op7-verilog: Operación OR entre dos números de 7 bits. Implementación en "
+"Verilog"
 
 #: translation.js:293 translation.js:309
 msgid "Or-Op-8"
 msgstr "Or-Op-8"
 
 #: translation.js:294
-#, fuzzy
 msgid ""
 "OR-Op8-verilog: Or operation between two numbers of 8 bits. Verilog "
 "implementation"
-msgstr "OR-Op8: Operación OR entre dos números de 8 bits"
+msgstr ""
+"OR-Op8-verilog: Operación OR entre dos números de 8 bits. Implementación en "
+"Verilog"
 
 #: translation.js:296
-#, fuzzy
 msgid "OR-Op16: Or operation between two numbers of 16 bits"
-msgstr "OR-Op6: Operación OR entre dos números de 6 bits"
+msgstr "OR-Op16: Operación OR entre dos números de 16 bits"
 
 #: translation.js:298
 msgid "OR-Op2: Or operation between two numbers of 2 bits"
@@ -1108,45 +1092,40 @@ msgid "Xnor2"
 msgstr "Xnor2"
 
 #: translation.js:314
-#, fuzzy
 msgid "XNor-x02-verilog: 2-bits input XNOR gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "XNor-x02-verilog: Puerta XNOR de 2 bits. Implementación en Verilog"
 
 #: translation.js:316
 msgid "XNor-x02: two input XNOR gate"
 msgstr "Xnor-x02: Puerta XNOR de 2 entradas de un bit"
 
 #: translation.js:317
-#, fuzzy
 msgid "XOR gate: 2-bits input xor gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "XOR-gate: Puerta XOR de 2-bits. Implementación en verilog"
 
 #: translation.js:319 translation.js:325 translation.js:973
 msgid "Xnor-op2"
 msgstr "Xnor-op2"
 
 #: translation.js:320
-#, fuzzy
 msgid "XNOR gate-verilog: 2 bits input xnor gate. Verilog implementation"
-msgstr "Puerta XNOR de 2 entradas de un bit"
+msgstr "XNOR gate-verilog: Puerta XNOR de 2-bits. Implementación en Verilog"
 
 #: translation.js:321 translation.js:327 translation.js:974
 msgid "Xnor-op3"
 msgstr "Xnor-op3"
 
 #: translation.js:322
-#, fuzzy
 msgid "XNOR gate-verilog: 3 bits input xnor gate. Verilog implementation"
-msgstr "Puerta XNOR de 2 entradas de un bit"
+msgstr "XNOR gate-verilog: Puerta XNOR de 4-bits. Implementación en Verilog"
 
 #: translation.js:323 translation.js:329 translation.js:975
 msgid "Xnor-op4"
 msgstr "Xnor-op4"
 
 #: translation.js:324
-#, fuzzy
 msgid "XNOR gate-verilog: 4 bits input xnor gate. Verilog implementation"
-msgstr "Puerta XNOR de 2 entradas de un bit"
+msgstr "XNOR gate-verilog: Puerta XNOR de 4-bits. Implementación en Verilog"
 
 #: translation.js:326
 msgid "XNOR gate: two bits input xnor gate"
@@ -1181,18 +1160,16 @@ msgid "Xor-op3"
 msgstr "Xor-op3"
 
 #: translation.js:339
-#, fuzzy
 msgid "XOR gate: 3-bits input xor gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "XOR-gate: Puerta XOR de 3-bits. Implementación en verilog"
 
 #: translation.js:340 translation.js:345 translation.js:993
 msgid "Xor-op4"
 msgstr "Xor-op4"
 
 #: translation.js:341
-#, fuzzy
 msgid "XOR gate: 4-bits input xor gate. Verilog implementation"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "XOR-gate: Puerta XOR de 4-bits. Implementación en verilog"
 
 #: translation.js:344
 msgid "XOR-Op3: Xor operation between two numbers of 3 bits"
@@ -1271,13 +1248,12 @@ msgid "00-Index"
 msgstr "00-Indice"
 
 #: translation.js:364
-#, fuzzy
 msgid ""
 "AND-Busen-8-verilog: Enable a 8-bits bus. When the enable signal is 0, the "
 "output is 0. Verilog implementation"
 msgstr ""
-"AND-Busen-2: Habilitar un bus de 8 bits. Cuando la señal de enable es 0, la "
-"salida es 0"
+"AND-Busen-8-verilog: Habilitar un bus de 8 bits. Cuando la señal de enable "
+"es 0, la salida es 0. Implementación en Verilog"
 
 #: translation.js:365
 msgid "# INDEX: IceGate Collection"
@@ -1352,14 +1328,12 @@ msgid "Or-Op2"
 msgstr "Or-Op2"
 
 #: translation.js:383
-#, fuzzy
 msgid "001-Index"
-msgstr "00-Indice"
+msgstr "001-Indice"
 
 #: translation.js:384
-#, fuzzy
 msgid "### 16-bits"
-msgstr "### 6-bits"
+msgstr "### 16-bits"
 
 #: translation.js:385 translation.js:408 translation.js:421 translation.js:441
 #: translation.js:458 translation.js:471 translation.js:484 translation.js:498
@@ -1785,7 +1759,6 @@ msgid "## INPUT"
 msgstr "## ENTRADA"
 
 #: translation.js:511
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the NOT gate\n"
 "\n"
@@ -1795,7 +1768,8 @@ msgstr ""
 "# Ejemplo: Comprobación manual de la puerta NOT\n"
 "\n"
 "La puerta NOT realiza la operación NOT en la entrada que viene del  \n"
-"botón. La salida se muestra en los LEDs  \n"
+"botón. La salida enciende el LED RGBs  \n"
+" \n"
 
 #: translation.js:517 translation.js:521 translation.js:522 translation.js:523
 #: translation.js:524
@@ -1836,17 +1810,16 @@ msgid "`NOT a`"
 msgstr "`NOT a`"
 
 #: translation.js:525
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the NOT-3 gate\n"
 "\n"
 "The 3-bit number introduced in the Swtiches is inverted using the  \n"
 "NOT-3 gate. The result is displayed on the RBG LED"
 msgstr ""
-"# Ejemplo: Comprobación manual de la puerta NOT\n"
+"# Ejemplo: Comprobación manual de la puerta NOT de 3 bits\n"
 "\n"
-"La puerta NOT realiza la operación NOT en la entrada que viene del  \n"
-"botón. La salida se muestra en los LEDs  \n"
+"El número de 3-bits introducido por los swithes se invierte unsando  \n"
+"la puerta NOT-3. El resultado se muestra en el LED RGB"
 
 #: translation.js:526
 msgid "## RGB LED  \n"
@@ -2259,95 +2232,97 @@ msgstr "01-manual-test-btns-leds"
 
 #: translation.js:700
 msgid "Button-tic: Configurable button that emits a tic when it is pressed"
-msgstr ""
+msgstr "Button-tic: Botón configurable que emite un tic cuando se pulsa"
 
 #: translation.js:701
 msgid ""
 "Rising-edge detector. It generates a 1-period pulse (tic) when a rising edge "
 "is detected on the input"
 msgstr ""
+"Detector de flanco de subida. Se genera un pulso de 1 ciclo cuando se "
+"detecta un flanco de subida en la entrada"
 
 #: translation.js:702
-#, fuzzy
 msgid "D Flip-flop (verilog implementation)"
-msgstr "Puerta Not (Implementación en verilog)"
+msgstr "Biestable D (Implementación en verilog)"
 
 #: translation.js:703
 msgid "Configurable button (pull-up on/off. Not on/off)"
-msgstr ""
+msgstr "Botón configurable (pull-up on/off. Not on/off)"
 
 #: translation.js:704
 msgid "FPGA internal pull-up configuration on the input port"
-msgstr ""
+msgstr "Configuración del pull-up interno de la FPGA en puerto de entrada"
 
 #: translation.js:705
 msgid "Remove the rebound on a mechanical switch"
-msgstr ""
+msgstr "Eliminar los rebotes de un interruptor mecánico"
 
 #: translation.js:706
 msgid "1bit register (implemented in verilog)"
-msgstr ""
+msgstr "Registro de 1 bit (Implementado en verilog)"
 
 #: translation.js:707
 msgid "16-bits Syscounter with reset"
-msgstr ""
+msgstr "Contador del sistema de 16 bits con reset"
 
 #: translation.js:708
 msgid "DFF-rst-x16: 16 D flip-flops in paralell with reset"
-msgstr ""
+msgstr "DFF-rst-x16: 16 Biestables D en paralelo con reset"
 
 #: translation.js:709
 msgid "DFF-rst-x04: Three D flip-flops in paralell with reset"
-msgstr ""
+msgstr "DFF-rst-x04: Tres Biestables D en paralelo con reset"
 
 #: translation.js:710
 msgid "DFF-rst-x01: D Flip flop with reset input. When rst=1, the DFF is 0"
 msgstr ""
+"DFF-rst-x01: Biestable D con entrada de reset. Cuando rst=1, el Biestable se "
+"pone a 0"
 
 #: translation.js:711
-#, fuzzy
 msgid ""
 "Bus16-Split-quarter: Split the 16-bits bus into four buses of the same size"
 msgstr ""
-"Bus8-Split-half: Separar el bus de 8 bits en dos mitades del mismo tamaño"
+"Bus16-Split-half: Separar el bus de 16 bits en dos mitades del mismo tamaño"
 
 #: translation.js:712
-#, fuzzy
 msgid "Bus16-Join-quarter: Join the four same buses into an 16-bits Bus"
-msgstr "Bus6-Join-half: Agrupar los dos buses en uno de 6 bits"
+msgstr "Bus16-Join-quarter: Agrupar los cuatro buses en uno de 16 bits"
 
 #: translation.js:713
 msgid "Inc1-16bit: Increment a 16-bits number by one"
-msgstr ""
+msgstr "Inc1-16bit: Incrementar un número de 16 bits en uno"
 
 #: translation.js:714
 msgid "AdderK-16bit: Adder of 16-bit operand and 16-bit constant"
 msgstr ""
+"AdderK-16bit: Sumador de un operando de 16 bits y una constante de 16 bits"
 
 #: translation.js:715
-#, fuzzy
 msgid "Generic: 16-bits generic constant"
-msgstr "Generic: Constantes genéricas de 6 bits (0-63)"
+msgstr "Generic: Constante genéricas de 16 bits"
 
 #: translation.js:716
 msgid "Adder-16bits: Adder of two operands of 16 bits"
-msgstr ""
+msgstr "Adder-16bits: Sumador de dos operandos de 16 bits"
 
 #: translation.js:717
 msgid "Adder-8bits: Adder of two operands of 8 bits"
-msgstr ""
+msgstr "Adder-8bits: Sumador de dos operandos de 8 bits"
 
 #: translation.js:718
 msgid "Adder-4bits: Adder of two operands of 4 bits"
-msgstr ""
+msgstr "Adder-4bits: Sumador de dos operandos de 4 bits"
 
 #: translation.js:719
 msgid "Adder-1bit: Adder of two operands of 1 bit"
-msgstr ""
+msgstr "Adder-1bit: Sumador de dos operandos de 1 bit"
 
 #: translation.js:720
 msgid "AdderC-1bit: Adder of two operands of 1 bit plus the carry in"
 msgstr ""
+"AdderC-1bit: Sumador de dos operandos de 1 bit más el acarreo de entrada"
 
 #: translation.js:721
 msgid "Constant bit 0"
@@ -2356,69 +2331,77 @@ msgstr "Bit constante 0"
 #: translation.js:722
 msgid "AdderC-4bits: Adder of two operands of 4 bits and Carry in"
 msgstr ""
+"AdderC-4bits: Sumador de dos operandos de 4 bits más el acarreo de entrada"
 
 #: translation.js:723
 msgid "AdderC-8bits: Adder of two operands of 8 bits and Carry in"
 msgstr ""
+"AdderC-8bit: Sumador de dos operandos de 8 bit más el acarreo de entrada"
 
 #: translation.js:724
 msgid ""
 "Edges detector. It generates a 1-period pulse (tic) when either a rising "
 "edge or a falling edge is detected on the input"
 msgstr ""
+"Detector de flancos. Se genera un pulso de un ciclo cuando se detecta un "
+"flanco de subida o de bajada en la entrada"
 
 #: translation.js:725
 msgid "Sync 1-bit input with the system clock domain"
-msgstr ""
+msgstr "Sincronizar una entrada de un bit con el dominio del reloj del sistema"
 
 #: translation.js:726
 msgid ""
 "Select positive or negative logic for the input (0=positive, 1=negative)"
 msgstr ""
+"Seleccionar lógica positiva o negativa para la entrada (0=positiva, "
+"1=negativa)"
 
 #: translation.js:727
-#, fuzzy
 msgid "1-bit generic constant (0/1)"
-msgstr "Generic: Constante genérica de 4 bits (0-15)"
+msgstr "Constante genérica de 1 bit (0/1)"
 
 #: translation.js:728
 msgid "2-to-1 Multplexer (16-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (canales de 16 bits)"
 
 #: translation.js:729
 msgid "2-to-1 Multplexer (8-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 8 bits)"
 
 #: translation.js:730
 msgid "2-to-1 Multplexer (4-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 4 bits)"
 
 #: translation.js:731
 msgid "2-to-1 Multplexer (1-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 1 bit)"
 
 #: translation.js:732
 msgid ""
 "Display16-8: Display a 16-bits value on an  8-LEDs. The sel input selects "
 "the byte to display "
 msgstr ""
+"Display16-8: Mostrar un valor de 16 bits en los 8 LEDs. La entrada sel "
+"selecciona el byte a mostrar "
 
 #: translation.js:733
 msgid ""
 "System TFF with toggle input: It toogles on every system cycle if the input "
 "is active"
 msgstr ""
+"Biestable T del sistema con entrada de cambio: Cambia en cada ciclo del "
+"sistema si la entrada está activa"
 
 #: translation.js:734
 msgid "Reg: 1-Bit register"
-msgstr ""
+msgstr "Reg: Registro de 1-Bit"
 
 #: translation.js:735
 msgid "2-to-1 Multplexer (1-bit channels). Fippled version"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
 
 #: translation.js:736
-#, fuzzy
 msgid ""
 "# AND-Op16: Manual testing with pushbuttons and LEDs\n"
 "\n"
@@ -2426,35 +2409,36 @@ msgid ""
 "a constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op6: Comprobación manual con  pulsadores y  LEDs  \n"
+"# AND-Op16: Comprobación manual con  pulsadores y  LEDs  \n"
 "\n"
-"La operación AND se aplica entre los 6 bits que llegan de los pulsadores  \n"
+"La operación AND se aplica entre los 16 bits que llegan de los pulsadores "
+"y  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
 "\n"
 
 #: translation.js:737
 msgid "System clock"
-msgstr ""
+msgstr "Reloj del sistema"
 
 #: translation.js:738
 msgid "Button state signal"
-msgstr ""
+msgstr "Señal de estado del botón"
 
 #: translation.js:739
 msgid "Tic: button pressed"
-msgstr ""
+msgstr "Tic: Botón apretado"
 
 #: translation.js:740
 msgid "Rising edge detector"
-msgstr ""
+msgstr "Detector de flanco de subida"
 
 #: translation.js:741
 msgid "Pull up on/off"
-msgstr ""
+msgstr "Pull up on/off"
 
 #: translation.js:742
 msgid "Not on/off"
-msgstr ""
+msgstr "Not on/off"
 
 #: translation.js:743
 msgid ""
@@ -2463,22 +2447,28 @@ msgid ""
 "It generates a 1-period pulse (tic) when a rising edge is detected on the  \n"
 "input signal"
 msgstr ""
+"## Detector de flanco de subida\n"
+"\n"
+"Se genera un pulso de un ciclo cuando se detecta un flanco de subida en  \n"
+"la señal de entrada"
 
 #: translation.js:744
 msgid "Input signal"
-msgstr ""
+msgstr "Señal de entrada"
 
 #: translation.js:745
 msgid ""
 "Current signal  \n"
 "state"
-msgstr ""
+msgstr "Estado de la señal actual"
 
 #: translation.js:746
 msgid ""
 "Signal state in the previous  \n"
 "clock cycle"
 msgstr ""
+"Estado de la señal en el ciclo  \n"
+"de reloj anterior"
 
 #: translation.js:747
 msgid ""
@@ -2489,6 +2479,12 @@ msgid ""
 "\n"
 "In any other case the output is 0"
 msgstr ""
+"Si la señal actual es 1 y su valor en  \n"
+"el ciclo previo era 0, significa  \n"
+"que se ha detectado un flanco de subida!  \n"
+"La salida es 1\n"
+"\n"
+"En cualquier otro caso la salida es 0"
 
 #: translation.js:748
 msgid ""
@@ -2497,15 +2493,18 @@ msgid ""
 "There is no delay between the arrival of a rising edge  \n"
 "and its detection"
 msgstr ""
+"**Retraso**: 0 ciclos de reloj  \n"
+"\n"
+"No hay retraso entre la llegada de un flanco de subida y  \n"
+"su detección"
 
 #: translation.js:749
 msgid "Parameter: Initial value"
-msgstr ""
+msgstr "Parámetro: Valor inicial"
 
 #: translation.js:750
-#, fuzzy
 msgid "Input data"
-msgstr "Entrada"
+msgstr "Datos de entrada"
 
 #: translation.js:751
 msgid ""
@@ -2514,6 +2513,10 @@ msgid ""
 "It stores the input data that arrives at cycle n  \n"
 "Its output is shown in the cycle n+1"
 msgstr ""
+"# Biestable D  \n"
+"\n"
+"El dato de entrada se almacena en el ciclo n  \n"
+"Su salida se muestra en el ciclo n+1"
 
 #: translation.js:752
 msgid ""
@@ -2521,10 +2524,13 @@ msgid ""
 "* 0: OFF\n"
 "* 1: ON"
 msgstr ""
+"Pull-up interno  \n"
+"* 0: OFF\n"
+"* 1: ON"
 
 #: translation.js:753
 msgid "Synchronization stage"
-msgstr ""
+msgstr "Etapa de sincronización"
 
 #: translation.js:754
 msgid ""
@@ -2533,10 +2539,14 @@ msgid ""
 "* 0: Wire\n"
 "* 1: signal inverted"
 msgstr ""
+"Etapa de normalización\n"
+"\n"
+"* 0: Cable\n"
+"* 1: Señal invertica"
 
 #: translation.js:755
 msgid "Debouncing stage"
-msgstr ""
+msgstr "Etapa antirrebotes"
 
 #: translation.js:756
 msgid ""
@@ -2545,28 +2555,38 @@ msgid ""
 "0: No pull-up  \n"
 "1: Pull-up activated"
 msgstr ""
+"### Parámetro pull-up:\n"
+"\n"
+"0: Sin pull-up  \n"
+"1: Pull-up activado"
 
 #: translation.js:757
 msgid ""
 "Only an FPGA pin can  \n"
 "be connected here!!!"
 msgstr ""
+"¡¡Sólo se puede conectar  \n"
+"aquí un pin de la FPGA!!"
 
 #: translation.js:758
 msgid ""
 "The pull-up is connected  \n"
 "by default"
 msgstr ""
+"El Pull-up se conecta  \n"
+"por defecto"
 
 #: translation.js:759
 msgid "Edge detector"
-msgstr ""
+msgstr "Detector de flancos"
 
 #: translation.js:760
 msgid ""
 "Whenever there is a change in  \n"
 "the input, the counter is started"
 msgstr ""
+"Siempre que haya un cambio en  \n"
+"la entrada, se arranca el contador"
 
 #: translation.js:761
 msgid ""
@@ -2574,6 +2594,9 @@ msgid ""
 "value, the input is considered stable  \n"
 "and it is captured"
 msgstr ""
+"Si el contador alcanza su máximo  \n"
+"valor, la entrada se considera estable  \n"
+"y se captura"
 
 #: translation.js:762
 msgid ""
@@ -2584,6 +2607,12 @@ msgid ""
 "IF more time is needed for debouncing,  \n"
 "use a counter with more bits (17, 18...)"
 msgstr ""
+"### Cálculo de tiempo\n"
+"\n"
+"Para CLK=12MHZ, un contador de 16 bits alcanza su  \n"
+"valor máximo cada 2 ** 16 * 1/F = 5.5ms aprox  \n"
+"Si se necesita más tiempo para el antirrebots,  \n"
+"usa un contador con más bits (17, 18...)"
 
 #: translation.js:763
 msgid ""
@@ -2594,36 +2623,44 @@ msgid ""
 "aprox. When a value is stable it is  \n"
 "captured on the output flip-flop"
 msgstr ""
+"## Antirrebotes  \n"
+"\n"
+"Un valor se considera estable cuando  \n"
+"no hay cambios durante 5.5ms  aprox  \n"
+"Cuando un valor es estable se captura  \n"
+"en el biestable"
 
 #: translation.js:764
-#, fuzzy
 msgid "Stable output"
-msgstr "Habilitar la entrada"
+msgstr "Salida estable"
 
 #: translation.js:765
 msgid "Counter"
-msgstr ""
+msgstr "Contador"
 
 #: translation.js:766
 msgid "Initial value"
-msgstr ""
+msgstr "Valor inicial"
 
 #: translation.js:767
 msgid ""
 "Reset input: Active high  \n"
 "When rst = 1, the DFF is reset to 0"
 msgstr ""
+"Entrada de reset: Activa a nivel alto  \n"
+"Cuando rst = 1, el biestable se inicializa a 0"
 
 #: translation.js:768
-#, fuzzy
 msgid "Data input"
-msgstr "Habilitar la entrada"
+msgstr "Entrada de datos"
 
 #: translation.js:769
 msgid ""
 "Initial default  \n"
 "value: 0"
 msgstr ""
+"Valor inicial por  \n"
+"defecto: 0"
 
 #: translation.js:770
 msgid ""
@@ -2633,6 +2670,11 @@ msgid ""
 "detected on the  \n"
 "input signal"
 msgstr ""
+"## Detector de flancos\n"
+"\n"
+"Se genera un pulso de un ciclo cuando un flanco (de subada o bajada) se "
+"detecta en  \n"
+"la señal de entrada"
 
 #: translation.js:771
 msgid ""
@@ -2640,10 +2682,12 @@ msgid ""
 "previous 0, or if the current value is 0 and the  \n"
 "previous 1\n"
 msgstr ""
+"La salida es 1 si el valor actua es 1 y el previo 0,  \n"
+"o si el valor actual es 0 y el previo 1\n"
 
 #: translation.js:772
 msgid "In any other case the output is 0"
-msgstr ""
+msgstr "En cualquier otro caso la salida es 0"
 
 #: translation.js:773
 msgid ""
@@ -2652,9 +2696,12 @@ msgid ""
 "When k=1, it act as a not gate\n"
 "(The output is the inverse of the input)"
 msgstr ""
+"Cuando k=0, funciona como un cable  \n"
+"(La salida es igual a la entrada)  \n"
+"Cuando k=1, actúa como una puerta NOT\n"
+"(La salida es la inversa de la entrada)"
 
 #: translation.js:774
-#, fuzzy
 msgid ""
 "### Truth table for XOR\n"
 "\n"
@@ -2665,41 +2712,44 @@ msgid ""
 "| 1 | 0     |  1     | Not      |\n"
 "| 1 | 1     |  0     | Not      |"
 msgstr ""
-"## Tabla de verdad de la OR\n"
+"### Tabla de verdad para XOR\n"
 "\n"
-"| i1  | i0  | output |\n"
-"|-----|-----|--------|\n"
-"| 0   |  0  |   0    |\n"
-"| 0   |  1  |   1   |\n"
-"| 1   |  0  |   1    |\n"
-"| 1   |  1  |   1    |"
+"| k | Entrada | Salida | Función |\n"
+"|---|-------|--------|----------|\n"
+"| 0 | 0     |  0     | cable     |\n"
+"| 0 | 1     |  1     | cable    |\n"
+"| 1 | 0     |  1     | Not      |\n"
+"| 1 | 1     |  0     | Not      |"
 
 #: translation.js:775
 msgid "Channel B"
-msgstr ""
+msgstr "Canal B"
 
 #: translation.js:776
 msgid "Channel A"
-msgstr ""
+msgstr "Canal A"
 
 #: translation.js:777
 msgid ""
 "Byte 0  \n"
 "(least significant)  "
 msgstr ""
+"Byte 0  \n"
+"(Menos significativo)  "
 
 #: translation.js:778
 msgid "Mux 2-1"
-msgstr ""
+msgstr "Mux 2-1"
 
 #: translation.js:779
 msgid ""
 "D Flip-flip\n"
 "(System)"
 msgstr ""
+"Biestable D\n"
+"(Sistema)"
 
 #: translation.js:782
-#, fuzzy
 msgid ""
 "# AND-Op2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -2707,7 +2757,7 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# AND-Op3: Comprobación manual con  pulsadores y  LEDs  \n"
+"# AND-Op2: Comprobación manual con  pulsadores y  LEDs  \n"
 "\n"
 "La operación AND se aplica entre los 3 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"
@@ -2994,9 +3044,8 @@ msgid "08-bits"
 msgstr "08-bits"
 
 #: translation.js:842
-#, fuzzy
 msgid "16-bits"
-msgstr "06-bits"
+msgstr "16-bits"
 
 #: translation.js:844 translation.js:847 translation.js:850 translation.js:853
 #: translation.js:857 translation.js:861 translation.js:865 translation.js:869
@@ -3111,30 +3160,26 @@ msgstr ""
 "Las 8 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:874
-#, fuzzy
 msgid "Bus16-Join-1-15: Join the two buses into a 16-bits Bus"
-msgstr "Bus6-Join-4-2: Agrupar los dos buses en uno  de 6 bits"
+msgstr "Bus16-join-1-15: Unir dos buses en un bus de 16 bits"
 
 #: translation.js:875
-#, fuzzy
 msgid "15bits constant value: 0"
-msgstr "Valor constante 0 de 5 bits"
+msgstr "Valor constante de 15 bits: 0"
 
 #: translation.js:876
-#, fuzzy
 msgid "Generic: 15-bits generic constant"
-msgstr "Generic: Constantes genéricas de 5 bits (0-31)"
+msgstr "Generic: Constante genérica de 15-bits"
 
 #: translation.js:877
-#, fuzzy
 msgid ""
 "# Not-x16 gate: Manual testing with pushbuttons and LEDs\n"
 "\n"
 "All the inputs are inverted (negaive logic) and displayed on the LEDs  "
 msgstr ""
-"# Puerta Not-x6: Comprobación manual con un pulsador y  LEDs\n"
+"# Puerta Not-x16: Comprobación manual con un pulsador y  LEDs\n"
 "\n"
-"Las 6 entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
+"Todas las entradas se invierten (Lógica negativa) y se muestran en los LEDs  "
 
 #: translation.js:879
 msgid "Or-op"
@@ -3254,9 +3299,8 @@ msgstr ""
 "El LED se enciende cuando el botón SW1 , el SW2 o ambos se aprietan"
 
 #: translation.js:918
-#, fuzzy
 msgid "Or-op-16"
-msgstr "Or-op-6"
+msgstr "Or-op-16"
 
 #: translation.js:919
 msgid "Or-op-2"
@@ -3287,7 +3331,6 @@ msgid "or-op-7"
 msgstr "or-op-7"
 
 #: translation.js:928
-#, fuzzy
 msgid ""
 "# OR-Op16: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -3295,7 +3338,7 @@ msgid ""
 "constant  \n"
 "number. The result is shown on the LEDs\n"
 msgstr ""
-"# OR-Op8: Comprobación manual con dos pulsadores y dos LEDs  \n"
+"# OR-Op16: Comprobación manual con dos pulsadores y dos LEDs  \n"
 "\n"
 "La operación OR se aplica entre los 8 bits que llegan de los pulsadores  \n"
 "y un número constante. El resultado se muestra en los LEDs\n"

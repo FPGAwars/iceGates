@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/100) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/99) |
 
 ## Blocks
 * **And**
@@ -104,6 +104,8 @@ For installing and using this colection in Icestudio follow these steps:
   * Nor
   * **Blocks**
     * Nor
+  * **Nor-Bus**
+    * Nor-bus4
 * **Not**
   * Not-x02
   * Not-x03
@@ -140,6 +142,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Or7
     * Or8
   * **Or-Bus**
+    * Or-bus16
     * Or-bus2
     * Or-bus3
     * Or-bus4

@@ -352,6 +352,8 @@ gettext('Xor-op3');
 gettext('XOR gate: 3-bits input xor gate. Verilog implementation');
 gettext('Xor-op4');
 gettext('XOR gate: 4-bits input xor gate. Verilog implementation');
+gettext('Xor-op8');
+gettext('XOR gate: 8-bits input xor gate. Verilog implementation');
 gettext('Xor-op2');
 gettext('Xor-op3');
 gettext('XOR-Op3: Xor operation between two numbers of 3 bits');

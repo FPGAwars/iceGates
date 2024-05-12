@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/99) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/98) |
 
 ## Blocks
 * **And**
@@ -75,6 +75,7 @@ For installing and using this colection in Icestudio follow these steps:
     * And-Op-16
     * And-Op-2
     * And-Op-3
+    * And-Op-32
     * And-Op-4
     * And-Op-5
     * And-Op-6
@@ -162,6 +163,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Or-Op-16
     * Or-Op-2
     * Or-Op-3
+    * Or-Op-32
     * Or-Op-4
     * Or-Op-5
     * Or-Op-6

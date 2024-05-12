@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/98) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/97) |
 
 ## Blocks
 * **And**
@@ -115,6 +115,8 @@ For installing and using this colection in Icestudio follow these steps:
   * Not-x06
   * Not-x07
   * Not-x08
+  * Not-x11
+  * Not-x12
   * Not-x16
   * Not-x32
   * Not
